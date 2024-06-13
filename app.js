@@ -19,7 +19,7 @@ connectToDB();
 // Middlewares
 
 const corOptions = {
-  origin: ["https://water-billing-72y7.onrender.com/", "http://localhost:4000"],
+  origin: ["https://water-billing-72y7.onrender.com/", 'http://127.0.0.1:5500'],
   methods: ["GET", "POST", "PUT", "DELETE"],
 };
 app.use(cors(corOptions));
