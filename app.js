@@ -1,7 +1,7 @@
 const express = require("express");
+const cors = require("cors");
 const { connectToDB } = require("./config/db");
 require("dotenv").config();
-const cors = require("cors");
 const { globalErrorHandler } = require("./middlewares/error.middleware");
 
 // Importing routes
@@ -19,10 +19,8 @@ connectToDB();
 // Middlewares
 app.use(
   cors({
-    origin: [
-      "https://water-billing-72y7.onrender.com",
-      "http://127.0.0.1:5500",
-    ],
+    origin: ["https://water-billing-72y7.onrender.com"],
+    methods: ["GET", "POST", "PUT", "DELETE"],
   })
 );
 app.use(express.json());
