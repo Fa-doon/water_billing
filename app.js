@@ -17,8 +17,12 @@ const PORT = process.env.PORT || 4000;
 connectToDB();
 
 // Middlewares
-// Configure cors with options
-app.use(cors());
+
+const corOptions = {
+  origin: ["https://water-billing-72y7.onrender.com/", "http://localhost:4000"],
+  methods: ["GET", "POST", "PUT", "DELETE"],
+};
+app.use(cors(corOptions));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
