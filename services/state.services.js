@@ -18,7 +18,6 @@ const getAllStates = async () => {
       statusCode: 200,
     };
   } catch (error) {
-    console.log("An error occured", error);
     throw error;
   }
 };

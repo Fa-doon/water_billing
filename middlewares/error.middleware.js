@@ -9,8 +9,6 @@ const globalErrorHandler = async (err, req, res, next) => {
     message = err.message || message;
   }
 
-  console.log(err);
-
   res.status(statusCode).json({
     message,
   });

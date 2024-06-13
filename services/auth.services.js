@@ -47,7 +47,6 @@ const loginAdmin = async (adminDetails) => {
       statusCode: 201,
     };
   } catch (error) {
-    console.log("An error occured", error);
     throw error;
   }
 };

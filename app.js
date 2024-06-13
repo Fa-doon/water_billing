@@ -19,7 +19,7 @@ connectToDB();
 // Middlewares
 app.use(
   cors({
-    origin: ["https://water-billing-72y7.onrender.com"],
+    origin: "*",
     methods: ["GET", "POST", "PUT", "DELETE"],
   })
 );

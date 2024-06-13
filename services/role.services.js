@@ -16,7 +16,6 @@ const createRole = async (roleData) => {
       statusCode: 201,
     };
   } catch (error) {
-    console.log("An error occured", error);
     throw error;
   }
 };
@@ -39,7 +38,6 @@ const getAllRoles = async () => {
       statusCode: 200,
     };
   } catch (error) {
-    console.log("An error occured", error);
     throw error;
   }
 };
@@ -57,7 +55,6 @@ const getRoleById = async (roleId) => {
       statusCode: 200,
     };
   } catch (error) {
-    console.log("An error occured", error);
     throw error;
   }
 };
@@ -75,7 +72,6 @@ const getRoleByRoleName = async (roleName) => {
       statusCode: 200,
     };
   } catch (error) {
-    console.log("An error occured", error);
     throw error;
   }
 };
@@ -94,7 +90,6 @@ const updateRole = async (roleId, updateDetails) => {
       statusCode: 200,
     };
   } catch (error) {
-    console.log("An error occured", error);
     throw error;
   }
 };
@@ -113,7 +108,6 @@ const deleteRole = async (roleId) => {
       statusCode: 200,
     };
   } catch (error) {
-    console.log("An error occured", error);
     throw error;
   }
 };
