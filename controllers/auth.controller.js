@@ -5,11 +5,11 @@ const loginAdmin = async (req, res, next) => {
   try {
     const body = req.body;
 
-    const user = await authService.loginAdmin(body);
+    const userDetails = await authService.loginAdmin(body);
     return res.status(user.statusCode).json({
-      message: user.message,
-      token: user.token,
-      data: user.data,
+      message: userDetails.message,
+      token: userDetails.token,
+      user: userDetails.data,
     });
   } catch (error) {
     errorHandler(error, res, next);
