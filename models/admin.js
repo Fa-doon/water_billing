@@ -29,13 +29,13 @@ module.exports = (sequelize, DataTypes) => {
           key: "id",
         },
         onUpdate: "CASCADE",
-        onDelete: "CASCADE",
+        onDelete: "RESTRICT",
       },
     },
     {
       sequelize,
       modelName: "Admin",
-      timestamps: true
+      timestamps: true,
     }
   );
 

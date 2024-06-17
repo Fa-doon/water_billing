@@ -43,8 +43,7 @@ const getRoleById = async (req, res, next) => {
 
 const getRoleByRoleName = async (req, res, next) => {
   try {
-    const roleName = req.params.roleName;
-
+    const { roleName } = req.params
     const role = await roleService.getRoleByRoleName(roleName);
     return res.status(role.statusCode).json({
       message: role.message,

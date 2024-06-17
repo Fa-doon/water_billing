@@ -3,7 +3,6 @@ const config = require("./config");
 
 const connectToDB = async () => {
   const sequelize = new Sequelize(config.production);
-
   try {
     await sequelize.authenticate();
     console.log(`Database connection successful`);

@@ -15,12 +15,13 @@ module.exports = {
       },
       state_id: {
         type: Sequelize.INTEGER,
+        allowNull: false,
         references: {
           model: "States",
           key: "id",
         },
         onUpdate: "CASCADE",
-        onDelete: "SET NULL",
+        onDelete: "RESTRICT",
       },
       createdAt: {
         allowNull: false,

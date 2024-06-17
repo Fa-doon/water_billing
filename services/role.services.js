@@ -1,5 +1,6 @@
 const { Role } = require("../models");
 const { CustomError } = require("../utils/customError");
+const { Sequelize  } = require("sequelize");
 
 const createRole = async (roleData) => {
   try {
@@ -61,7 +62,18 @@ const getRoleById = async (roleId) => {
 
 const getRoleByRoleName = async (roleName) => {
   try {
-    const role = await Role.findOne({ where: { name: roleName } });
+    const input = roleName.replace(/\s+/g, "").toLowerCase();
+    const role = await Role.findOne({
+      where: Sequelize.where(
+        Sequelize.fn(
+          "replace",
+          Sequelize.fn("lower", Sequelize.col("name")),
+          " ",
+          ""
+        ),
+        input
+      ),
+    });
     if (!role) {
       throw new CustomError(`Role ${roleName} not found`, 404);
     }
@@ -72,6 +84,7 @@ const getRoleByRoleName = async (roleName) => {
       statusCode: 200,
     };
   } catch (error) {
+    console.log("Error getting role name", error);
     throw error;
   }
 };

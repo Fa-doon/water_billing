@@ -1,0 +1,5406 @@
+[
+    {
+      "id_lga": 1,
+      "lga": "ABA NORTH",
+      "lga_code": "01",
+      "state_id": 1,
+      "lga_id": 1
+    },
+    {
+      "id_lga": 2,
+      "lga": "ABA SOUTH",
+      "lga_code": "02",
+      "state_id": 1,
+      "lga_id": 2
+    },
+    {
+      "id_lga": 3,
+      "lga": "AROCHUKWU",
+      "lga_code": "03",
+      "state_id": 1,
+      "lga_id": 3
+    },
+    {
+      "id_lga": 4,
+      "lga": "BENDE",
+      "lga_code": "04",
+      "state_id": 1,
+      "lga_id": 4
+    },
+    {
+      "id_lga": 5,
+      "lga": "IKWUANO",
+      "lga_code": "05",
+      "state_id": 1,
+      "lga_id": 5
+    },
+    {
+      "id_lga": 6,
+      "lga": "ISIALA NGWA NORTH",
+      "lga_code": "06",
+      "state_id": 1,
+      "lga_id": 6
+    },
+    {
+      "id_lga": 7,
+      "lga": "ISIALA NGWA SOUTH",
+      "lga_code": "07",
+      "state_id": 1,
+      "lga_id": 7
+    },
+    {
+      "id_lga": 8,
+      "lga": "ISUIKWUATO",
+      "lga_code": "08",
+      "state_id": 1,
+      "lga_id": 8
+    },
+    {
+      "id_lga": 9,
+      "lga": "OBINGWA",
+      "lga_code": "09",
+      "state_id": 1,
+      "lga_id": 9
+    },
+    {
+      "id_lga": 10,
+      "lga": "OHAFIA",
+      "lga_code": "10",
+      "state_id": 1,
+      "lga_id": 10
+    },
+    {
+      "id_lga": 11,
+      "lga": "OSISIOMA",
+      "lga_code": "11",
+      "state_id": 1,
+      "lga_id": 11
+    },
+    {
+      "id_lga": 12,
+      "lga": "UGWUNAGBO",
+      "lga_code": "12",
+      "state_id": 1,
+      "lga_id": 12
+    },
+    {
+      "id_lga": 13,
+      "lga": "UKWA EAST",
+      "lga_code": "13",
+      "state_id": 1,
+      "lga_id": 13
+    },
+    {
+      "id_lga": 14,
+      "lga": "UKWA  WEST",
+      "lga_code": "14",
+      "state_id": 1,
+      "lga_id": 14
+    },
+    {
+      "id_lga": 15,
+      "lga": "UMUAHIA NORTH",
+      "lga_code": "15",
+      "state_id": 1,
+      "lga_id": 15
+    },
+    {
+      "id_lga": 16,
+      "lga": "UMUAHIA  SOUTH",
+      "lga_code": "16",
+      "state_id": 1,
+      "lga_id": 16
+    },
+    {
+      "id_lga": 17,
+      "lga": "UMU - NNEOCHI",
+      "lga_code": "17",
+      "state_id": 1,
+      "lga_id": 17
+    },
+    {
+      "id_lga": 18,
+      "lga": "DEMSA",
+      "lga_code": "01",
+      "state_id": 2,
+      "lga_id": 18
+    },
+    {
+      "id_lga": 19,
+      "lga": "FUFORE",
+      "lga_code": "02",
+      "state_id": 2,
+      "lga_id": 19
+    },
+    {
+      "id_lga": 20,
+      "lga": "GANYE",
+      "lga_code": "03",
+      "state_id": 2,
+      "lga_id": 20
+    },
+    {
+      "id_lga": 21,
+      "lga": "GIRE 1",
+      "lga_code": "04",
+      "state_id": 2,
+      "lga_id": 21
+    },
+    {
+      "id_lga": 22,
+      "lga": "GOMBI",
+      "lga_code": "05",
+      "state_id": 2,
+      "lga_id": 22
+    },
+    {
+      "id_lga": 23,
+      "lga": "GUYUK",
+      "lga_code": "06",
+      "state_id": 2,
+      "lga_id": 23
+    },
+    {
+      "id_lga": 24,
+      "lga": "HONG",
+      "lga_code": "07",
+      "state_id": 2,
+      "lga_id": 24
+    },
+    {
+      "id_lga": 25,
+      "lga": "JADA",
+      "lga_code": "08",
+      "state_id": 2,
+      "lga_id": 25
+    },
+    {
+      "id_lga": 26,
+      "lga": "LAMURDE",
+      "lga_code": "09",
+      "state_id": 2,
+      "lga_id": 26
+    },
+    {
+      "id_lga": 27,
+      "lga": "MADAGALI",
+      "lga_code": "10",
+      "state_id": 2,
+      "lga_id": 27
+    },
+    {
+      "id_lga": 28,
+      "lga": "MAIHA",
+      "lga_code": "11",
+      "state_id": 2,
+      "lga_id": 28
+    },
+    {
+      "id_lga": 29,
+      "lga": "MAYO - BELWA",
+      "lga_code": "12",
+      "state_id": 2,
+      "lga_id": 29
+    },
+    {
+      "id_lga": 30,
+      "lga": "MICHIKA",
+      "lga_code": "13",
+      "state_id": 2,
+      "lga_id": 30
+    },
+    {
+      "id_lga": 31,
+      "lga": "MUBI NORTH",
+      "lga_code": "14",
+      "state_id": 2,
+      "lga_id": 31
+    },
+    {
+      "id_lga": 32,
+      "lga": "MUBI SOUTH",
+      "lga_code": "15",
+      "state_id": 2,
+      "lga_id": 32
+    },
+    {
+      "id_lga": 33,
+      "lga": "NUMAN",
+      "lga_code": "16",
+      "state_id": 2,
+      "lga_id": 33
+    },
+    {
+      "id_lga": 34,
+      "lga": "SHELLENG",
+      "lga_code": "17",
+      "state_id": 2,
+      "lga_id": 34
+    },
+    {
+      "id_lga": 35,
+      "lga": "SONG",
+      "lga_code": "18",
+      "state_id": 2,
+      "lga_id": 35
+    },
+    {
+      "id_lga": 36,
+      "lga": "TOUNGO",
+      "lga_code": "19",
+      "state_id": 2,
+      "lga_id": 36
+    },
+    {
+      "id_lga": 37,
+      "lga": "YOLA NORTH",
+      "lga_code": "20",
+      "state_id": 2,
+      "lga_id": 37
+    },
+    {
+      "id_lga": 38,
+      "lga": "YOLA SOUTH",
+      "lga_code": "21",
+      "state_id": 2,
+      "lga_id": 38
+    },
+    {
+      "id_lga": 39,
+      "lga": "ABAK",
+      "lga_code": "01",
+      "state_id": 3,
+      "lga_id": 39
+    },
+    {
+      "id_lga": 40,
+      "lga": "EASTERN OBOLO",
+      "lga_code": "02",
+      "state_id": 3,
+      "lga_id": 40
+    },
+    {
+      "id_lga": 41,
+      "lga": "EKET",
+      "lga_code": "03",
+      "state_id": 3,
+      "lga_id": 41
+    },
+    {
+      "id_lga": 42,
+      "lga": "ESIT EKET (UQUO)",
+      "lga_code": "04",
+      "state_id": 3,
+      "lga_id": 42
+    },
+    {
+      "id_lga": 43,
+      "lga": "ESSIEN UDIM",
+      "lga_code": "05",
+      "state_id": 3,
+      "lga_id": 43
+    },
+    {
+      "id_lga": 44,
+      "lga": "ETIM EKPO",
+      "lga_code": "06",
+      "state_id": 3,
+      "lga_id": 44
+    },
+    {
+      "id_lga": 45,
+      "lga": "ETINAN",
+      "lga_code": "07",
+      "state_id": 3,
+      "lga_id": 45
+    },
+    {
+      "id_lga": 46,
+      "lga": "IBENO",
+      "lga_code": "08",
+      "state_id": 3,
+      "lga_id": 46
+    },
+    {
+      "id_lga": 47,
+      "lga": "IBESIKPO ASUTAN",
+      "lga_code": "09",
+      "state_id": 3,
+      "lga_id": 47
+    },
+    {
+      "id_lga": 48,
+      "lga": "IBIONO IBOM",
+      "lga_code": "10",
+      "state_id": 3,
+      "lga_id": 48
+    },
+    {
+      "id_lga": 49,
+      "lga": "IKA",
+      "lga_code": "11",
+      "state_id": 3,
+      "lga_id": 49
+    },
+    {
+      "id_lga": 50,
+      "lga": "IKONO",
+      "lga_code": "12",
+      "state_id": 3,
+      "lga_id": 50
+    },
+    {
+      "id_lga": 51,
+      "lga": "IKOT ABASI",
+      "lga_code": "13",
+      "state_id": 3,
+      "lga_id": 51
+    },
+    {
+      "id_lga": 52,
+      "lga": "IKOT EKPENE",
+      "lga_code": "14",
+      "state_id": 3,
+      "lga_id": 52
+    },
+    {
+      "id_lga": 53,
+      "lga": "INI",
+      "lga_code": "15",
+      "state_id": 3,
+      "lga_id": 53
+    },
+    {
+      "id_lga": 54,
+      "lga": "ITU",
+      "lga_code": "16",
+      "state_id": 3,
+      "lga_id": 54
+    },
+    {
+      "id_lga": 55,
+      "lga": "MBO",
+      "lga_code": "17",
+      "state_id": 3,
+      "lga_id": 55
+    },
+    {
+      "id_lga": 56,
+      "lga": "MKPAT ENIN",
+      "lga_code": "18",
+      "state_id": 3,
+      "lga_id": 56
+    },
+    {
+      "id_lga": 57,
+      "lga": "NSIT ATAI",
+      "lga_code": "19",
+      "state_id": 3,
+      "lga_id": 57
+    },
+    {
+      "id_lga": 58,
+      "lga": "NSIT IBOM",
+      "lga_code": "20",
+      "state_id": 3,
+      "lga_id": 58
+    },
+    {
+      "id_lga": 59,
+      "lga": "NSIT UBIUM",
+      "lga_code": "21",
+      "state_id": 3,
+      "lga_id": 59
+    },
+    {
+      "id_lga": 60,
+      "lga": "OBOT AKARA",
+      "lga_code": "22",
+      "state_id": 3,
+      "lga_id": 60
+    },
+    {
+      "id_lga": 61,
+      "lga": "OKOBO",
+      "lga_code": "23",
+      "state_id": 3,
+      "lga_id": 61
+    },
+    {
+      "id_lga": 62,
+      "lga": "ONNA",
+      "lga_code": "24",
+      "state_id": 3,
+      "lga_id": 62
+    },
+    {
+      "id_lga": 63,
+      "lga": "ORON",
+      "lga_code": "25",
+      "state_id": 3,
+      "lga_id": 63
+    },
+    {
+      "id_lga": 64,
+      "lga": "ORUK ANAM",
+      "lga_code": "26",
+      "state_id": 3,
+      "lga_id": 64
+    },
+    {
+      "id_lga": 65,
+      "lga": "UDUNG UKO",
+      "lga_code": "27",
+      "state_id": 3,
+      "lga_id": 65
+    },
+    {
+      "id_lga": 66,
+      "lga": "UKANAFUN",
+      "lga_code": "28",
+      "state_id": 3,
+      "lga_id": 66
+    },
+    {
+      "id_lga": 67,
+      "lga": "URUAN",
+      "lga_code": "29",
+      "state_id": 3,
+      "lga_id": 67
+    },
+    {
+      "id_lga": 68,
+      "lga": "URUE OFFONG ORUKO",
+      "lga_code": "30",
+      "state_id": 3,
+      "lga_id": 68
+    },
+    {
+      "id_lga": 69,
+      "lga": "UYO",
+      "lga_code": "31",
+      "state_id": 3,
+      "lga_id": 69
+    },
+    {
+      "id_lga": 70,
+      "lga": "AGUATA",
+      "lga_code": "01",
+      "state_id": 4,
+      "lga_id": 70
+    },
+    {
+      "id_lga": 71,
+      "lga": "AYAMELUM",
+      "lga_code": "02",
+      "state_id": 4,
+      "lga_id": 71
+    },
+    {
+      "id_lga": 72,
+      "lga": "ANAMBRA EAST",
+      "lga_code": "03",
+      "state_id": 4,
+      "lga_id": 72
+    },
+    {
+      "id_lga": 73,
+      "lga": "ANAMBRA WEST",
+      "lga_code": "04",
+      "state_id": 4,
+      "lga_id": 73
+    },
+    {
+      "id_lga": 74,
+      "lga": "ANAOCHA",
+      "lga_code": "05",
+      "state_id": 4,
+      "lga_id": 74
+    },
+    {
+      "id_lga": 75,
+      "lga": "AWKA NORTH",
+      "lga_code": "06",
+      "state_id": 4,
+      "lga_id": 75
+    },
+    {
+      "id_lga": 76,
+      "lga": "AWKA SOUTH",
+      "lga_code": "07",
+      "state_id": 4,
+      "lga_id": 76
+    },
+    {
+      "id_lga": 77,
+      "lga": "DUNUKOFIA",
+      "lga_code": "08",
+      "state_id": 4,
+      "lga_id": 77
+    },
+    {
+      "id_lga": 78,
+      "lga": "EKWUSIGO",
+      "lga_code": "09",
+      "state_id": 4,
+      "lga_id": 78
+    },
+    {
+      "id_lga": 79,
+      "lga": "IDEMILI NORTH",
+      "lga_code": "10",
+      "state_id": 4,
+      "lga_id": 79
+    },
+    {
+      "id_lga": 80,
+      "lga": "IDEMILI-SOUTH",
+      "lga_code": "11",
+      "state_id": 4,
+      "lga_id": 80
+    },
+    {
+      "id_lga": 81,
+      "lga": "IHALA",
+      "lga_code": "12",
+      "state_id": 4,
+      "lga_id": 81
+    },
+    {
+      "id_lga": 82,
+      "lga": "NJIKOKA",
+      "lga_code": "13",
+      "state_id": 4,
+      "lga_id": 82
+    },
+    {
+      "id_lga": 83,
+      "lga": "NNEWI NORTH",
+      "lga_code": "14",
+      "state_id": 4,
+      "lga_id": 83
+    },
+    {
+      "id_lga": 84,
+      "lga": "NNEWI SOUTH",
+      "lga_code": "15",
+      "state_id": 4,
+      "lga_id": 84
+    },
+    {
+      "id_lga": 85,
+      "lga": "OGBARU",
+      "lga_code": "16",
+      "state_id": 4,
+      "lga_id": 85
+    },
+    {
+      "id_lga": 86,
+      "lga": "ONITSHA-NORTH",
+      "lga_code": "17",
+      "state_id": 4,
+      "lga_id": 86
+    },
+    {
+      "id_lga": 87,
+      "lga": "ONITSHA -SOUTH",
+      "lga_code": "18",
+      "state_id": 4,
+      "lga_id": 87
+    },
+    {
+      "id_lga": 88,
+      "lga": "ORUMBA NORTH",
+      "lga_code": "19",
+      "state_id": 4,
+      "lga_id": 88
+    },
+    {
+      "id_lga": 89,
+      "lga": "ORUMBA  SOUTH",
+      "lga_code": "20",
+      "state_id": 4,
+      "lga_id": 89
+    },
+    {
+      "id_lga": 90,
+      "lga": "OYI",
+      "lga_code": "21",
+      "state_id": 4,
+      "lga_id": 90
+    },
+    {
+      "id_lga": 91,
+      "lga": "ALKALERI",
+      "lga_code": "01",
+      "state_id": 5,
+      "lga_id": 91
+    },
+    {
+      "id_lga": 92,
+      "lga": "BAUCHI",
+      "lga_code": "02",
+      "state_id": 5,
+      "lga_id": 92
+    },
+    {
+      "id_lga": 93,
+      "lga": "BOGORO",
+      "lga_code": "03",
+      "state_id": 5,
+      "lga_id": 93
+    },
+    {
+      "id_lga": 94,
+      "lga": "DAMBAM",
+      "lga_code": "04",
+      "state_id": 5,
+      "lga_id": 94
+    },
+    {
+      "id_lga": 95,
+      "lga": "DARAZO",
+      "lga_code": "05",
+      "state_id": 5,
+      "lga_id": 95
+    },
+    {
+      "id_lga": 96,
+      "lga": "DASS",
+      "lga_code": "06",
+      "state_id": 5,
+      "lga_id": 96
+    },
+    {
+      "id_lga": 97,
+      "lga": "GAMAWA",
+      "lga_code": "07",
+      "state_id": 5,
+      "lga_id": 97
+    },
+    {
+      "id_lga": 98,
+      "lga": "GANJUWA",
+      "lga_code": "08",
+      "state_id": 5,
+      "lga_id": 98
+    },
+    {
+      "id_lga": 99,
+      "lga": "GIADE",
+      "lga_code": "09",
+      "state_id": 5,
+      "lga_id": 99
+    },
+    {
+      "id_lga": 100,
+      "lga": "ITAS/GADAU",
+      "lga_code": "10",
+      "state_id": 5,
+      "lga_id": 100
+    },
+    {
+      "id_lga": 101,
+      "lga": "JAMA'ARE",
+      "lga_code": "11",
+      "state_id": 5,
+      "lga_id": 101
+    },
+    {
+      "id_lga": 102,
+      "lga": "KATAGUM",
+      "lga_code": "12",
+      "state_id": 5,
+      "lga_id": 102
+    },
+    {
+      "id_lga": 103,
+      "lga": "KIRFI",
+      "lga_code": "13",
+      "state_id": 5,
+      "lga_id": 103
+    },
+    {
+      "id_lga": 104,
+      "lga": "MISAU",
+      "lga_code": "14",
+      "state_id": 5,
+      "lga_id": 104
+    },
+    {
+      "id_lga": 105,
+      "lga": "NINGI",
+      "lga_code": "15",
+      "state_id": 5,
+      "lga_id": 105
+    },
+    {
+      "id_lga": 106,
+      "lga": "SHIRA",
+      "lga_code": "16",
+      "state_id": 5,
+      "lga_id": 106
+    },
+    {
+      "id_lga": 107,
+      "lga": "TAFAWA BALEWA",
+      "lga_code": "17",
+      "state_id": 5,
+      "lga_id": 107
+    },
+    {
+      "id_lga": 108,
+      "lga": "TORO",
+      "lga_code": "18",
+      "state_id": 5,
+      "lga_id": 108
+    },
+    {
+      "id_lga": 109,
+      "lga": "WARJI",
+      "lga_code": "19",
+      "state_id": 5,
+      "lga_id": 109
+    },
+    {
+      "id_lga": 110,
+      "lga": "ZAKI",
+      "lga_code": "20",
+      "state_id": 5,
+      "lga_id": 110
+    },
+    {
+      "id_lga": 111,
+      "lga": "BRASS",
+      "lga_code": "01",
+      "state_id": 6,
+      "lga_id": 111
+    },
+    {
+      "id_lga": 112,
+      "lga": "EKEREMOR",
+      "lga_code": "02",
+      "state_id": 6,
+      "lga_id": 112
+    },
+    {
+      "id_lga": 113,
+      "lga": "KOLOKUMA/OPOKUMA",
+      "lga_code": "03",
+      "state_id": 6,
+      "lga_id": 113
+    },
+    {
+      "id_lga": 114,
+      "lga": "NEMBE",
+      "lga_code": "04",
+      "state_id": 6,
+      "lga_id": 114
+    },
+    {
+      "id_lga": 115,
+      "lga": "OGBIA",
+      "lga_code": "05",
+      "state_id": 6,
+      "lga_id": 115
+    },
+    {
+      "id_lga": 116,
+      "lga": "SAGBAMA",
+      "lga_code": "06",
+      "state_id": 6,
+      "lga_id": 116
+    },
+    {
+      "id_lga": 117,
+      "lga": "SOUTHERN IJAW",
+      "lga_code": "07",
+      "state_id": 6,
+      "lga_id": 117
+    },
+    {
+      "id_lga": 118,
+      "lga": "YENAGOA",
+      "lga_code": "08",
+      "state_id": 6,
+      "lga_id": 118
+    },
+    {
+      "id_lga": 119,
+      "lga": "ADO",
+      "lga_code": "01",
+      "state_id": 7,
+      "lga_id": 119
+    },
+    {
+      "id_lga": 120,
+      "lga": "AGATU",
+      "lga_code": "02",
+      "state_id": 7,
+      "lga_id": 120
+    },
+    {
+      "id_lga": 121,
+      "lga": "APA",
+      "lga_code": "03",
+      "state_id": 7,
+      "lga_id": 121
+    },
+    {
+      "id_lga": 122,
+      "lga": "BURUKU",
+      "lga_code": "04",
+      "state_id": 7,
+      "lga_id": 122
+    },
+    {
+      "id_lga": 123,
+      "lga": "GBOKO",
+      "lga_code": "05",
+      "state_id": 7,
+      "lga_id": 123
+    },
+    {
+      "id_lga": 124,
+      "lga": "GUMA",
+      "lga_code": "06",
+      "state_id": 7,
+      "lga_id": 124
+    },
+    {
+      "id_lga": 125,
+      "lga": "GWER EAST",
+      "lga_code": "07",
+      "state_id": 7,
+      "lga_id": 125
+    },
+    {
+      "id_lga": 126,
+      "lga": "GWER WEST",
+      "lga_code": "08",
+      "state_id": 7,
+      "lga_id": 126
+    },
+    {
+      "id_lga": 127,
+      "lga": "KATSINA-ALA",
+      "lga_code": "09",
+      "state_id": 7,
+      "lga_id": 127
+    },
+    {
+      "id_lga": 128,
+      "lga": "KONSHISHA",
+      "lga_code": "10",
+      "state_id": 7,
+      "lga_id": 128
+    },
+    {
+      "id_lga": 129,
+      "lga": "KWANDE",
+      "lga_code": "11",
+      "state_id": 7,
+      "lga_id": 129
+    },
+    {
+      "id_lga": 130,
+      "lga": "LOGO",
+      "lga_code": "12",
+      "state_id": 7,
+      "lga_id": 130
+    },
+    {
+      "id_lga": 131,
+      "lga": "MAKURDI",
+      "lga_code": "13",
+      "state_id": 7,
+      "lga_id": 131
+    },
+    {
+      "id_lga": 132,
+      "lga": "OBI",
+      "lga_code": "14",
+      "state_id": 7,
+      "lga_id": 132
+    },
+    {
+      "id_lga": 133,
+      "lga": "OGBADIBO",
+      "lga_code": "15",
+      "state_id": 7,
+      "lga_id": 133
+    },
+    {
+      "id_lga": 134,
+      "lga": "OJU",
+      "lga_code": "16",
+      "state_id": 7,
+      "lga_id": 134
+    },
+    {
+      "id_lga": 135,
+      "lga": "OHIMINI",
+      "lga_code": "17",
+      "state_id": 7,
+      "lga_id": 135
+    },
+    {
+      "id_lga": 136,
+      "lga": "OKPOKWU",
+      "lga_code": "18",
+      "state_id": 7,
+      "lga_id": 136
+    },
+    {
+      "id_lga": 137,
+      "lga": "OTUKPO",
+      "lga_code": "19",
+      "state_id": 7,
+      "lga_id": 137
+    },
+    {
+      "id_lga": 138,
+      "lga": "TARKA",
+      "lga_code": "20",
+      "state_id": 7,
+      "lga_id": 138
+    },
+    {
+      "id_lga": 139,
+      "lga": "UKUM",
+      "lga_code": "21",
+      "state_id": 7,
+      "lga_id": 139
+    },
+    {
+      "id_lga": 140,
+      "lga": "USHONGO",
+      "lga_code": "22",
+      "state_id": 7,
+      "lga_id": 140
+    },
+    {
+      "id_lga": 141,
+      "lga": "VANDEIKYA",
+      "lga_code": "23",
+      "state_id": 7,
+      "lga_id": 141
+    },
+    {
+      "id_lga": 142,
+      "lga": "ABADAM",
+      "lga_code": "01",
+      "state_id": 8,
+      "lga_id": 142
+    },
+    {
+      "id_lga": 143,
+      "lga": "ASKIRA / UBA",
+      "lga_code": "02",
+      "state_id": 8,
+      "lga_id": 143
+    },
+    {
+      "id_lga": 144,
+      "lga": "BAMA",
+      "lga_code": "03",
+      "state_id": 8,
+      "lga_id": 144
+    },
+    {
+      "id_lga": 145,
+      "lga": "BAYO",
+      "lga_code": "04",
+      "state_id": 8,
+      "lga_id": 145
+    },
+    {
+      "id_lga": 146,
+      "lga": "BIU",
+      "lga_code": "05",
+      "state_id": 8,
+      "lga_id": 146
+    },
+    {
+      "id_lga": 147,
+      "lga": "CHIBOK",
+      "lga_code": "06",
+      "state_id": 8,
+      "lga_id": 147
+    },
+    {
+      "id_lga": 148,
+      "lga": "DAMBOA",
+      "lga_code": "07",
+      "state_id": 8,
+      "lga_id": 148
+    },
+    {
+      "id_lga": 149,
+      "lga": "DIKWA",
+      "lga_code": "08",
+      "state_id": 8,
+      "lga_id": 149
+    },
+    {
+      "id_lga": 150,
+      "lga": "GUBIO",
+      "lga_code": "09",
+      "state_id": 8,
+      "lga_id": 150
+    },
+    {
+      "id_lga": 151,
+      "lga": "GUZAMALA",
+      "lga_code": "10",
+      "state_id": 8,
+      "lga_id": 151
+    },
+    {
+      "id_lga": 152,
+      "lga": "GWOZA",
+      "lga_code": "11",
+      "state_id": 8,
+      "lga_id": 152
+    },
+    {
+      "id_lga": 153,
+      "lga": "HAWUL",
+      "lga_code": "12",
+      "state_id": 8,
+      "lga_id": 153
+    },
+    {
+      "id_lga": 154,
+      "lga": "JERE",
+      "lga_code": "13",
+      "state_id": 8,
+      "lga_id": 154
+    },
+    {
+      "id_lga": 155,
+      "lga": "KAGA",
+      "lga_code": "14",
+      "state_id": 8,
+      "lga_id": 155
+    },
+    {
+      "id_lga": 156,
+      "lga": "KALA BALGE",
+      "lga_code": "15",
+      "state_id": 8,
+      "lga_id": 156
+    },
+    {
+      "id_lga": 157,
+      "lga": "KONDUGA",
+      "lga_code": "16",
+      "state_id": 8,
+      "lga_id": 157
+    },
+    {
+      "id_lga": 158,
+      "lga": "KUKAWA",
+      "lga_code": "17",
+      "state_id": 8,
+      "lga_id": 158
+    },
+    {
+      "id_lga": 159,
+      "lga": "KWAYA / KUSAR",
+      "lga_code": "18",
+      "state_id": 8,
+      "lga_id": 159
+    },
+    {
+      "id_lga": 160,
+      "lga": "MAFA",
+      "lga_code": "19",
+      "state_id": 8,
+      "lga_id": 160
+    },
+    {
+      "id_lga": 161,
+      "lga": "MAGUMERI",
+      "lga_code": "20",
+      "state_id": 8,
+      "lga_id": 161
+    },
+    {
+      "id_lga": 162,
+      "lga": "MAIDUGURI M. C.",
+      "lga_code": "21",
+      "state_id": 8,
+      "lga_id": 162
+    },
+    {
+      "id_lga": 163,
+      "lga": "MARTE",
+      "lga_code": "22",
+      "state_id": 8,
+      "lga_id": 163
+    },
+    {
+      "id_lga": 164,
+      "lga": "MOBBAR",
+      "lga_code": "23",
+      "state_id": 8,
+      "lga_id": 164
+    },
+    {
+      "id_lga": 165,
+      "lga": "MONGUNO",
+      "lga_code": "24",
+      "state_id": 8,
+      "lga_id": 165
+    },
+    {
+      "id_lga": 166,
+      "lga": "NGALA",
+      "lga_code": "25",
+      "state_id": 8,
+      "lga_id": 166
+    },
+    {
+      "id_lga": 167,
+      "lga": "NGANZAI",
+      "lga_code": "26",
+      "state_id": 8,
+      "lga_id": 167
+    },
+    {
+      "id_lga": 168,
+      "lga": "SHANI",
+      "lga_code": "27",
+      "state_id": 8,
+      "lga_id": 168
+    },
+    {
+      "id_lga": 169,
+      "lga": "ABI",
+      "lga_code": "01",
+      "state_id": 9,
+      "lga_id": 169
+    },
+    {
+      "id_lga": 170,
+      "lga": "AKAMKPA",
+      "lga_code": "02",
+      "state_id": 9,
+      "lga_id": 170
+    },
+    {
+      "id_lga": 171,
+      "lga": "AKPABUYO",
+      "lga_code": "03",
+      "state_id": 9,
+      "lga_id": 171
+    },
+    {
+      "id_lga": 172,
+      "lga": "BAKASSI",
+      "lga_code": "04",
+      "state_id": 9,
+      "lga_id": 172
+    },
+    {
+      "id_lga": 173,
+      "lga": "BEKWARRA",
+      "lga_code": "05",
+      "state_id": 9,
+      "lga_id": 173
+    },
+    {
+      "id_lga": 174,
+      "lga": "BIASE",
+      "lga_code": "06",
+      "state_id": 9,
+      "lga_id": 174
+    },
+    {
+      "id_lga": 175,
+      "lga": "BOKI",
+      "lga_code": "07",
+      "state_id": 9,
+      "lga_id": 175
+    },
+    {
+      "id_lga": 176,
+      "lga": "CALABAR MUNICIPALITY",
+      "lga_code": "08",
+      "state_id": 9,
+      "lga_id": 176
+    },
+    {
+      "id_lga": 177,
+      "lga": "CALABAR SOUTH",
+      "lga_code": "09",
+      "state_id": 9,
+      "lga_id": 177
+    },
+    {
+      "id_lga": 178,
+      "lga": "ETUNG",
+      "lga_code": "10",
+      "state_id": 9,
+      "lga_id": 178
+    },
+    {
+      "id_lga": 179,
+      "lga": "IKOM",
+      "lga_code": "11",
+      "state_id": 9,
+      "lga_id": 179
+    },
+    {
+      "id_lga": 180,
+      "lga": "OBANLIKU",
+      "lga_code": "12",
+      "state_id": 9,
+      "lga_id": 180
+    },
+    {
+      "id_lga": 181,
+      "lga": "OBUBRA",
+      "lga_code": "13",
+      "state_id": 9,
+      "lga_id": 181
+    },
+    {
+      "id_lga": 182,
+      "lga": "OBUDU",
+      "lga_code": "14",
+      "state_id": 9,
+      "lga_id": 182
+    },
+    {
+      "id_lga": 183,
+      "lga": "ODUKPANI",
+      "lga_code": "15",
+      "state_id": 9,
+      "lga_id": 183
+    },
+    {
+      "id_lga": 184,
+      "lga": "OGOJA",
+      "lga_code": "16",
+      "state_id": 9,
+      "lga_id": 184
+    },
+    {
+      "id_lga": 185,
+      "lga": "YAKURR",
+      "lga_code": "17",
+      "state_id": 9,
+      "lga_id": 185
+    },
+    {
+      "id_lga": 186,
+      "lga": "YALA",
+      "lga_code": "18",
+      "state_id": 9,
+      "lga_id": 186
+    },
+    {
+      "id_lga": 187,
+      "lga": "ANIOCHA NORTH",
+      "lga_code": "01",
+      "state_id": 10,
+      "lga_id": 187
+    },
+    {
+      "id_lga": 188,
+      "lga": "ANIOCHA - SOUTH",
+      "lga_code": "02",
+      "state_id": 10,
+      "lga_id": 188
+    },
+    {
+      "id_lga": 189,
+      "lga": "BOMADI",
+      "lga_code": "03",
+      "state_id": 10,
+      "lga_id": 189
+    },
+    {
+      "id_lga": 190,
+      "lga": "BURUTU",
+      "lga_code": "04",
+      "state_id": 10,
+      "lga_id": 190
+    },
+    {
+      "id_lga": 191,
+      "lga": "ETHIOPE  EAST",
+      "lga_code": "05",
+      "state_id": 10,
+      "lga_id": 191
+    },
+    {
+      "id_lga": 192,
+      "lga": "ETHIOPE  WEST",
+      "lga_code": "06",
+      "state_id": 10,
+      "lga_id": 192
+    },
+    {
+      "id_lga": 193,
+      "lga": "IKA NORTH- EAST",
+      "lga_code": "07",
+      "state_id": 10,
+      "lga_id": 193
+    },
+    {
+      "id_lga": 194,
+      "lga": "IKA - SOUTH",
+      "lga_code": "08",
+      "state_id": 10,
+      "lga_id": 194
+    },
+    {
+      "id_lga": 195,
+      "lga": "ISOKO NORTH",
+      "lga_code": "09",
+      "state_id": 10,
+      "lga_id": 195
+    },
+    {
+      "id_lga": 196,
+      "lga": "ISOKO SOUTH",
+      "lga_code": "10",
+      "state_id": 10,
+      "lga_id": 196
+    },
+    {
+      "id_lga": 197,
+      "lga": "NDOKWA EAST",
+      "lga_code": "11",
+      "state_id": 10,
+      "lga_id": 197
+    },
+    {
+      "id_lga": 198,
+      "lga": "NDOKWA WEST",
+      "lga_code": "12",
+      "state_id": 10,
+      "lga_id": 198
+    },
+    {
+      "id_lga": 199,
+      "lga": "OKPE",
+      "lga_code": "13",
+      "state_id": 10,
+      "lga_id": 199
+    },
+    {
+      "id_lga": 200,
+      "lga": "OSHIMILI - NORTH",
+      "lga_code": "14",
+      "state_id": 10,
+      "lga_id": 200
+    },
+    {
+      "id_lga": 201,
+      "lga": "OSHIMILI - SOUTH",
+      "lga_code": "15",
+      "state_id": 10,
+      "lga_id": 201
+    },
+    {
+      "id_lga": 202,
+      "lga": "PATANI",
+      "lga_code": "16",
+      "state_id": 10,
+      "lga_id": 202
+    },
+    {
+      "id_lga": 203,
+      "lga": "SAPELE",
+      "lga_code": "17",
+      "state_id": 10,
+      "lga_id": 203
+    },
+    {
+      "id_lga": 204,
+      "lga": "UDU",
+      "lga_code": "18",
+      "state_id": 10,
+      "lga_id": 204
+    },
+    {
+      "id_lga": 205,
+      "lga": "UGHELLI NORTH",
+      "lga_code": "19",
+      "state_id": 10,
+      "lga_id": 205
+    },
+    {
+      "id_lga": 206,
+      "lga": "UGHELLI SOUTH",
+      "lga_code": "20",
+      "state_id": 10,
+      "lga_id": 206
+    },
+    {
+      "id_lga": 207,
+      "lga": "UKWUANI",
+      "lga_code": "21",
+      "state_id": 10,
+      "lga_id": 207
+    },
+    {
+      "id_lga": 208,
+      "lga": "UVWIE",
+      "lga_code": "22",
+      "state_id": 10,
+      "lga_id": 208
+    },
+    {
+      "id_lga": 209,
+      "lga": "WARRI  NORTH",
+      "lga_code": "23",
+      "state_id": 10,
+      "lga_id": 209
+    },
+    {
+      "id_lga": 210,
+      "lga": "WARRI SOUTH",
+      "lga_code": "24",
+      "state_id": 10,
+      "lga_id": 210
+    },
+    {
+      "id_lga": 211,
+      "lga": "WARRI SOUTH  WEST",
+      "lga_code": "25",
+      "state_id": 10,
+      "lga_id": 211
+    },
+    {
+      "id_lga": 212,
+      "lga": "ABAKALIKI",
+      "lga_code": "01",
+      "state_id": 11,
+      "lga_id": 212
+    },
+    {
+      "id_lga": 213,
+      "lga": "AFIKPO NORTH",
+      "lga_code": "02",
+      "state_id": 11,
+      "lga_id": 213
+    },
+    {
+      "id_lga": 214,
+      "lga": "AFIKPO  SOUTH",
+      "lga_code": "03",
+      "state_id": 11,
+      "lga_id": 214
+    },
+    {
+      "id_lga": 215,
+      "lga": "EBONYI",
+      "lga_code": "04",
+      "state_id": 11,
+      "lga_id": 215
+    },
+    {
+      "id_lga": 216,
+      "lga": "EZZA NORTH",
+      "lga_code": "05",
+      "state_id": 11,
+      "lga_id": 216
+    },
+    {
+      "id_lga": 217,
+      "lga": "EZZA SOUTH",
+      "lga_code": "06",
+      "state_id": 11,
+      "lga_id": 217
+    },
+    {
+      "id_lga": 218,
+      "lga": "IKWO",
+      "lga_code": "07",
+      "state_id": 11,
+      "lga_id": 218
+    },
+    {
+      "id_lga": 219,
+      "lga": "ISHIELU",
+      "lga_code": "08",
+      "state_id": 11,
+      "lga_id": 219
+    },
+    {
+      "id_lga": 220,
+      "lga": "IVO",
+      "lga_code": "09",
+      "state_id": 11,
+      "lga_id": 220
+    },
+    {
+      "id_lga": 221,
+      "lga": "IZZI",
+      "lga_code": "10",
+      "state_id": 11,
+      "lga_id": 221
+    },
+    {
+      "id_lga": 222,
+      "lga": "OHAOZARA",
+      "lga_code": "11",
+      "state_id": 11,
+      "lga_id": 222
+    },
+    {
+      "id_lga": 223,
+      "lga": "OHAUKWU",
+      "lga_code": "12",
+      "state_id": 11,
+      "lga_id": 223
+    },
+    {
+      "id_lga": 224,
+      "lga": "ONICHA",
+      "lga_code": "13",
+      "state_id": 11,
+      "lga_id": 224
+    },
+    {
+      "id_lga": 225,
+      "lga": "AKOKO EDO",
+      "lga_code": "01",
+      "state_id": 12,
+      "lga_id": 225
+    },
+    {
+      "id_lga": 226,
+      "lga": "EGOR",
+      "lga_code": "02",
+      "state_id": 12,
+      "lga_id": 226
+    },
+    {
+      "id_lga": 227,
+      "lga": "ESAN CENTRAL",
+      "lga_code": "03",
+      "state_id": 12,
+      "lga_id": 227
+    },
+    {
+      "id_lga": 228,
+      "lga": "ESAN NORTH EAST",
+      "lga_code": "04",
+      "state_id": 12,
+      "lga_id": 228
+    },
+    {
+      "id_lga": 229,
+      "lga": "ESAN SOUTH EAST",
+      "lga_code": "05",
+      "state_id": 12,
+      "lga_id": 229
+    },
+    {
+      "id_lga": 230,
+      "lga": "ESAN WEST",
+      "lga_code": "06",
+      "state_id": 12,
+      "lga_id": 230
+    },
+    {
+      "id_lga": 231,
+      "lga": "ETSAKO CENTRAL",
+      "lga_code": "07",
+      "state_id": 12,
+      "lga_id": 231
+    },
+    {
+      "id_lga": 232,
+      "lga": "ETSAKO EAST",
+      "lga_code": "08",
+      "state_id": 12,
+      "lga_id": 232
+    },
+    {
+      "id_lga": 233,
+      "lga": "ETSAKO  WEST",
+      "lga_code": "09",
+      "state_id": 12,
+      "lga_id": 233
+    },
+    {
+      "id_lga": 234,
+      "lga": "IGUEBEN",
+      "lga_code": "10",
+      "state_id": 12,
+      "lga_id": 234
+    },
+    {
+      "id_lga": 235,
+      "lga": "IKPOBA/OKHA",
+      "lga_code": "11",
+      "state_id": 12,
+      "lga_id": 235
+    },
+    {
+      "id_lga": 236,
+      "lga": "OREDO",
+      "lga_code": "12",
+      "state_id": 12,
+      "lga_id": 236
+    },
+    {
+      "id_lga": 237,
+      "lga": "ORHIONMWON",
+      "lga_code": "13",
+      "state_id": 12,
+      "lga_id": 237
+    },
+    {
+      "id_lga": 238,
+      "lga": "OVIA NORTH EAST",
+      "lga_code": "14",
+      "state_id": 12,
+      "lga_id": 238
+    },
+    {
+      "id_lga": 239,
+      "lga": "OVIA SOUTH WEST",
+      "lga_code": "15",
+      "state_id": 12,
+      "lga_id": 239
+    },
+    {
+      "id_lga": 240,
+      "lga": "OWAN EAST",
+      "lga_code": "16",
+      "state_id": 12,
+      "lga_id": 240
+    },
+    {
+      "id_lga": 241,
+      "lga": "OWAN WEST",
+      "lga_code": "17",
+      "state_id": 12,
+      "lga_id": 241
+    },
+    {
+      "id_lga": 242,
+      "lga": "UHUNMWODE",
+      "lga_code": "18",
+      "state_id": 12,
+      "lga_id": 242
+    },
+    {
+      "id_lga": 243,
+      "lga": "ADO EKITI",
+      "lga_code": "01",
+      "state_id": 13,
+      "lga_id": 243
+    },
+    {
+      "id_lga": 244,
+      "lga": "EFON",
+      "lga_code": "02",
+      "state_id": 13,
+      "lga_id": 244
+    },
+    {
+      "id_lga": 245,
+      "lga": "EKITI EAST",
+      "lga_code": "03",
+      "state_id": 13,
+      "lga_id": 245
+    },
+    {
+      "id_lga": 246,
+      "lga": "EKITI WEST",
+      "lga_code": "04",
+      "state_id": 13,
+      "lga_id": 246
+    },
+    {
+      "id_lga": 247,
+      "lga": "EKITI SOUTH WEST",
+      "lga_code": "05",
+      "state_id": 13,
+      "lga_id": 247
+    },
+    {
+      "id_lga": 248,
+      "lga": "EMURE",
+      "lga_code": "06",
+      "state_id": 13,
+      "lga_id": 248
+    },
+    {
+      "id_lga": 249,
+      "lga": "GBONYIN",
+      "lga_code": "07",
+      "state_id": 13,
+      "lga_id": 249
+    },
+    {
+      "id_lga": 250,
+      "lga": "IDO / OSI",
+      "lga_code": "08",
+      "state_id": 13,
+      "lga_id": 250
+    },
+    {
+      "id_lga": 251,
+      "lga": "IJERO",
+      "lga_code": "09",
+      "state_id": 13,
+      "lga_id": 251
+    },
+    {
+      "id_lga": 252,
+      "lga": "IKERE",
+      "lga_code": "10",
+      "state_id": 13,
+      "lga_id": 252
+    },
+    {
+      "id_lga": 253,
+      "lga": "IKOLE",
+      "lga_code": "11",
+      "state_id": 13,
+      "lga_id": 253
+    },
+    {
+      "id_lga": 254,
+      "lga": "ILEJEMEJE",
+      "lga_code": "12",
+      "state_id": 13,
+      "lga_id": 254
+    },
+    {
+      "id_lga": 255,
+      "lga": "IREPODUN / IFELODUN",
+      "lga_code": "13",
+      "state_id": 13,
+      "lga_id": 255
+    },
+    {
+      "id_lga": 256,
+      "lga": "ISE / ORUN",
+      "lga_code": "14",
+      "state_id": 13,
+      "lga_id": 256
+    },
+    {
+      "id_lga": 257,
+      "lga": "MOBA",
+      "lga_code": "15",
+      "state_id": 13,
+      "lga_id": 257
+    },
+    {
+      "id_lga": 258,
+      "lga": "OYE",
+      "lga_code": "16",
+      "state_id": 13,
+      "lga_id": 258
+    },
+    {
+      "id_lga": 259,
+      "lga": "ANINRI",
+      "lga_code": "01",
+      "state_id": 14,
+      "lga_id": 259
+    },
+    {
+      "id_lga": 260,
+      "lga": "AWGU",
+      "lga_code": "02",
+      "state_id": 14,
+      "lga_id": 260
+    },
+    {
+      "id_lga": 261,
+      "lga": "ENUGU EAST",
+      "lga_code": "03",
+      "state_id": 14,
+      "lga_id": 261
+    },
+    {
+      "id_lga": 262,
+      "lga": "ENUGU NORTH",
+      "lga_code": "04",
+      "state_id": 14,
+      "lga_id": 262
+    },
+    {
+      "id_lga": 263,
+      "lga": "ENUGU SOUTH",
+      "lga_code": "05",
+      "state_id": 14,
+      "lga_id": 263
+    },
+    {
+      "id_lga": 264,
+      "lga": "EZEAGU",
+      "lga_code": "06",
+      "state_id": 14,
+      "lga_id": 264
+    },
+    {
+      "id_lga": 265,
+      "lga": "IGBO ETITI",
+      "lga_code": "07",
+      "state_id": 14,
+      "lga_id": 265
+    },
+    {
+      "id_lga": 266,
+      "lga": "IGBO EZE NORTH",
+      "lga_code": "08",
+      "state_id": 14,
+      "lga_id": 266
+    },
+    {
+      "id_lga": 267,
+      "lga": "IGBO EZE SOUTH",
+      "lga_code": "09",
+      "state_id": 14,
+      "lga_id": 267
+    },
+    {
+      "id_lga": 268,
+      "lga": "ISI UZO",
+      "lga_code": "10",
+      "state_id": 14,
+      "lga_id": 268
+    },
+    {
+      "id_lga": 269,
+      "lga": "NKANU EAST",
+      "lga_code": "11",
+      "state_id": 14,
+      "lga_id": 269
+    },
+    {
+      "id_lga": 270,
+      "lga": "NKANU WEST",
+      "lga_code": "12",
+      "state_id": 14,
+      "lga_id": 270
+    },
+    {
+      "id_lga": 271,
+      "lga": "NSUKKA",
+      "lga_code": "13",
+      "state_id": 14,
+      "lga_id": 271
+    },
+    {
+      "id_lga": 272,
+      "lga": "OJI-RIVER",
+      "lga_code": "14",
+      "state_id": 14,
+      "lga_id": 272
+    },
+    {
+      "id_lga": 273,
+      "lga": "UDENU",
+      "lga_code": "15",
+      "state_id": 14,
+      "lga_id": 273
+    },
+    {
+      "id_lga": 274,
+      "lga": "UDI",
+      "lga_code": "16",
+      "state_id": 14,
+      "lga_id": 274
+    },
+    {
+      "id_lga": 275,
+      "lga": "UZO-UWANI",
+      "lga_code": "17",
+      "state_id": 14,
+      "lga_id": 275
+    },
+    {
+      "id_lga": 276,
+      "lga": "ABAJI",
+      "lga_code": "01",
+      "state_id": 15,
+      "lga_id": 276
+    },
+    {
+      "id_lga": 277,
+      "lga": "BWARI",
+      "lga_code": "02",
+      "state_id": 15,
+      "lga_id": 277
+    },
+    {
+      "id_lga": 278,
+      "lga": "GWAGWALADA",
+      "lga_code": "03",
+      "state_id": 15,
+      "lga_id": 278
+    },
+    {
+      "id_lga": 279,
+      "lga": "KUJE",
+      "lga_code": "04",
+      "state_id": 15,
+      "lga_id": 279
+    },
+    {
+      "id_lga": 280,
+      "lga": "KWALI",
+      "lga_code": "05",
+      "state_id": 15,
+      "lga_id": 280
+    },
+    {
+      "id_lga": 281,
+      "lga": "MUNICIPAL",
+      "lga_code": "06",
+      "state_id": 15,
+      "lga_id": 281
+    },
+    {
+      "id_lga": 282,
+      "lga": "AKKO",
+      "lga_code": "01",
+      "state_id": 16,
+      "lga_id": 282
+    },
+    {
+      "id_lga": 283,
+      "lga": "BALANGA",
+      "lga_code": "02",
+      "state_id": 16,
+      "lga_id": 283
+    },
+    {
+      "id_lga": 284,
+      "lga": "BILLIRI",
+      "lga_code": "03",
+      "state_id": 16,
+      "lga_id": 284
+    },
+    {
+      "id_lga": 285,
+      "lga": "DUKKU",
+      "lga_code": "04",
+      "state_id": 16,
+      "lga_id": 285
+    },
+    {
+      "id_lga": 286,
+      "lga": "FUNAKAYE",
+      "lga_code": "05",
+      "state_id": 16,
+      "lga_id": 286
+    },
+    {
+      "id_lga": 287,
+      "lga": "GOMBE",
+      "lga_code": "06",
+      "state_id": 16,
+      "lga_id": 287
+    },
+    {
+      "id_lga": 288,
+      "lga": "KALTUNGO",
+      "lga_code": "07",
+      "state_id": 16,
+      "lga_id": 288
+    },
+    {
+      "id_lga": 289,
+      "lga": "KWAMI",
+      "lga_code": "08",
+      "state_id": 16,
+      "lga_id": 289
+    },
+    {
+      "id_lga": 290,
+      "lga": "NAFADA",
+      "lga_code": "09",
+      "state_id": 16,
+      "lga_id": 290
+    },
+    {
+      "id_lga": 291,
+      "lga": "SHONGOM",
+      "lga_code": "10",
+      "state_id": 16,
+      "lga_id": 291
+    },
+    {
+      "id_lga": 292,
+      "lga": "YALMALTU/ DEBA",
+      "lga_code": "11",
+      "state_id": 16,
+      "lga_id": 292
+    },
+    {
+      "id_lga": 293,
+      "lga": "ABOH MBAISE",
+      "lga_code": "01",
+      "state_id": 17,
+      "lga_id": 293
+    },
+    {
+      "id_lga": 294,
+      "lga": "AHIAZU MBAISE",
+      "lga_code": "02",
+      "state_id": 17,
+      "lga_id": 294
+    },
+    {
+      "id_lga": 295,
+      "lga": "EHIME MBANO",
+      "lga_code": "03",
+      "state_id": 17,
+      "lga_id": 295
+    },
+    {
+      "id_lga": 296,
+      "lga": "EZINIHITTE MBAISE",
+      "lga_code": "04",
+      "state_id": 17,
+      "lga_id": 296
+    },
+    {
+      "id_lga": 297,
+      "lga": "IDEATO NORTH",
+      "lga_code": "05",
+      "state_id": 17,
+      "lga_id": 297
+    },
+    {
+      "id_lga": 298,
+      "lga": "IDEATO SOUTH",
+      "lga_code": "06",
+      "state_id": 17,
+      "lga_id": 298
+    },
+    {
+      "id_lga": 299,
+      "lga": "IHITTE/UBOMA (ISINWEKE)",
+      "lga_code": "07",
+      "state_id": 17,
+      "lga_id": 299
+    },
+    {
+      "id_lga": 300,
+      "lga": "IKEDURU (IHO)",
+      "lga_code": "08",
+      "state_id": 17,
+      "lga_id": 300
+    },
+    {
+      "id_lga": 301,
+      "lga": "ISIALA MBANO (UMUELEMAI)",
+      "lga_code": "09",
+      "state_id": 17,
+      "lga_id": 301
+    },
+    {
+      "id_lga": 302,
+      "lga": "ISU (UMUNDUGBA)",
+      "lga_code": "10",
+      "state_id": 17,
+      "lga_id": 302
+    },
+    {
+      "id_lga": 303,
+      "lga": "MBAITOLI (NWAORIEUBI)",
+      "lga_code": "11",
+      "state_id": 17,
+      "lga_id": 303
+    },
+    {
+      "id_lga": 304,
+      "lga": "NGOR OKPALA (UMUNEKE)",
+      "lga_code": "12",
+      "state_id": 17,
+      "lga_id": 304
+    },
+    {
+      "id_lga": 305,
+      "lga": "NJABA (NNENASA)",
+      "lga_code": "13",
+      "state_id": 17,
+      "lga_id": 305
+    },
+    {
+      "id_lga": 306,
+      "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
+      "lga_code": "14",
+      "state_id": 17,
+      "lga_id": 306
+    },
+    {
+      "id_lga": 307,
+      "lga": "NKWERRE",
+      "lga_code": "15",
+      "state_id": 17,
+      "lga_id": 307
+    },
+    {
+      "id_lga": 308,
+      "lga": "OBOWO (OTOKO)",
+      "lga_code": "16",
+      "state_id": 17,
+      "lga_id": 308
+    },
+    {
+      "id_lga": 309,
+      "lga": "OGUTA (OGUTA)",
+      "lga_code": "17",
+      "state_id": 17,
+      "lga_id": 309
+    },
+    {
+      "id_lga": 310,
+      "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
+      "lga_code": "18",
+      "state_id": 17,
+      "lga_id": 310
+    },
+    {
+      "id_lga": 311,
+      "lga": "OKIGWE  (OKIGWE)",
+      "lga_code": "19",
+      "state_id": 17,
+      "lga_id": 311
+    },
+    {
+      "id_lga": 312,
+      "lga": "ONUIMO (OKWE)",
+      "lga_code": "20",
+      "state_id": 17,
+      "lga_id": 312
+    },
+    {
+      "id_lga": 313,
+      "lga": "ORLU",
+      "lga_code": "21",
+      "state_id": 17,
+      "lga_id": 313
+    },
+    {
+      "id_lga": 314,
+      "lga": "ORSU (AWO IDEMILI)",
+      "lga_code": "22",
+      "state_id": 17,
+      "lga_id": 314
+    },
+    {
+      "id_lga": 315,
+      "lga": "ORU-EAST",
+      "lga_code": "23",
+      "state_id": 17,
+      "lga_id": 315
+    },
+    {
+      "id_lga": 316,
+      "lga": "ORU WEST (MGBIDI)",
+      "lga_code": "24",
+      "state_id": 17,
+      "lga_id": 316
+    },
+    {
+      "id_lga": 317,
+      "lga": "OWERRI URBAN (OWERRI)",
+      "lga_code": "25",
+      "state_id": 17,
+      "lga_id": 317
+    },
+    {
+      "id_lga": 318,
+      "lga": "OWERRI NORTH (ORIE URATTA)",
+      "lga_code": "26",
+      "state_id": 17,
+      "lga_id": 318
+    },
+    {
+      "id_lga": 319,
+      "lga": "OWERRI WEST (UMUGUMA)",
+      "lga_code": "27",
+      "state_id": 17,
+      "lga_id": 319
+    },
+    {
+      "id_lga": 320,
+      "lga": "AUYO",
+      "lga_code": "01",
+      "state_id": 18,
+      "lga_id": 320
+    },
+    {
+      "id_lga": 321,
+      "lga": "BABURA",
+      "lga_code": "02",
+      "state_id": 18,
+      "lga_id": 321
+    },
+    {
+      "id_lga": 322,
+      "lga": "BIRNIN KUDU",
+      "lga_code": "03",
+      "state_id": 18,
+      "lga_id": 322
+    },
+    {
+      "id_lga": 323,
+      "lga": "BIRNIWA",
+      "lga_code": "04",
+      "state_id": 18,
+      "lga_id": 323
+    },
+    {
+      "id_lga": 324,
+      "lga": "BUJI",
+      "lga_code": "05",
+      "state_id": 18,
+      "lga_id": 324
+    },
+    {
+      "id_lga": 325,
+      "lga": "DUTSE",
+      "lga_code": "06",
+      "state_id": 18,
+      "lga_id": 325
+    },
+    {
+      "id_lga": 326,
+      "lga": "GARKI",
+      "lga_code": "07",
+      "state_id": 18,
+      "lga_id": 326
+    },
+    {
+      "id_lga": 327,
+      "lga": "GAGARAWA",
+      "lga_code": "08",
+      "state_id": 18,
+      "lga_id": 327
+    },
+    {
+      "id_lga": 328,
+      "lga": "GUMEL",
+      "lga_code": "09",
+      "state_id": 18,
+      "lga_id": 328
+    },
+    {
+      "id_lga": 329,
+      "lga": "GURI",
+      "lga_code": "10",
+      "state_id": 18,
+      "lga_id": 329
+    },
+    {
+      "id_lga": 330,
+      "lga": "GWARAM",
+      "lga_code": "11",
+      "state_id": 18,
+      "lga_id": 330
+    },
+    {
+      "id_lga": 331,
+      "lga": "GWIWA",
+      "lga_code": "12",
+      "state_id": 18,
+      "lga_id": 331
+    },
+    {
+      "id_lga": 332,
+      "lga": "HADEJIA",
+      "lga_code": "13",
+      "state_id": 18,
+      "lga_id": 332
+    },
+    {
+      "id_lga": 333,
+      "lga": "JAHUN",
+      "lga_code": "14",
+      "state_id": 18,
+      "lga_id": 333
+    },
+    {
+      "id_lga": 334,
+      "lga": "KAFIN HAUSA",
+      "lga_code": "15",
+      "state_id": 18,
+      "lga_id": 334
+    },
+    {
+      "id_lga": 335,
+      "lga": "KAUGAMA",
+      "lga_code": "16",
+      "state_id": 18,
+      "lga_id": 335
+    },
+    {
+      "id_lga": 336,
+      "lga": "KAZAURE",
+      "lga_code": "17",
+      "state_id": 18,
+      "lga_id": 336
+    },
+    {
+      "id_lga": 337,
+      "lga": "KIRIKA SAMMA",
+      "lga_code": "18",
+      "state_id": 18,
+      "lga_id": 337
+    },
+    {
+      "id_lga": 338,
+      "lga": "KIYAWA",
+      "lga_code": "19",
+      "state_id": 18,
+      "lga_id": 338
+    },
+    {
+      "id_lga": 339,
+      "lga": "MAIGATARI",
+      "lga_code": "20",
+      "state_id": 18,
+      "lga_id": 339
+    },
+    {
+      "id_lga": 340,
+      "lga": "MALAM MADORI",
+      "lga_code": "21",
+      "state_id": 18,
+      "lga_id": 340
+    },
+    {
+      "id_lga": 341,
+      "lga": "MIGA",
+      "lga_code": "22",
+      "state_id": 18,
+      "lga_id": 341
+    },
+    {
+      "id_lga": 342,
+      "lga": "RINGIM",
+      "lga_code": "23",
+      "state_id": 18,
+      "lga_id": 342
+    },
+    {
+      "id_lga": 343,
+      "lga": "RONI",
+      "lga_code": "24",
+      "state_id": 18,
+      "lga_id": 343
+    },
+    {
+      "id_lga": 344,
+      "lga": "SULE-TANKARKAR",
+      "lga_code": "25",
+      "state_id": 18,
+      "lga_id": 344
+    },
+    {
+      "id_lga": 345,
+      "lga": "TAURA",
+      "lga_code": "26",
+      "state_id": 18,
+      "lga_id": 345
+    },
+    {
+      "id_lga": 346,
+      "lga": "YANKWASHI",
+      "lga_code": "27",
+      "state_id": 18,
+      "lga_id": 346
+    },
+    {
+      "id_lga": 347,
+      "lga": "BIRNIN GWARI",
+      "lga_code": "01",
+      "state_id": 19,
+      "lga_id": 347
+    },
+    {
+      "id_lga": 348,
+      "lga": "CHIKUN",
+      "lga_code": "02",
+      "state_id": 19,
+      "lga_id": 348
+    },
+    {
+      "id_lga": 349,
+      "lga": "GIWA",
+      "lga_code": "03",
+      "state_id": 19,
+      "lga_id": 349
+    },
+    {
+      "id_lga": 350,
+      "lga": "IGABI",
+      "lga_code": "04",
+      "state_id": 19,
+      "lga_id": 350
+    },
+    {
+      "id_lga": 351,
+      "lga": "IKARA",
+      "lga_code": "05",
+      "state_id": 19,
+      "lga_id": 351
+    },
+    {
+      "id_lga": 352,
+      "lga": "JABA",
+      "lga_code": "06",
+      "state_id": 19,
+      "lga_id": 352
+    },
+    {
+      "id_lga": 353,
+      "lga": "JEMA'A",
+      "lga_code": "07",
+      "state_id": 19,
+      "lga_id": 353
+    },
+    {
+      "id_lga": 354,
+      "lga": "KACHIA",
+      "lga_code": "08",
+      "state_id": 19,
+      "lga_id": 354
+    },
+    {
+      "id_lga": 355,
+      "lga": "KADUNA NORTH",
+      "lga_code": "09",
+      "state_id": 19,
+      "lga_id": 355
+    },
+    {
+      "id_lga": 356,
+      "lga": "KADUNA SOUTH",
+      "lga_code": "10",
+      "state_id": 19,
+      "lga_id": 356
+    },
+    {
+      "id_lga": 357,
+      "lga": "KAGARKO",
+      "lga_code": "11",
+      "state_id": 19,
+      "lga_id": 357
+    },
+    {
+      "id_lga": 358,
+      "lga": "KAJURU",
+      "lga_code": "12",
+      "state_id": 19,
+      "lga_id": 358
+    },
+    {
+      "id_lga": 359,
+      "lga": "KAURA",
+      "lga_code": "13",
+      "state_id": 19,
+      "lga_id": 359
+    },
+    {
+      "id_lga": 360,
+      "lga": "KAURU",
+      "lga_code": "14",
+      "state_id": 19,
+      "lga_id": 360
+    },
+    {
+      "id_lga": 361,
+      "lga": "KUBAU",
+      "lga_code": "15",
+      "state_id": 19,
+      "lga_id": 361
+    },
+    {
+      "id_lga": 362,
+      "lga": "KUDAN",
+      "lga_code": "16",
+      "state_id": 19,
+      "lga_id": 362
+    },
+    {
+      "id_lga": 363,
+      "lga": "LERE",
+      "lga_code": "17",
+      "state_id": 19,
+      "lga_id": 363
+    },
+    {
+      "id_lga": 364,
+      "lga": "MAKARFI",
+      "lga_code": "18",
+      "state_id": 19,
+      "lga_id": 364
+    },
+    {
+      "id_lga": 365,
+      "lga": "SABON GARI",
+      "lga_code": "19",
+      "state_id": 19,
+      "lga_id": 365
+    },
+    {
+      "id_lga": 366,
+      "lga": "SANGA",
+      "lga_code": "20",
+      "state_id": 19,
+      "lga_id": 366
+    },
+    {
+      "id_lga": 367,
+      "lga": "SOBA",
+      "lga_code": "21",
+      "state_id": 19,
+      "lga_id": 367
+    },
+    {
+      "id_lga": 368,
+      "lga": "ZANGON KATAF",
+      "lga_code": "22",
+      "state_id": 19,
+      "lga_id": 368
+    },
+    {
+      "id_lga": 369,
+      "lga": "ZARIA",
+      "lga_code": "23",
+      "state_id": 19,
+      "lga_id": 369
+    },
+    {
+      "id_lga": 370,
+      "lga": "AJINGI",
+      "lga_code": "01",
+      "state_id": 20,
+      "lga_id": 370
+    },
+    {
+      "id_lga": 371,
+      "lga": "ALBASU",
+      "lga_code": "02",
+      "state_id": 20,
+      "lga_id": 371
+    },
+    {
+      "id_lga": 372,
+      "lga": "BAGWAI",
+      "lga_code": "03",
+      "state_id": 20,
+      "lga_id": 372
+    },
+    {
+      "id_lga": 373,
+      "lga": "BEBEJI",
+      "lga_code": "04",
+      "state_id": 20,
+      "lga_id": 373
+    },
+    {
+      "id_lga": 374,
+      "lga": "BICHI",
+      "lga_code": "05",
+      "state_id": 20,
+      "lga_id": 374
+    },
+    {
+      "id_lga": 375,
+      "lga": "BUNKURE",
+      "lga_code": "06",
+      "state_id": 20,
+      "lga_id": 375
+    },
+    {
+      "id_lga": 376,
+      "lga": "DALA",
+      "lga_code": "07",
+      "state_id": 20,
+      "lga_id": 376
+    },
+    {
+      "id_lga": 377,
+      "lga": "DANBATA",
+      "lga_code": "08",
+      "state_id": 20,
+      "lga_id": 377
+    },
+    {
+      "id_lga": 378,
+      "lga": "DAWAKI KUDU",
+      "lga_code": "09",
+      "state_id": 20,
+      "lga_id": 378
+    },
+    {
+      "id_lga": 379,
+      "lga": "DAWAKI TOFA",
+      "lga_code": "10",
+      "state_id": 20,
+      "lga_id": 379
+    },
+    {
+      "id_lga": 380,
+      "lga": "DOGUWA",
+      "lga_code": "11",
+      "state_id": 20,
+      "lga_id": 380
+    },
+    {
+      "id_lga": 381,
+      "lga": "FAGGE",
+      "lga_code": "12",
+      "state_id": 20,
+      "lga_id": 381
+    },
+    {
+      "id_lga": 382,
+      "lga": "GABASAWA",
+      "lga_code": "13",
+      "state_id": 20,
+      "lga_id": 382
+    },
+    {
+      "id_lga": 383,
+      "lga": "GARKO",
+      "lga_code": "14",
+      "state_id": 20,
+      "lga_id": 383
+    },
+    {
+      "id_lga": 384,
+      "lga": "GARUN MALAM",
+      "lga_code": "15",
+      "state_id": 20,
+      "lga_id": 384
+    },
+    {
+      "id_lga": 385,
+      "lga": "GAYA",
+      "lga_code": "16",
+      "state_id": 20,
+      "lga_id": 385
+    },
+    {
+      "id_lga": 386,
+      "lga": "GEZAWA",
+      "lga_code": "17",
+      "state_id": 20,
+      "lga_id": 386
+    },
+    {
+      "id_lga": 387,
+      "lga": "GWALE",
+      "lga_code": "18",
+      "state_id": 20,
+      "lga_id": 387
+    },
+    {
+      "id_lga": 388,
+      "lga": "GWARZO",
+      "lga_code": "19",
+      "state_id": 20,
+      "lga_id": 388
+    },
+    {
+      "id_lga": 389,
+      "lga": "KABO",
+      "lga_code": "20",
+      "state_id": 20,
+      "lga_id": 389
+    },
+    {
+      "id_lga": 390,
+      "lga": "KANO MUNICIPAL",
+      "lga_code": "21",
+      "state_id": 20,
+      "lga_id": 390
+    },
+    {
+      "id_lga": 391,
+      "lga": "KARAYE",
+      "lga_code": "22",
+      "state_id": 20,
+      "lga_id": 391
+    },
+    {
+      "id_lga": 392,
+      "lga": "KIBIYA",
+      "lga_code": "23",
+      "state_id": 20,
+      "lga_id": 392
+    },
+    {
+      "id_lga": 393,
+      "lga": "KIRU",
+      "lga_code": "24",
+      "state_id": 20,
+      "lga_id": 393
+    },
+    {
+      "id_lga": 394,
+      "lga": "KUMBOTSO",
+      "lga_code": "25",
+      "state_id": 20,
+      "lga_id": 394
+    },
+    {
+      "id_lga": 395,
+      "lga": "KUNCHI",
+      "lga_code": "26",
+      "state_id": 20,
+      "lga_id": 395
+    },
+    {
+      "id_lga": 396,
+      "lga": "KURA",
+      "lga_code": "27",
+      "state_id": 20,
+      "lga_id": 396
+    },
+    {
+      "id_lga": 397,
+      "lga": "MADOBI",
+      "lga_code": "28",
+      "state_id": 20,
+      "lga_id": 397
+    },
+    {
+      "id_lga": 398,
+      "lga": "MAKODA",
+      "lga_code": "29",
+      "state_id": 20,
+      "lga_id": 398
+    },
+    {
+      "id_lga": 399,
+      "lga": "MINJIBIR",
+      "lga_code": "30",
+      "state_id": 20,
+      "lga_id": 399
+    },
+    {
+      "id_lga": 400,
+      "lga": "NASARAWA",
+      "lga_code": "31",
+      "state_id": 20,
+      "lga_id": 400
+    },
+    {
+      "id_lga": 401,
+      "lga": "RANO",
+      "lga_code": "32",
+      "state_id": 20,
+      "lga_id": 401
+    },
+    {
+      "id_lga": 402,
+      "lga": "RIMIN GADO",
+      "lga_code": "33",
+      "state_id": 20,
+      "lga_id": 402
+    },
+    {
+      "id_lga": 403,
+      "lga": "ROGO",
+      "lga_code": "34",
+      "state_id": 20,
+      "lga_id": 403
+    },
+    {
+      "id_lga": 404,
+      "lga": "SHANONO",
+      "lga_code": "35",
+      "state_id": 20,
+      "lga_id": 404
+    },
+    {
+      "id_lga": 405,
+      "lga": "SUMAILA",
+      "lga_code": "36",
+      "state_id": 20,
+      "lga_id": 405
+    },
+    {
+      "id_lga": 406,
+      "lga": "TAKAI",
+      "lga_code": "37",
+      "state_id": 20,
+      "lga_id": 406
+    },
+    {
+      "id_lga": 407,
+      "lga": "TARAUNI",
+      "lga_code": "38",
+      "state_id": 20,
+      "lga_id": 407
+    },
+    {
+      "id_lga": 408,
+      "lga": "TOFA",
+      "lga_code": "39",
+      "state_id": 20,
+      "lga_id": 408
+    },
+    {
+      "id_lga": 409,
+      "lga": "TSANYAWA",
+      "lga_code": "40",
+      "state_id": 20,
+      "lga_id": 409
+    },
+    {
+      "id_lga": 410,
+      "lga": "TUDUN WADA",
+      "lga_code": "41",
+      "state_id": 20,
+      "lga_id": 410
+    },
+    {
+      "id_lga": 411,
+      "lga": "UNGOGO",
+      "lga_code": "42",
+      "state_id": 20,
+      "lga_id": 411
+    },
+    {
+      "id_lga": 412,
+      "lga": "WARAWA",
+      "lga_code": "43",
+      "state_id": 20,
+      "lga_id": 412
+    },
+    {
+      "id_lga": 413,
+      "lga": "WUDIL",
+      "lga_code": "44",
+      "state_id": 20,
+      "lga_id": 413
+    },
+    {
+      "id_lga": 414,
+      "lga": "BAKORI",
+      "lga_code": "01",
+      "state_id": 21,
+      "lga_id": 414
+    },
+    {
+      "id_lga": 415,
+      "lga": "BATAGARAWA",
+      "lga_code": "02",
+      "state_id": 21,
+      "lga_id": 415
+    },
+    {
+      "id_lga": 416,
+      "lga": "BATSARI",
+      "lga_code": "03",
+      "state_id": 21,
+      "lga_id": 416
+    },
+    {
+      "id_lga": 417,
+      "lga": "BAURE",
+      "lga_code": "04",
+      "state_id": 21,
+      "lga_id": 417
+    },
+    {
+      "id_lga": 418,
+      "lga": "BINDAWA",
+      "lga_code": "05",
+      "state_id": 21,
+      "lga_id": 418
+    },
+    {
+      "id_lga": 419,
+      "lga": "CHARANCHI",
+      "lga_code": "06",
+      "state_id": 21,
+      "lga_id": 419
+    },
+    {
+      "id_lga": 420,
+      "lga": "DANDUME",
+      "lga_code": "07",
+      "state_id": 21,
+      "lga_id": 420
+    },
+    {
+      "id_lga": 421,
+      "lga": "DANJA",
+      "lga_code": "08",
+      "state_id": 21,
+      "lga_id": 421
+    },
+    {
+      "id_lga": 422,
+      "lga": "DAN MUSA",
+      "lga_code": "09",
+      "state_id": 21,
+      "lga_id": 422
+    },
+    {
+      "id_lga": 423,
+      "lga": "DAURA",
+      "lga_code": "10",
+      "state_id": 21,
+      "lga_id": 423
+    },
+    {
+      "id_lga": 424,
+      "lga": "DUTSI",
+      "lga_code": "11",
+      "state_id": 21,
+      "lga_id": 424
+    },
+    {
+      "id_lga": 425,
+      "lga": "DUTSIN-MA",
+      "lga_code": "12",
+      "state_id": 21,
+      "lga_id": 425
+    },
+    {
+      "id_lga": 426,
+      "lga": "FASKARI",
+      "lga_code": "13",
+      "state_id": 21,
+      "lga_id": 426
+    },
+    {
+      "id_lga": 427,
+      "lga": "FUNTUA",
+      "lga_code": "14",
+      "state_id": 21,
+      "lga_id": 427
+    },
+    {
+      "id_lga": 428,
+      "lga": "INGAWA",
+      "lga_code": "15",
+      "state_id": 21,
+      "lga_id": 428
+    },
+    {
+      "id_lga": 429,
+      "lga": "JIBIA",
+      "lga_code": "16",
+      "state_id": 21,
+      "lga_id": 429
+    },
+    {
+      "id_lga": 430,
+      "lga": "KAFUR",
+      "lga_code": "17",
+      "state_id": 21,
+      "lga_id": 430
+    },
+    {
+      "id_lga": 431,
+      "lga": "KAITA",
+      "lga_code": "18",
+      "state_id": 21,
+      "lga_id": 431
+    },
+    {
+      "id_lga": 432,
+      "lga": "KANKARA",
+      "lga_code": "19",
+      "state_id": 21,
+      "lga_id": 432
+    },
+    {
+      "id_lga": 433,
+      "lga": "KANKIA",
+      "lga_code": "20",
+      "state_id": 21,
+      "lga_id": 433
+    },
+    {
+      "id_lga": 434,
+      "lga": "KATSINA",
+      "lga_code": "21",
+      "state_id": 21,
+      "lga_id": 434
+    },
+    {
+      "id_lga": 435,
+      "lga": "KURFI",
+      "lga_code": "22",
+      "state_id": 21,
+      "lga_id": 435
+    },
+    {
+      "id_lga": 436,
+      "lga": "KUSADA",
+      "lga_code": "23",
+      "state_id": 21,
+      "lga_id": 436
+    },
+    {
+      "id_lga": 437,
+      "lga": "MAI'ADUA",
+      "lga_code": "24",
+      "state_id": 21,
+      "lga_id": 437
+    },
+    {
+      "id_lga": 438,
+      "lga": "MALUFASHI",
+      "lga_code": "25",
+      "state_id": 21,
+      "lga_id": 438
+    },
+    {
+      "id_lga": 439,
+      "lga": "MANI",
+      "lga_code": "26",
+      "state_id": 21,
+      "lga_id": 439
+    },
+    {
+      "id_lga": 440,
+      "lga": "MASHI",
+      "lga_code": "27",
+      "state_id": 21,
+      "lga_id": 440
+    },
+    {
+      "id_lga": 441,
+      "lga": "MATAZU",
+      "lga_code": "28",
+      "state_id": 21,
+      "lga_id": 441
+    },
+    {
+      "id_lga": 442,
+      "lga": "MUSAWA",
+      "lga_code": "29",
+      "state_id": 21,
+      "lga_id": 442
+    },
+    {
+      "id_lga": 443,
+      "lga": "RIMI",
+      "lga_code": "30",
+      "state_id": 21,
+      "lga_id": 443
+    },
+    {
+      "id_lga": 444,
+      "lga": "SABUWA",
+      "lga_code": "31",
+      "state_id": 21,
+      "lga_id": 444
+    },
+    {
+      "id_lga": 445,
+      "lga": "SAFANA",
+      "lga_code": "32",
+      "state_id": 21,
+      "lga_id": 445
+    },
+    {
+      "id_lga": 446,
+      "lga": "SANDAMU",
+      "lga_code": "33",
+      "state_id": 21,
+      "lga_id": 446
+    },
+    {
+      "id_lga": 447,
+      "lga": "ZANGO",
+      "lga_code": "34",
+      "state_id": 21,
+      "lga_id": 447
+    },
+    {
+      "id_lga": 448,
+      "lga": "ALIERO",
+      "lga_code": "01",
+      "state_id": 22,
+      "lga_id": 448
+    },
+    {
+      "id_lga": 449,
+      "lga": "AREWA",
+      "lga_code": "02",
+      "state_id": 22,
+      "lga_id": 449
+    },
+    {
+      "id_lga": 450,
+      "lga": "ARGUNGU",
+      "lga_code": "03",
+      "state_id": 22,
+      "lga_id": 450
+    },
+    {
+      "id_lga": 451,
+      "lga": "AUGIE",
+      "lga_code": "04",
+      "state_id": 22,
+      "lga_id": 451
+    },
+    {
+      "id_lga": 452,
+      "lga": "BAGUDO",
+      "lga_code": "05",
+      "state_id": 22,
+      "lga_id": 452
+    },
+    {
+      "id_lga": 453,
+      "lga": "BIRNIN KEBBI",
+      "lga_code": "06",
+      "state_id": 22,
+      "lga_id": 453
+    },
+    {
+      "id_lga": 454,
+      "lga": "BUNZA",
+      "lga_code": "07",
+      "state_id": 22,
+      "lga_id": 454
+    },
+    {
+      "id_lga": 455,
+      "lga": "DANDI",
+      "lga_code": "08",
+      "state_id": 22,
+      "lga_id": 455
+    },
+    {
+      "id_lga": 456,
+      "lga": "FAKAI",
+      "lga_code": "09",
+      "state_id": 22,
+      "lga_id": 456
+    },
+    {
+      "id_lga": 457,
+      "lga": "GWANDU",
+      "lga_code": "10",
+      "state_id": 22,
+      "lga_id": 457
+    },
+    {
+      "id_lga": 458,
+      "lga": "JEGA",
+      "lga_code": "11",
+      "state_id": 22,
+      "lga_id": 458
+    },
+    {
+      "id_lga": 459,
+      "lga": "KALGO",
+      "lga_code": "12",
+      "state_id": 22,
+      "lga_id": 459
+    },
+    {
+      "id_lga": 460,
+      "lga": "KOKO/BESSE",
+      "lga_code": "13",
+      "state_id": 22,
+      "lga_id": 460
+    },
+    {
+      "id_lga": 461,
+      "lga": "MAIYAMA",
+      "lga_code": "14",
+      "state_id": 22,
+      "lga_id": 461
+    },
+    {
+      "id_lga": 462,
+      "lga": "NGASKI",
+      "lga_code": "15",
+      "state_id": 22,
+      "lga_id": 462
+    },
+    {
+      "id_lga": 463,
+      "lga": "SAKABA",
+      "lga_code": "16",
+      "state_id": 22,
+      "lga_id": 463
+    },
+    {
+      "id_lga": 464,
+      "lga": "SHANGA",
+      "lga_code": "17",
+      "state_id": 22,
+      "lga_id": 464
+    },
+    {
+      "id_lga": 465,
+      "lga": "SURU",
+      "lga_code": "18",
+      "state_id": 22,
+      "lga_id": 465
+    },
+    {
+      "id_lga": 466,
+      "lga": "WASAGU/DANKO",
+      "lga_code": "19",
+      "state_id": 22,
+      "lga_id": 466
+    },
+    {
+      "id_lga": 467,
+      "lga": "YAURI",
+      "lga_code": "20",
+      "state_id": 22,
+      "lga_id": 467
+    },
+    {
+      "id_lga": 468,
+      "lga": "ZURU",
+      "lga_code": "21",
+      "state_id": 22,
+      "lga_id": 468
+    },
+    {
+      "id_lga": 469,
+      "lga": "ADAVI",
+      "lga_code": "01",
+      "state_id": 23,
+      "lga_id": 469
+    },
+    {
+      "id_lga": 470,
+      "lga": "AJAOKUTA",
+      "lga_code": "02",
+      "state_id": 23,
+      "lga_id": 470
+    },
+    {
+      "id_lga": 471,
+      "lga": "ANKPA",
+      "lga_code": "03",
+      "state_id": 23,
+      "lga_id": 471
+    },
+    {
+      "id_lga": 472,
+      "lga": "BASSA",
+      "lga_code": "04",
+      "state_id": 23,
+      "lga_id": 472
+    },
+    {
+      "id_lga": 473,
+      "lga": "DEKINA",
+      "lga_code": "05",
+      "state_id": 23,
+      "lga_id": 473
+    },
+    {
+      "id_lga": 474,
+      "lga": "IBAJI",
+      "lga_code": "06",
+      "state_id": 23,
+      "lga_id": 474
+    },
+    {
+      "id_lga": 475,
+      "lga": "IDAH",
+      "lga_code": "07",
+      "state_id": 23,
+      "lga_id": 475
+    },
+    {
+      "id_lga": 476,
+      "lga": "IGALAMELA/ODOLU",
+      "lga_code": "08",
+      "state_id": 23,
+      "lga_id": 476
+    },
+    {
+      "id_lga": 477,
+      "lga": "IJUMU",
+      "lga_code": "09",
+      "state_id": 23,
+      "lga_id": 477
+    },
+    {
+      "id_lga": 478,
+      "lga": "KABBA/BUNU",
+      "lga_code": "10",
+      "state_id": 23,
+      "lga_id": 478
+    },
+    {
+      "id_lga": 479,
+      "lga": "KOGI . K. K.",
+      "lga_code": "11",
+      "state_id": 23,
+      "lga_id": 479
+    },
+    {
+      "id_lga": 480,
+      "lga": "LOKOJA",
+      "lga_code": "12",
+      "state_id": 23,
+      "lga_id": 480
+    },
+    {
+      "id_lga": 481,
+      "lga": "MOPA MORO",
+      "lga_code": "13",
+      "state_id": 23,
+      "lga_id": 481
+    },
+    {
+      "id_lga": 482,
+      "lga": "OFU",
+      "lga_code": "14",
+      "state_id": 23,
+      "lga_id": 482
+    },
+    {
+      "id_lga": 483,
+      "lga": "OGORI MANGOGO",
+      "lga_code": "15",
+      "state_id": 23,
+      "lga_id": 483
+    },
+    {
+      "id_lga": 484,
+      "lga": "OKEHI",
+      "lga_code": "16",
+      "state_id": 23,
+      "lga_id": 484
+    },
+    {
+      "id_lga": 485,
+      "lga": "OKENE",
+      "lga_code": "17",
+      "state_id": 23,
+      "lga_id": 485
+    },
+    {
+      "id_lga": 486,
+      "lga": "OLAMABORO",
+      "lga_code": "18",
+      "state_id": 23,
+      "lga_id": 486
+    },
+    {
+      "id_lga": 487,
+      "lga": "OMALA",
+      "lga_code": "19",
+      "state_id": 23,
+      "lga_id": 487
+    },
+    {
+      "id_lga": 488,
+      "lga": "YAGBA EAST",
+      "lga_code": "20",
+      "state_id": 23,
+      "lga_id": 488
+    },
+    {
+      "id_lga": 489,
+      "lga": "YAGBA WEST",
+      "lga_code": "21",
+      "state_id": 23,
+      "lga_id": 489
+    },
+    {
+      "id_lga": 490,
+      "lga": "ASA",
+      "lga_code": "01",
+      "state_id": 24,
+      "lga_id": 490
+    },
+    {
+      "id_lga": 491,
+      "lga": "BARUTEN",
+      "lga_code": "02",
+      "state_id": 24,
+      "lga_id": 491
+    },
+    {
+      "id_lga": 492,
+      "lga": "EDU",
+      "lga_code": "03",
+      "state_id": 24,
+      "lga_id": 492
+    },
+    {
+      "id_lga": 493,
+      "lga": "EKITI",
+      "lga_code": "04",
+      "state_id": 24,
+      "lga_id": 493
+    },
+    {
+      "id_lga": 494,
+      "lga": "IFELODUN",
+      "lga_code": "05",
+      "state_id": 24,
+      "lga_id": 494
+    },
+    {
+      "id_lga": 495,
+      "lga": "ILORIN EAST",
+      "lga_code": "06",
+      "state_id": 24,
+      "lga_id": 495
+    },
+    {
+      "id_lga": 496,
+      "lga": "ILORIN-SOUTH",
+      "lga_code": "07",
+      "state_id": 24,
+      "lga_id": 496
+    },
+    {
+      "id_lga": 497,
+      "lga": "ILORIN-WEST",
+      "lga_code": "08",
+      "state_id": 24,
+      "lga_id": 497
+    },
+    {
+      "id_lga": 498,
+      "lga": "IREPODUN",
+      "lga_code": "09",
+      "state_id": 24,
+      "lga_id": 498
+    },
+    {
+      "id_lga": 499,
+      "lga": "ISIN",
+      "lga_code": "10",
+      "state_id": 24,
+      "lga_id": 499
+    },
+    {
+      "id_lga": 500,
+      "lga": "KAIAMA",
+      "lga_code": "11",
+      "state_id": 24,
+      "lga_id": 500
+    },
+    {
+      "id_lga": 501,
+      "lga": "MORO",
+      "lga_code": "12",
+      "state_id": 24,
+      "lga_id": 501
+    },
+    {
+      "id_lga": 502,
+      "lga": "OFFA",
+      "lga_code": "13",
+      "state_id": 24,
+      "lga_id": 502
+    },
+    {
+      "id_lga": 503,
+      "lga": "OKE - ERO",
+      "lga_code": "14",
+      "state_id": 24,
+      "lga_id": 503
+    },
+    {
+      "id_lga": 504,
+      "lga": "OYUN",
+      "lga_code": "15",
+      "state_id": 24,
+      "lga_id": 504
+    },
+    {
+      "id_lga": 505,
+      "lga": "PATIGI",
+      "lga_code": "16",
+      "state_id": 24,
+      "lga_id": 505
+    },
+    {
+      "id_lga": 506,
+      "lga": "AGEGE",
+      "lga_code": "01",
+      "state_id": 25,
+      "lga_id": 506
+    },
+    {
+      "id_lga": 507,
+      "lga": "AJEROMI/IFELODUN",
+      "lga_code": "02",
+      "state_id": 25,
+      "lga_id": 507
+    },
+    {
+      "id_lga": 508,
+      "lga": "ALIMOSHO",
+      "lga_code": "03",
+      "state_id": 25,
+      "lga_id": 508
+    },
+    {
+      "id_lga": 509,
+      "lga": "AMUWO-ODOFIN",
+      "lga_code": "04",
+      "state_id": 25,
+      "lga_id": 509
+    },
+    {
+      "id_lga": 510,
+      "lga": "APAPA",
+      "lga_code": "05",
+      "state_id": 25,
+      "lga_id": 510
+    },
+    {
+      "id_lga": 511,
+      "lga": "BADAGRY",
+      "lga_code": "06",
+      "state_id": 25,
+      "lga_id": 511
+    },
+    {
+      "id_lga": 512,
+      "lga": "EPE",
+      "lga_code": "07",
+      "state_id": 25,
+      "lga_id": 512
+    },
+    {
+      "id_lga": 513,
+      "lga": "ETI-OSA",
+      "lga_code": "08",
+      "state_id": 25,
+      "lga_id": 513
+    },
+    {
+      "id_lga": 514,
+      "lga": "IBEJU/LEKKI",
+      "lga_code": "09",
+      "state_id": 25,
+      "lga_id": 514
+    },
+    {
+      "id_lga": 515,
+      "lga": "IFAKO-IJAYE",
+      "lga_code": "10",
+      "state_id": 25,
+      "lga_id": 515
+    },
+    {
+      "id_lga": 516,
+      "lga": "IKEJA",
+      "lga_code": "11",
+      "state_id": 25,
+      "lga_id": 516
+    },
+    {
+      "id_lga": 517,
+      "lga": "IKORODU",
+      "lga_code": "12",
+      "state_id": 25,
+      "lga_id": 517
+    },
+    {
+      "id_lga": 518,
+      "lga": "KOSOFE",
+      "lga_code": "13",
+      "state_id": 25,
+      "lga_id": 518
+    },
+    {
+      "id_lga": 519,
+      "lga": "LAGOS ISLAND",
+      "lga_code": "14",
+      "state_id": 25,
+      "lga_id": 519
+    },
+    {
+      "id_lga": 520,
+      "lga": "LAGOS MAINLAND",
+      "lga_code": "15",
+      "state_id": 25,
+      "lga_id": 520
+    },
+    {
+      "id_lga": 521,
+      "lga": "MUSHIN",
+      "lga_code": "16",
+      "state_id": 25,
+      "lga_id": 521
+    },
+    {
+      "id_lga": 522,
+      "lga": "OJO",
+      "lga_code": "17",
+      "state_id": 25,
+      "lga_id": 522
+    },
+    {
+      "id_lga": 523,
+      "lga": "OSHODI/ISOLO",
+      "lga_code": "18",
+      "state_id": 25,
+      "lga_id": 523
+    },
+    {
+      "id_lga": 524,
+      "lga": "SOMOLU",
+      "lga_code": "19",
+      "state_id": 25,
+      "lga_id": 524
+    },
+    {
+      "id_lga": 525,
+      "lga": "SURULERE",
+      "lga_code": "20",
+      "state_id": 25,
+      "lga_id": 525
+    },
+    {
+      "id_lga": 526,
+      "lga": "AKWANGA",
+      "lga_code": "01",
+      "state_id": 26,
+      "lga_id": 526
+    },
+    {
+      "id_lga": 527,
+      "lga": "AWE",
+      "lga_code": "02",
+      "state_id": 26,
+      "lga_id": 527
+    },
+    {
+      "id_lga": 528,
+      "lga": "DOMA",
+      "lga_code": "03",
+      "state_id": 26,
+      "lga_id": 528
+    },
+    {
+      "id_lga": 529,
+      "lga": "KARU",
+      "lga_code": "04",
+      "state_id": 26,
+      "lga_id": 529
+    },
+    {
+      "id_lga": 530,
+      "lga": "KEANA",
+      "lga_code": "05",
+      "state_id": 26,
+      "lga_id": 530
+    },
+    {
+      "id_lga": 531,
+      "lga": "KEFFI",
+      "lga_code": "06",
+      "state_id": 26,
+      "lga_id": 531
+    },
+    {
+      "id_lga": 532,
+      "lga": "KOKONA",
+      "lga_code": "07",
+      "state_id": 26,
+      "lga_id": 532
+    },
+    {
+      "id_lga": 533,
+      "lga": "LAFIA",
+      "lga_code": "08",
+      "state_id": 26,
+      "lga_id": 533
+    },
+    {
+      "id_lga": 534,
+      "lga": "NASARAWA EGGON",
+      "lga_code": "10",
+      "state_id": 26,
+      "lga_id": 534
+    },
+    {
+      "id_lga": 535,
+      "lga": "TOTO",
+      "lga_code": "12",
+      "state_id": 26,
+      "lga_id": 535
+    },
+    {
+      "id_lga": 536,
+      "lga": "WAMBA",
+      "lga_code": "13",
+      "state_id": 26,
+      "lga_id": 536
+    },
+    {
+      "id_lga": 537,
+      "lga": "AGAIE",
+      "lga_code": "01",
+      "state_id": 27,
+      "lga_id": 537
+    },
+    {
+      "id_lga": 538,
+      "lga": "AGWARA",
+      "lga_code": "02",
+      "state_id": 27,
+      "lga_id": 538
+    },
+    {
+      "id_lga": 539,
+      "lga": "BIDA",
+      "lga_code": "03",
+      "state_id": 27,
+      "lga_id": 539
+    },
+    {
+      "id_lga": 540,
+      "lga": "BORGU",
+      "lga_code": "04",
+      "state_id": 27,
+      "lga_id": 540
+    },
+    {
+      "id_lga": 541,
+      "lga": "BOSSO",
+      "lga_code": "05",
+      "state_id": 27,
+      "lga_id": 541
+    },
+    {
+      "id_lga": 542,
+      "lga": "CHANCHAGA",
+      "lga_code": "06",
+      "state_id": 27,
+      "lga_id": 542
+    },
+    {
+      "id_lga": 543,
+      "lga": "EDATTI",
+      "lga_code": "07",
+      "state_id": 27,
+      "lga_id": 543
+    },
+    {
+      "id_lga": 544,
+      "lga": "GBAKO",
+      "lga_code": "08",
+      "state_id": 27,
+      "lga_id": 544
+    },
+    {
+      "id_lga": 545,
+      "lga": "GURARA",
+      "lga_code": "09",
+      "state_id": 27,
+      "lga_id": 545
+    },
+    {
+      "id_lga": 546,
+      "lga": "KATCHA",
+      "lga_code": "10",
+      "state_id": 27,
+      "lga_id": 546
+    },
+    {
+      "id_lga": 547,
+      "lga": "KONTAGORA",
+      "lga_code": "11",
+      "state_id": 27,
+      "lga_id": 547
+    },
+    {
+      "id_lga": 548,
+      "lga": "LAPAI",
+      "lga_code": "12",
+      "state_id": 27,
+      "lga_id": 548
+    },
+    {
+      "id_lga": 549,
+      "lga": "LAVUN",
+      "lga_code": "13",
+      "state_id": 27,
+      "lga_id": 549
+    },
+    {
+      "id_lga": 550,
+      "lga": "MAGAMA",
+      "lga_code": "14",
+      "state_id": 27,
+      "lga_id": 550
+    },
+    {
+      "id_lga": 551,
+      "lga": "MARIGA",
+      "lga_code": "15",
+      "state_id": 27,
+      "lga_id": 551
+    },
+    {
+      "id_lga": 552,
+      "lga": "MASHEGU",
+      "lga_code": "16",
+      "state_id": 27,
+      "lga_id": 552
+    },
+    {
+      "id_lga": 553,
+      "lga": "MOKWA",
+      "lga_code": "17",
+      "state_id": 27,
+      "lga_id": 553
+    },
+    {
+      "id_lga": 554,
+      "lga": "MUNYA",
+      "lga_code": "18",
+      "state_id": 27,
+      "lga_id": 554
+    },
+    {
+      "id_lga": 555,
+      "lga": "PAIKORO",
+      "lga_code": "19",
+      "state_id": 27,
+      "lga_id": 555
+    },
+    {
+      "id_lga": 556,
+      "lga": "RAFI",
+      "lga_code": "20",
+      "state_id": 27,
+      "lga_id": 556
+    },
+    {
+      "id_lga": 557,
+      "lga": "RIJAU",
+      "lga_code": "21",
+      "state_id": 27,
+      "lga_id": 557
+    },
+    {
+      "id_lga": 558,
+      "lga": "SHIRORO",
+      "lga_code": "22",
+      "state_id": 27,
+      "lga_id": 558
+    },
+    {
+      "id_lga": 559,
+      "lga": "SULEJA",
+      "lga_code": "23",
+      "state_id": 27,
+      "lga_id": 559
+    },
+    {
+      "id_lga": 560,
+      "lga": "TAFA",
+      "lga_code": "24",
+      "state_id": 27,
+      "lga_id": 560
+    },
+    {
+      "id_lga": 561,
+      "lga": "WUSHISHI",
+      "lga_code": "25",
+      "state_id": 27,
+      "lga_id": 561
+    },
+    {
+      "id_lga": 562,
+      "lga": "ABEOKUTA NORTH",
+      "lga_code": "01",
+      "state_id": 28,
+      "lga_id": 562
+    },
+    {
+      "id_lga": 563,
+      "lga": "ABEOKUTA SOUTH",
+      "lga_code": "02",
+      "state_id": 28,
+      "lga_id": 563
+    },
+    {
+      "id_lga": 564,
+      "lga": "ADO ODO-OTA",
+      "lga_code": "03",
+      "state_id": 28,
+      "lga_id": 564
+    },
+    {
+      "id_lga": 565,
+      "lga": "EGBADO NORTH",
+      "lga_code": "04",
+      "state_id": 28,
+      "lga_id": 565
+    },
+    {
+      "id_lga": 566,
+      "lga": "EGBADO SOUTH",
+      "lga_code": "05",
+      "state_id": 28,
+      "lga_id": 566
+    },
+    {
+      "id_lga": 567,
+      "lga": "EWEKORO",
+      "lga_code": "06",
+      "state_id": 28,
+      "lga_id": 567
+    },
+    {
+      "id_lga": 568,
+      "lga": "IFO",
+      "lga_code": "07",
+      "state_id": 28,
+      "lga_id": 568
+    },
+    {
+      "id_lga": 569,
+      "lga": "IJEBU EAST",
+      "lga_code": "08",
+      "state_id": 28,
+      "lga_id": 569
+    },
+    {
+      "id_lga": 570,
+      "lga": "IJEBU NORTH",
+      "lga_code": "09",
+      "state_id": 28,
+      "lga_id": 570
+    },
+    {
+      "id_lga": 571,
+      "lga": "IJEBU NORTH EAST",
+      "lga_code": "10",
+      "state_id": 28,
+      "lga_id": 571
+    },
+    {
+      "id_lga": 572,
+      "lga": "IJEBU ODE",
+      "lga_code": "11",
+      "state_id": 28,
+      "lga_id": 572
+    },
+    {
+      "id_lga": 573,
+      "lga": "IKENNE",
+      "lga_code": "12",
+      "state_id": 28,
+      "lga_id": 573
+    },
+    {
+      "id_lga": 574,
+      "lga": "IMEKO/AFON",
+      "lga_code": "13",
+      "state_id": 28,
+      "lga_id": 574
+    },
+    {
+      "id_lga": 575,
+      "lga": "IPOKIA",
+      "lga_code": "14",
+      "state_id": 28,
+      "lga_id": 575
+    },
+    {
+      "id_lga": 576,
+      "lga": "OBAFEMI/OWODE",
+      "lga_code": "15",
+      "state_id": 28,
+      "lga_id": 576
+    },
+    {
+      "id_lga": 577,
+      "lga": "ODEDA",
+      "lga_code": "16",
+      "state_id": 28,
+      "lga_id": 577
+    },
+    {
+      "id_lga": 578,
+      "lga": "ODOGBOLU",
+      "lga_code": "17",
+      "state_id": 28,
+      "lga_id": 578
+    },
+    {
+      "id_lga": 579,
+      "lga": "OGUN WATER SIDE",
+      "lga_code": "18",
+      "state_id": 28,
+      "lga_id": 579
+    },
+    {
+      "id_lga": 580,
+      "lga": "REMO NORTH",
+      "lga_code": "19",
+      "state_id": 28,
+      "lga_id": 580
+    },
+    {
+      "id_lga": 581,
+      "lga": "SAGAMU",
+      "lga_code": "20",
+      "state_id": 28,
+      "lga_id": 581
+    },
+    {
+      "id_lga": 582,
+      "lga": "AKOKO NORTH EAST",
+      "lga_code": "01",
+      "state_id": 29,
+      "lga_id": 582
+    },
+    {
+      "id_lga": 583,
+      "lga": "AKOKO NORTH WEST",
+      "lga_code": "02",
+      "state_id": 29,
+      "lga_id": 583
+    },
+    {
+      "id_lga": 584,
+      "lga": "AKOKO SOUTH EAST",
+      "lga_code": "03",
+      "state_id": 29,
+      "lga_id": 584
+    },
+    {
+      "id_lga": 585,
+      "lga": "AKOKO SOUTH WEST",
+      "lga_code": "04",
+      "state_id": 29,
+      "lga_id": 585
+    },
+    {
+      "id_lga": 586,
+      "lga": "AKURE NORTH",
+      "lga_code": "05",
+      "state_id": 29,
+      "lga_id": 586
+    },
+    {
+      "id_lga": 587,
+      "lga": "AKURE SOUTH",
+      "lga_code": "06",
+      "state_id": 29,
+      "lga_id": 587
+    },
+    {
+      "id_lga": 588,
+      "lga": "ESE-ODO",
+      "lga_code": "07",
+      "state_id": 29,
+      "lga_id": 588
+    },
+    {
+      "id_lga": 589,
+      "lga": "IDANRE",
+      "lga_code": "08",
+      "state_id": 29,
+      "lga_id": 589
+    },
+    {
+      "id_lga": 590,
+      "lga": "IFEDORE",
+      "lga_code": "09",
+      "state_id": 29,
+      "lga_id": 590
+    },
+    {
+      "id_lga": 591,
+      "lga": "ILAJE",
+      "lga_code": "10",
+      "state_id": 29,
+      "lga_id": 591
+    },
+    {
+      "id_lga": 592,
+      "lga": "ILEOLUJI/OKEIGBO",
+      "lga_code": "11",
+      "state_id": 29,
+      "lga_id": 592
+    },
+    {
+      "id_lga": 593,
+      "lga": "IRELE",
+      "lga_code": "12",
+      "state_id": 29,
+      "lga_id": 593
+    },
+    {
+      "id_lga": 594,
+      "lga": "ODIGBO",
+      "lga_code": "13",
+      "state_id": 29,
+      "lga_id": 594
+    },
+    {
+      "id_lga": 595,
+      "lga": "OKITIPUPA",
+      "lga_code": "14",
+      "state_id": 29,
+      "lga_id": 595
+    },
+    {
+      "id_lga": 596,
+      "lga": "ONDO EAST",
+      "lga_code": "15",
+      "state_id": 29,
+      "lga_id": 596
+    },
+    {
+      "id_lga": 597,
+      "lga": "ONDO WEST",
+      "lga_code": "16",
+      "state_id": 29,
+      "lga_id": 597
+    },
+    {
+      "id_lga": 598,
+      "lga": "OSE",
+      "lga_code": "17",
+      "state_id": 29,
+      "lga_id": 598
+    },
+    {
+      "id_lga": 599,
+      "lga": "OWO",
+      "lga_code": "18",
+      "state_id": 29,
+      "lga_id": 599
+    },
+    {
+      "id_lga": 600,
+      "lga": "ATAKUMOSA EAST",
+      "lga_code": "01",
+      "state_id": 30,
+      "lga_id": 600
+    },
+    {
+      "id_lga": 601,
+      "lga": "ATAKUMOSA WEST",
+      "lga_code": "02",
+      "state_id": 30,
+      "lga_id": 601
+    },
+    {
+      "id_lga": 602,
+      "lga": "AYEDAADE",
+      "lga_code": "03",
+      "state_id": 30,
+      "lga_id": 602
+    },
+    {
+      "id_lga": 603,
+      "lga": "AYEDIRE",
+      "lga_code": "04",
+      "state_id": 30,
+      "lga_id": 603
+    },
+    {
+      "id_lga": 604,
+      "lga": "BOLUWADURO",
+      "lga_code": "05",
+      "state_id": 30,
+      "lga_id": 604
+    },
+    {
+      "id_lga": 605,
+      "lga": "BORIPE",
+      "lga_code": "06",
+      "state_id": 30,
+      "lga_id": 605
+    },
+    {
+      "id_lga": 606,
+      "lga": "EDE NORTH",
+      "lga_code": "07",
+      "state_id": 30,
+      "lga_id": 606
+    },
+    {
+      "id_lga": 607,
+      "lga": "EDE SOUTH",
+      "lga_code": "08",
+      "state_id": 30,
+      "lga_id": 607
+    },
+    {
+      "id_lga": 608,
+      "lga": "EGBEDORE",
+      "lga_code": "09",
+      "state_id": 30,
+      "lga_id": 608
+    },
+    {
+      "id_lga": 609,
+      "lga": "EJIGBO",
+      "lga_code": "10",
+      "state_id": 30,
+      "lga_id": 609
+    },
+    {
+      "id_lga": 610,
+      "lga": "IFE CENTRAL",
+      "lga_code": "11",
+      "state_id": 30,
+      "lga_id": 610
+    },
+    {
+      "id_lga": 611,
+      "lga": "IFEDAYO",
+      "lga_code": "12",
+      "state_id": 30,
+      "lga_id": 611
+    },
+    {
+      "id_lga": 612,
+      "lga": "IFE EAST",
+      "lga_code": "13",
+      "state_id": 30,
+      "lga_id": 612
+    },
+    {
+      "id_lga": 613,
+      "lga": "IFE NORTH",
+      "lga_code": "15",
+      "state_id": 30,
+      "lga_id": 613
+    },
+    {
+      "id_lga": 614,
+      "lga": "IFE SOUTH",
+      "lga_code": "16",
+      "state_id": 30,
+      "lga_id": 614
+    },
+    {
+      "id_lga": 615,
+      "lga": "ILA",
+      "lga_code": "17",
+      "state_id": 30,
+      "lga_id": 615
+    },
+    {
+      "id_lga": 616,
+      "lga": "ILESA EAST",
+      "lga_code": "18",
+      "state_id": 30,
+      "lga_id": 616
+    },
+    {
+      "id_lga": 617,
+      "lga": "ILESA WEST",
+      "lga_code": "19",
+      "state_id": 30,
+      "lga_id": 617
+    },
+    {
+      "id_lga": 618,
+      "lga": "IREWOLE",
+      "lga_code": "21",
+      "state_id": 30,
+      "lga_id": 618
+    },
+    {
+      "id_lga": 619,
+      "lga": "ISOKAN",
+      "lga_code": "22",
+      "state_id": 30,
+      "lga_id": 619
+    },
+    {
+      "id_lga": 620,
+      "lga": "IWO",
+      "lga_code": "23",
+      "state_id": 30,
+      "lga_id": 620
+    },
+    {
+      "id_lga": 621,
+      "lga": "OBOKUN",
+      "lga_code": "24",
+      "state_id": 30,
+      "lga_id": 621
+    },
+    {
+      "id_lga": 622,
+      "lga": "ODO-OTIN",
+      "lga_code": "25",
+      "state_id": 30,
+      "lga_id": 622
+    },
+    {
+      "id_lga": 623,
+      "lga": "OLA-OLUWA",
+      "lga_code": "26",
+      "state_id": 30,
+      "lga_id": 623
+    },
+    {
+      "id_lga": 624,
+      "lga": "OLORUNDA",
+      "lga_code": "27",
+      "state_id": 30,
+      "lga_id": 624
+    },
+    {
+      "id_lga": 625,
+      "lga": "ORIADE",
+      "lga_code": "28",
+      "state_id": 30,
+      "lga_id": 625
+    },
+    {
+      "id_lga": 626,
+      "lga": "OROLU",
+      "lga_code": "29",
+      "state_id": 30,
+      "lga_id": 626
+    },
+    {
+      "id_lga": 627,
+      "lga": "OSOGBO",
+      "lga_code": "30",
+      "state_id": 30,
+      "lga_id": 627
+    },
+    {
+      "id_lga": 628,
+      "lga": "AFIJIO",
+      "lga_code": "01",
+      "state_id": 31,
+      "lga_id": 628
+    },
+    {
+      "id_lga": 629,
+      "lga": "AKINYELE",
+      "lga_code": "02",
+      "state_id": 31,
+      "lga_id": 629
+    },
+    {
+      "id_lga": 630,
+      "lga": "ATIBA",
+      "lga_code": "03",
+      "state_id": 31,
+      "lga_id": 630
+    },
+    {
+      "id_lga": 631,
+      "lga": "ATISBO",
+      "lga_code": "04",
+      "state_id": 31,
+      "lga_id": 631
+    },
+    {
+      "id_lga": 632,
+      "lga": "EGBEDA",
+      "lga_code": "05",
+      "state_id": 31,
+      "lga_id": 632
+    },
+    {
+      "id_lga": 633,
+      "lga": "IBADAN NORTH",
+      "lga_code": "06",
+      "state_id": 31,
+      "lga_id": 633
+    },
+    {
+      "id_lga": 634,
+      "lga": "OGBOMOSHO",
+      "lga_code": "07",
+      "state_id": 31,
+      "lga_id": 634
+    },
+    {
+      "id_lga": 635,
+      "lga": "IBADAN NORTH WEST",
+      "lga_code": "08",
+      "state_id": 31,
+      "lga_id": 635
+    },
+    {
+      "id_lga": 636,
+      "lga": "IBADAN SOUTH-EAST",
+      "lga_code": "09",
+      "state_id": 31,
+      "lga_id": 636
+    },
+    {
+      "id_lga": 637,
+      "lga": "IBADAN SOUTH WEST",
+      "lga_code": "10",
+      "state_id": 31,
+      "lga_id": 637
+    },
+    {
+      "id_lga": 638,
+      "lga": "IBARAPA CENTRAL",
+      "lga_code": "11",
+      "state_id": 31,
+      "lga_id": 638
+    },
+    {
+      "id_lga": 639,
+      "lga": "IBARAPA EAST",
+      "lga_code": "12",
+      "state_id": 31,
+      "lga_id": 639
+    },
+    {
+      "id_lga": 640,
+      "lga": "IBARAPA NORTH",
+      "lga_code": "13",
+      "state_id": 31,
+      "lga_id": 640
+    },
+    {
+      "id_lga": 641,
+      "lga": "IDO",
+      "lga_code": "14",
+      "state_id": 31,
+      "lga_id": 641
+    },
+    {
+      "id_lga": 642,
+      "lga": "IREPO",
+      "lga_code": "15",
+      "state_id": 31,
+      "lga_id": 642
+    },
+    {
+      "id_lga": 643,
+      "lga": "ISEYIN",
+      "lga_code": "16",
+      "state_id": 31,
+      "lga_id": 643
+    },
+    {
+      "id_lga": 644,
+      "lga": "ITESIWAJU",
+      "lga_code": "17",
+      "state_id": 31,
+      "lga_id": 644
+    },
+    {
+      "id_lga": 645,
+      "lga": "IWAJOWA",
+      "lga_code": "18",
+      "state_id": 31,
+      "lga_id": 645
+    },
+    {
+      "id_lga": 646,
+      "lga": "KAJOLA",
+      "lga_code": "19",
+      "state_id": 31,
+      "lga_id": 646
+    },
+    {
+      "id_lga": 647,
+      "lga": "LAGELU",
+      "lga_code": "20",
+      "state_id": 31,
+      "lga_id": 647
+    },
+    {
+      "id_lga": 648,
+      "lga": "IBADAN NORTH EAST",
+      "lga_code": "21",
+      "state_id": 31,
+      "lga_id": 648
+    },
+    {
+      "id_lga": 649,
+      "lga": "OGBOMOSO SOUTH",
+      "lga_code": "22",
+      "state_id": 31,
+      "lga_id": 649
+    },
+    {
+      "id_lga": 650,
+      "lga": "OGO-OLUWA",
+      "lga_code": "23",
+      "state_id": 31,
+      "lga_id": 650
+    },
+    {
+      "id_lga": 651,
+      "lga": "OLORUNSOGO",
+      "lga_code": "24",
+      "state_id": 31,
+      "lga_id": 651
+    },
+    {
+      "id_lga": 652,
+      "lga": "OLUYOLE",
+      "lga_code": "25",
+      "state_id": 31,
+      "lga_id": 652
+    },
+    {
+      "id_lga": 653,
+      "lga": "ONA-ARA",
+      "lga_code": "26",
+      "state_id": 31,
+      "lga_id": 653
+    },
+    {
+      "id_lga": 654,
+      "lga": "OORELOPE",
+      "lga_code": "27",
+      "state_id": 31,
+      "lga_id": 654
+    },
+    {
+      "id_lga": 655,
+      "lga": "ORI IRE",
+      "lga_code": "28",
+      "state_id": 31,
+      "lga_id": 655
+    },
+    {
+      "id_lga": 656,
+      "lga": "OYO EAST",
+      "lga_code": "29",
+      "state_id": 31,
+      "lga_id": 656
+    },
+    {
+      "id_lga": 657,
+      "lga": "OYO WEST",
+      "lga_code": "30",
+      "state_id": 31,
+      "lga_id": 657
+    },
+    {
+      "id_lga": 658,
+      "lga": "SAKI EAST",
+      "lga_code": "31",
+      "state_id": 31,
+      "lga_id": 658
+    },
+    {
+      "id_lga": 659,
+      "lga": "SAKI WEST",
+      "lga_code": "32",
+      "state_id": 31,
+      "lga_id": 659
+    },
+    {
+      "id_lga": 660,
+      "lga": "BARIKIN LADI",
+      "lga_code": "01",
+      "state_id": 32,
+      "lga_id": 660
+    },
+    {
+      "id_lga": 661,
+      "lga": "BOKKOS",
+      "lga_code": "03",
+      "state_id": 32,
+      "lga_id": 661
+    },
+    {
+      "id_lga": 662,
+      "lga": "JOS EAST",
+      "lga_code": "04",
+      "state_id": 32,
+      "lga_id": 662
+    },
+    {
+      "id_lga": 663,
+      "lga": "JOS NORTH",
+      "lga_code": "05",
+      "state_id": 32,
+      "lga_id": 663
+    },
+    {
+      "id_lga": 664,
+      "lga": "JOS SOUTH",
+      "lga_code": "06",
+      "state_id": 32,
+      "lga_id": 664
+    },
+    {
+      "id_lga": 665,
+      "lga": "KANAM",
+      "lga_code": "07",
+      "state_id": 32,
+      "lga_id": 665
+    },
+    {
+      "id_lga": 666,
+      "lga": "KANKE",
+      "lga_code": "08",
+      "state_id": 32,
+      "lga_id": 666
+    },
+    {
+      "id_lga": 667,
+      "lga": "LANGTANG NORTH",
+      "lga_code": "09",
+      "state_id": 32,
+      "lga_id": 667
+    },
+    {
+      "id_lga": 668,
+      "lga": "LANGTANG SOUTH",
+      "lga_code": "10",
+      "state_id": 32,
+      "lga_id": 668
+    },
+    {
+      "id_lga": 669,
+      "lga": "MANGU",
+      "lga_code": "11",
+      "state_id": 32,
+      "lga_id": 669
+    },
+    {
+      "id_lga": 670,
+      "lga": "MIKANG",
+      "lga_code": "12",
+      "state_id": 32,
+      "lga_id": 670
+    },
+    {
+      "id_lga": 671,
+      "lga": "PANKSHIN",
+      "lga_code": "13",
+      "state_id": 32,
+      "lga_id": 671
+    },
+    {
+      "id_lga": 672,
+      "lga": "QUA'AN PAN",
+      "lga_code": "14",
+      "state_id": 32,
+      "lga_id": 672
+    },
+    {
+      "id_lga": 673,
+      "lga": "RIYOM",
+      "lga_code": "15",
+      "state_id": 32,
+      "lga_id": 673
+    },
+    {
+      "id_lga": 674,
+      "lga": "SHENDAM",
+      "lga_code": "16",
+      "state_id": 32,
+      "lga_id": 674
+    },
+    {
+      "id_lga": 675,
+      "lga": "WASE",
+      "lga_code": "17",
+      "state_id": 32,
+      "lga_id": 675
+    },
+    {
+      "id_lga": 676,
+      "lga": "ABUA-ODUAL",
+      "lga_code": "01",
+      "state_id": 33,
+      "lga_id": 676
+    },
+    {
+      "id_lga": 677,
+      "lga": "AHOADA EAST",
+      "lga_code": "02",
+      "state_id": 33,
+      "lga_id": 677
+    },
+    {
+      "id_lga": 678,
+      "lga": "AHOADA WEST",
+      "lga_code": "03",
+      "state_id": 33,
+      "lga_id": 678
+    },
+    {
+      "id_lga": 679,
+      "lga": "AKUKU TORU",
+      "lga_code": "04",
+      "state_id": 33,
+      "lga_id": 679
+    },
+    {
+      "id_lga": 680,
+      "lga": "ANDONI",
+      "lga_code": "05",
+      "state_id": 33,
+      "lga_id": 680
+    },
+    {
+      "id_lga": 681,
+      "lga": "ASARI-TORU",
+      "lga_code": "06",
+      "state_id": 33,
+      "lga_id": 681
+    },
+    {
+      "id_lga": 682,
+      "lga": "BONNY",
+      "lga_code": "07",
+      "state_id": 33,
+      "lga_id": 682
+    },
+    {
+      "id_lga": 683,
+      "lga": "DEGEMA",
+      "lga_code": "08",
+      "state_id": 33,
+      "lga_id": 683
+    },
+    {
+      "id_lga": 684,
+      "lga": "ELEME",
+      "lga_code": "09",
+      "state_id": 33,
+      "lga_id": 684
+    },
+    {
+      "id_lga": 685,
+      "lga": "EMOHUA",
+      "lga_code": "10",
+      "state_id": 33,
+      "lga_id": 685
+    },
+    {
+      "id_lga": 686,
+      "lga": "ETCHE",
+      "lga_code": "11",
+      "state_id": 33,
+      "lga_id": 686
+    },
+    {
+      "id_lga": 687,
+      "lga": "GOKANA",
+      "lga_code": "12",
+      "state_id": 33,
+      "lga_id": 687
+    },
+    {
+      "id_lga": 688,
+      "lga": "IKWERRE",
+      "lga_code": "13",
+      "state_id": 33,
+      "lga_id": 688
+    },
+    {
+      "id_lga": 689,
+      "lga": "KHANA",
+      "lga_code": "14",
+      "state_id": 33,
+      "lga_id": 689
+    },
+    {
+      "id_lga": 690,
+      "lga": "OBIO/AKPOR",
+      "lga_code": "15",
+      "state_id": 33,
+      "lga_id": 690
+    },
+    {
+      "id_lga": 691,
+      "lga": "OGBA/EGBEMA/NDONI",
+      "lga_code": "16",
+      "state_id": 33,
+      "lga_id": 691
+    },
+    {
+      "id_lga": 692,
+      "lga": "OGU/BOLO",
+      "lga_code": "17",
+      "state_id": 33,
+      "lga_id": 692
+    },
+    {
+      "id_lga": 693,
+      "lga": "OKRIKA",
+      "lga_code": "18",
+      "state_id": 33,
+      "lga_id": 693
+    },
+    {
+      "id_lga": 694,
+      "lga": "OMUMA",
+      "lga_code": "19",
+      "state_id": 33,
+      "lga_id": 694
+    },
+    {
+      "id_lga": 695,
+      "lga": "OPOBO/NEKORO",
+      "lga_code": "20",
+      "state_id": 33,
+      "lga_id": 695
+    },
+    {
+      "id_lga": 696,
+      "lga": "OYIGBO",
+      "lga_code": "21",
+      "state_id": 33,
+      "lga_id": 696
+    },
+    {
+      "id_lga": 697,
+      "lga": "PORT HARCOURT",
+      "lga_code": "22",
+      "state_id": 33,
+      "lga_id": 697
+    },
+    {
+      "id_lga": 698,
+      "lga": "TAI",
+      "lga_code": "23",
+      "state_id": 33,
+      "lga_id": 698
+    },
+    {
+      "id_lga": 699,
+      "lga": "BINJI",
+      "lga_code": "01",
+      "state_id": 34,
+      "lga_id": 699
+    },
+    {
+      "id_lga": 700,
+      "lga": "BODINGA",
+      "lga_code": "02",
+      "state_id": 34,
+      "lga_id": 700
+    },
+    {
+      "id_lga": 701,
+      "lga": "DANGE/SHUNI",
+      "lga_code": "03",
+      "state_id": 34,
+      "lga_id": 701
+    },
+    {
+      "id_lga": 702,
+      "lga": "GADA",
+      "lga_code": "04",
+      "state_id": 34,
+      "lga_id": 702
+    },
+    {
+      "id_lga": 703,
+      "lga": "GORONYO",
+      "lga_code": "05",
+      "state_id": 34,
+      "lga_id": 703
+    },
+    {
+      "id_lga": 704,
+      "lga": "GUDU",
+      "lga_code": "06",
+      "state_id": 34,
+      "lga_id": 704
+    },
+    {
+      "id_lga": 705,
+      "lga": "GWADABAWA",
+      "lga_code": "07",
+      "state_id": 34,
+      "lga_id": 705
+    },
+    {
+      "id_lga": 706,
+      "lga": "ILLELA",
+      "lga_code": "08",
+      "state_id": 34,
+      "lga_id": 706
+    },
+    {
+      "id_lga": 707,
+      "lga": "ISA",
+      "lga_code": "09",
+      "state_id": 34,
+      "lga_id": 707
+    },
+    {
+      "id_lga": 708,
+      "lga": "KWARE",
+      "lga_code": "10",
+      "state_id": 34,
+      "lga_id": 708
+    },
+    {
+      "id_lga": 709,
+      "lga": "KEBBE",
+      "lga_code": "11",
+      "state_id": 34,
+      "lga_id": 709
+    },
+    {
+      "id_lga": 710,
+      "lga": "RABAH",
+      "lga_code": "12",
+      "state_id": 34,
+      "lga_id": 710
+    },
+    {
+      "id_lga": 711,
+      "lga": "S/BIRNI",
+      "lga_code": "13",
+      "state_id": 34,
+      "lga_id": 711
+    },
+    {
+      "id_lga": 712,
+      "lga": "SHAGARI",
+      "lga_code": "14",
+      "state_id": 34,
+      "lga_id": 712
+    },
+    {
+      "id_lga": 713,
+      "lga": "SILAME",
+      "lga_code": "15",
+      "state_id": 34,
+      "lga_id": 713
+    },
+    {
+      "id_lga": 714,
+      "lga": "SOKOTO NORTH",
+      "lga_code": "16",
+      "state_id": 34,
+      "lga_id": 714
+    },
+    {
+      "id_lga": 715,
+      "lga": "SOKOTO SOUTH",
+      "lga_code": "17",
+      "state_id": 34,
+      "lga_id": 715
+    },
+    {
+      "id_lga": 716,
+      "lga": "TAMBUWAL",
+      "lga_code": "18",
+      "state_id": 34,
+      "lga_id": 716
+    },
+    {
+      "id_lga": 717,
+      "lga": "TANGAZA",
+      "lga_code": "19",
+      "state_id": 34,
+      "lga_id": 717
+    },
+    {
+      "id_lga": 718,
+      "lga": "TURETA",
+      "lga_code": "20",
+      "state_id": 34,
+      "lga_id": 718
+    },
+    {
+      "id_lga": 719,
+      "lga": "WAMAKKO",
+      "lga_code": "21",
+      "state_id": 34,
+      "lga_id": 719
+    },
+    {
+      "id_lga": 720,
+      "lga": "WURNO",
+      "lga_code": "22",
+      "state_id": 34,
+      "lga_id": 720
+    },
+    {
+      "id_lga": 721,
+      "lga": "YABO",
+      "lga_code": "23",
+      "state_id": 34,
+      "lga_id": 721
+    },
+    {
+      "id_lga": 722,
+      "lga": "ARDO - KOLA",
+      "lga_code": "01",
+      "state_id": 35,
+      "lga_id": 722
+    },
+    {
+      "id_lga": 723,
+      "lga": "BALI",
+      "lga_code": "02",
+      "state_id": 35,
+      "lga_id": 723
+    },
+    {
+      "id_lga": 724,
+      "lga": "DONGA",
+      "lga_code": "03",
+      "state_id": 35,
+      "lga_id": 724
+    },
+    {
+      "id_lga": 725,
+      "lga": "GASHAKA",
+      "lga_code": "04",
+      "state_id": 35,
+      "lga_id": 725
+    },
+    {
+      "id_lga": 726,
+      "lga": "GASSOL",
+      "lga_code": "05",
+      "state_id": 35,
+      "lga_id": 726
+    },
+    {
+      "id_lga": 727,
+      "lga": "IBI",
+      "lga_code": "06",
+      "state_id": 35,
+      "lga_id": 727
+    },
+    {
+      "id_lga": 728,
+      "lga": "JALINGO",
+      "lga_code": "07",
+      "state_id": 35,
+      "lga_id": 728
+    },
+    {
+      "id_lga": 729,
+      "lga": "KARIM-LAMIDO",
+      "lga_code": "08",
+      "state_id": 35,
+      "lga_id": 729
+    },
+    {
+      "id_lga": 730,
+      "lga": "KURMI",
+      "lga_code": "09",
+      "state_id": 35,
+      "lga_id": 730
+    },
+    {
+      "id_lga": 731,
+      "lga": "LAU",
+      "lga_code": "10",
+      "state_id": 35,
+      "lga_id": 731
+    },
+    {
+      "id_lga": 732,
+      "lga": "SARDAUNA",
+      "lga_code": "11",
+      "state_id": 35,
+      "lga_id": 732
+    },
+    {
+      "id_lga": 733,
+      "lga": "TAKUM",
+      "lga_code": "12",
+      "state_id": 35,
+      "lga_id": 733
+    },
+    {
+      "id_lga": 734,
+      "lga": "USSA",
+      "lga_code": "13",
+      "state_id": 35,
+      "lga_id": 734
+    },
+    {
+      "id_lga": 735,
+      "lga": "WUKARI",
+      "lga_code": "14",
+      "state_id": 35,
+      "lga_id": 735
+    },
+    {
+      "id_lga": 736,
+      "lga": "YORRO",
+      "lga_code": "15",
+      "state_id": 35,
+      "lga_id": 736
+    },
+    {
+      "id_lga": 737,
+      "lga": "ZING",
+      "lga_code": "16",
+      "state_id": 35,
+      "lga_id": 737
+    },
+    {
+      "id_lga": 738,
+      "lga": "BADE",
+      "lga_code": "01",
+      "state_id": 36,
+      "lga_id": 738
+    },
+    {
+      "id_lga": 739,
+      "lga": "BURSARI",
+      "lga_code": "02",
+      "state_id": 36,
+      "lga_id": 739
+    },
+    {
+      "id_lga": 740,
+      "lga": "DAMATURU",
+      "lga_code": "03",
+      "state_id": 36,
+      "lga_id": 740
+    },
+    {
+      "id_lga": 741,
+      "lga": "FIKA",
+      "lga_code": "04",
+      "state_id": 36,
+      "lga_id": 741
+    },
+    {
+      "id_lga": 742,
+      "lga": "FUNE",
+      "lga_code": "05",
+      "state_id": 36,
+      "lga_id": 742
+    },
+    {
+      "id_lga": 743,
+      "lga": "GEIDAM",
+      "lga_code": "06",
+      "state_id": 36,
+      "lga_id": 743
+    },
+    {
+      "id_lga": 744,
+      "lga": "GUJBA",
+      "lga_code": "07",
+      "state_id": 36,
+      "lga_id": 744
+    },
+    {
+      "id_lga": 745,
+      "lga": "GULANI",
+      "lga_code": "08",
+      "state_id": 36,
+      "lga_id": 745
+    },
+    {
+      "id_lga": 746,
+      "lga": "JAKUSKO",
+      "lga_code": "09",
+      "state_id": 36,
+      "lga_id": 746
+    },
+    {
+      "id_lga": 747,
+      "lga": "KARASAWA",
+      "lga_code": "10",
+      "state_id": 36,
+      "lga_id": 747
+    },
+    {
+      "id_lga": 748,
+      "lga": "MACHINA",
+      "lga_code": "11",
+      "state_id": 36,
+      "lga_id": 748
+    },
+    {
+      "id_lga": 749,
+      "lga": "NANGERE",
+      "lga_code": "12",
+      "state_id": 36,
+      "lga_id": 749
+    },
+    {
+      "id_lga": 750,
+      "lga": "NGURU",
+      "lga_code": "13",
+      "state_id": 36,
+      "lga_id": 750
+    },
+    {
+      "id_lga": 751,
+      "lga": "POTISKUM",
+      "lga_code": "14",
+      "state_id": 36,
+      "lga_id": 751
+    },
+    {
+      "id_lga": 752,
+      "lga": "TARMUWA",
+      "lga_code": "15",
+      "state_id": 36,
+      "lga_id": 752
+    },
+    {
+      "id_lga": 753,
+      "lga": "YUNUSARI",
+      "lga_code": "16",
+      "state_id": 36,
+      "lga_id": 753
+    },
+    {
+      "id_lga": 754,
+      "lga": "YUSUFARI",
+      "lga_code": "17",
+      "state_id": 36,
+      "lga_id": 754
+    },
+    {
+      "id_lga": 755,
+      "lga": "ANKA",
+      "lga_code": "01",
+      "state_id": 37,
+      "lga_id": 755
+    },
+    {
+      "id_lga": 756,
+      "lga": "BAKURA",
+      "lga_code": "02",
+      "state_id": 37,
+      "lga_id": 756
+    },
+    {
+      "id_lga": 757,
+      "lga": "BIRNIN MAGAJI",
+      "lga_code": "03",
+      "state_id": 37,
+      "lga_id": 757
+    },
+    {
+      "id_lga": 758,
+      "lga": "BUKKUYUM",
+      "lga_code": "04",
+      "state_id": 37,
+      "lga_id": 758
+    },
+    {
+      "id_lga": 759,
+      "lga": "BUNGUDU",
+      "lga_code": "05",
+      "state_id": 37,
+      "lga_id": 759
+    },
+    {
+      "id_lga": 760,
+      "lga": "GUMMI",
+      "lga_code": "06",
+      "state_id": 37,
+      "lga_id": 760
+    },
+    {
+      "id_lga": 761,
+      "lga": "GUSAU",
+      "lga_code": "07",
+      "state_id": 37,
+      "lga_id": 761
+    },
+    {
+      "id_lga": 762,
+      "lga": "KAURA NAMODA",
+      "lga_code": "08",
+      "state_id": 37,
+      "lga_id": 762
+    },
+    {
+      "id_lga": 763,
+      "lga": "MARADUN",
+      "lga_code": "09",
+      "state_id": 37,
+      "lga_id": 763
+    },
+    {
+      "id_lga": 764,
+      "lga": "MARU",
+      "lga_code": "10",
+      "state_id": 37,
+      "lga_id": 764
+    },
+    {
+      "id_lga": 765,
+      "lga": "SHINKAFI",
+      "lga_code": "11",
+      "state_id": 37,
+      "lga_id": 765
+    },
+    {
+      "id_lga": 766,
+      "lga": "TALATA MAFARA",
+      "lga_code": "12",
+      "state_id": 37,
+      "lga_id": 766
+    },
+    {
+      "id_lga": 767,
+      "lga": "TSAFE",
+      "lga_code": "13",
+      "state_id": 37,
+      "lga_id": 767
+    },
+    {
+      "id_lga": 768,
+      "lga": "ZURMI",
+      "lga_code": "14",
+      "state_id": 37,
+      "lga_id": 768
+    },
+    {
+      "id_lga": 769,
+      "lga": "NAVI",
+      "lga_code": "15",
+      "state_id": 37,
+      "lga_id": 769
+    },
+    {
+      "id_lga": 772,
+      "lga": "BASSA",
+      "lga_code": "18",
+      "state_id": 32,
+      "lga_id": 770
+    },
+    {
+      "id_lga": 782,
+      "lga": "OGBOMOSHO SOUTH",
+      "lga_code": "35",
+      "state_id": 31,
+      "lga_id": 771
+    },
+    {
+      "id_lga": 790,
+      "lga": "OGBOMOSHO NORTH",
+      "lga_code": "36",
+      "state_id": 31,
+      "lga_id": 772
+    }
+  ]

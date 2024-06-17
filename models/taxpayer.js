@@ -32,7 +32,7 @@ module.exports = (sequelize, DataTypes) => {
           key: "id",
         },
         onUpdate: "CASCADE",
-        onDelete: "SET NULL",
+        onDelete: "RESTRICT",
       },
       lga_id: {
         type: DataTypes.INTEGER,
@@ -41,7 +41,7 @@ module.exports = (sequelize, DataTypes) => {
           key: "id",
         },
         onUpdate: "CASCADE",
-        onDelete: "SET NULL",
+        onDelete: "RESTRICT",
       },
       street: DataTypes.STRING,
       address: DataTypes.STRING,

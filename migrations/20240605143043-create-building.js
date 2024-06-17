@@ -14,21 +14,23 @@ module.exports = {
       },
       state_id: {
         type: Sequelize.INTEGER,
+        allowNull: false,
         references: {
           model: "States",
           key: "id",
         },
         onUpdate: "CASCADE",
-        onDelete: "SET NULL",
+        onDelete: "RESTRICT",
       },
       lga_id: {
         type: Sequelize.INTEGER,
+        allowNull: false,
         references: {
           model: "Lgas",
           key: "id",
         },
         onUpdate: "CASCADE",
-        onDelete: "SET NULL",
+        onDelete: "RESTRICT",
       },
       street: {
         type: Sequelize.STRING,
