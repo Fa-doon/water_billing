@@ -1,0 +1,14 @@
+[
+  {
+    "purpose": "Residential"
+  },
+  {
+    "purpose": "Commercial"
+  },
+  {
+    "purpose": "Mixed use"
+  },
+  {
+    "purpose": "Multipurpose"
+  }
+]

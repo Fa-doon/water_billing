@@ -15,4 +15,12 @@ const lgaDetails = (data) => {
   return result;
 };
 
-module.exports = { stateDetails, lgaDetails };
+const purposeDetails = (data) => {
+  const result = data.map((entry) => ({
+    purpose: entry.purpose,
+  }));
+
+  return result;
+};
+
+module.exports = { stateDetails, lgaDetails, purposeDetails };

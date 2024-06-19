@@ -2,24 +2,24 @@ const { Role } = require("../models");
 const { CustomError } = require("../utils/customError");
 const { Sequelize  } = require("sequelize");
 
-const createRole = async (roleData) => {
-  try {
-    const existingRole = await Role.findOne({ where: { name: roleData.name } });
+// const createRole = async (roleData) => {
+//   try {
+//     const existingRole = await Role.findOne({ where: { name: roleData.name } });
 
-    if (existingRole) {
-      throw new CustomError("Role already exists", 409);
-    }
+//     if (existingRole) {
+//       throw new CustomError("Role already exists", 409);
+//     }
 
-    const createdRole = await Role.create(roleData);
-    return {
-      message: "Role created successfully",
-      data: createdRole,
-      statusCode: 201,
-    };
-  } catch (error) {
-    throw error;
-  }
-};
+//     const createdRole = await Role.create(roleData);
+//     return {
+//       message: "Role created successfully",
+//       data: createdRole,
+//       statusCode: 201,
+//     };
+//   } catch (error) {
+//     throw error;
+//   }
+// };
 
 const getAllRoles = async () => {
   try {
@@ -62,6 +62,7 @@ const getRoleById = async (roleId) => {
 
 const getRoleByRoleName = async (roleName) => {
   try {
+    // ignores casing or seperation between words
     const input = roleName.replace(/\s+/g, "").toLowerCase();
     const role = await Role.findOne({
       where: Sequelize.where(
@@ -107,29 +108,29 @@ const updateRole = async (roleId, updateDetails) => {
   }
 };
 
-const deleteRole = async (roleId) => {
-  try {
-    const role = await Role.findByPk(roleId);
-    if (!role) {
-      throw new CustomError(`Role with ID ${roleId} not found`, 404);
-    }
+// const deleteRole = async (roleId) => {
+//   try {
+//     const role = await Role.findByPk(roleId);
+//     if (!role) {
+//       throw new CustomError(`Role with ID ${roleId} not found`, 404);
+//     }
 
-    await role.destroy(roleId);
+//     await role.destroy(roleId);
 
-    return {
-      message: "Role deleted successfully",
-      statusCode: 200,
-    };
-  } catch (error) {
-    throw error;
-  }
-};
+//     return {
+//       message: "Role deleted successfully",
+//       statusCode: 200,
+//     };
+//   } catch (error) {
+//     throw error;
+//   }
+// };
 
 module.exports = {
-  createRole,
+  // createRole,
   getAllRoles,
   getRoleById,
   getRoleByRoleName,
   updateRole,
-  deleteRole,
+  // deleteRole,
 };
