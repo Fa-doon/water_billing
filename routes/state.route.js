@@ -7,6 +7,5 @@ const {
 const router = express.Router();
 
 router.get("/", getAllStates);
-router.get("/:id", getStateById);
 
 module.exports = router;

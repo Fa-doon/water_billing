@@ -1,11 +1,3 @@
-const stateDetails = (data) => {
-  const result = data.map((entry) => ({
-    state: entry.state,
-  }));
-
-  return result;
-};
-
 const lgaDetails = (data) => {
   const result = data.map((entry) => ({
     lga: entry.lga,
@@ -15,12 +7,13 @@ const lgaDetails = (data) => {
   return result;
 };
 
-const purposeDetails = (data) => {
+const townDetails = (data) => {
   const result = data.map((entry) => ({
-    purpose: entry.purpose,
+    town: entry.city,
+    lga_id: entry.lga_id,
   }));
 
   return result;
 };
 
-module.exports = { stateDetails, lgaDetails, purposeDetails };
+module.exports = { lgaDetails, townDetails };

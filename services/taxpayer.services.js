@@ -1,4 +1,4 @@
-const { Taxpayer, State, Lga } = require("../models");
+const { Taxpayer, State, Lga, Town } = require("../models");
 const { CustomError } = require("../utils/customError");
 
 const createTaxPayer = async (taxpayerDetails) => {
@@ -49,8 +49,9 @@ const getAllTaxpayers = async () => {
   try {
     const taxpayers = await Taxpayer.findAll({
       include: [
-        { model: State, attributes: ["id", "state"] },
-        { model: Lga, attributes: ["id", "lga"] },
+        { model: State, attributes: ["state"] },
+        { model: Lga, attributes: ["lga"] },
+        { model: Town, attributes: ["town"] },
       ],
     });
 
@@ -62,10 +63,13 @@ const getAllTaxpayers = async () => {
       };
     }
 
+    const taxpayerCount = await Taxpayer.count();
+
     return {
       message: "Taxpayers retrieved successfully",
       data: taxpayers,
       statusCode: 200,
+      count: taxpayerCount,
     };
   } catch (error) {
     throw error;
@@ -76,8 +80,9 @@ const getTaxpayerById = async (taxpayerId) => {
   try {
     const taxpayer = await Taxpayer.findByPk(taxpayerId, {
       include: [
-        { model: State, attributes: ["id", "state"] },
-        { model: Lga, attributes: ["id", "lga"] },
+        { model: State, attributes: ["state"] },
+        { model: Lga, attributes: ["lga"] },
+        { model: Town, attributes: ["town"] },
       ],
     });
 

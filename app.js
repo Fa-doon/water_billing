@@ -9,8 +9,11 @@ const authRoute = require("./routes/auth.route");
 const roleRoute = require("./routes/role.route");
 const stateRoute = require("./routes/state.route");
 const lgaRoute = require("./routes/lga.route");
+const townRoute = require("./routes/town.route");
 const taxpayerRoute = require("./routes/taxpayer.route");
 const purposeRoute = require("./routes/purpose.route");
+const functionRoute = require("./routes/function.route");
+const buildingRoute = require("./routes/building.route");
 
 const app = express();
 const PORT = process.env.PORT || 4000;
@@ -33,8 +36,11 @@ app.use("/api/v1/auth", authRoute);
 app.use("/api/v1/roles", roleRoute);
 app.use("/api/v1/states", stateRoute);
 app.use("/api/v1/lgas", lgaRoute);
+app.use("/api/v1/towns", townRoute);
 app.use("/api/v1/taxpayers", taxpayerRoute);
 app.use("/api/v1/purposes", purposeRoute);
+app.use("/api/v1/functions", functionRoute);
+app.use("/api/v1/buildings", buildingRoute);
 
 app.use(globalErrorHandler);
 

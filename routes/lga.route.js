@@ -10,8 +10,6 @@ const router = express.Router();
 
 // router.use(isAdmin);
 
-router.get("/", getAllLgas);
 router.get("/lga/:stateId", getLgaByStateId);
-router.get("/:id", getLgaById);
 
 module.exports = router;

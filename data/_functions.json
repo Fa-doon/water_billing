@@ -1,0 +1,29 @@
+[
+  {
+    "function": "Restaurant"
+  },
+  {
+    "function": "School"
+  },
+  {
+    "function": "Shopping Mall/Complex/Plaza"
+  },
+  {
+    "function": "Office"
+  },
+  {
+    "function": "Hotel"
+  },
+  {
+    "function": "School/Institution"
+  },
+  {
+    "function": "Bank"
+  },
+  {
+    "function": "Petrol Filling Station"
+  },
+  {
+    "function": "Residential"
+  }
+]

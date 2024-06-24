@@ -1,0 +1,4615 @@
+[
+    {
+      "id_city": 1,
+      "city": "AIYETORO AJEROMI",
+      "city_code": "5071",
+      "city_id": 1,
+      "lga_id": 507
+    },
+    {
+      "id_city": 2,
+      "city": "ARAROMI AJEROMI",
+      "city_code": "5072",
+      "city_id": 2,
+      "lga_id": 507
+    },
+    {
+      "id_city": 3,
+      "city": "ASHAFA",
+      "city_code": "5073",
+      "city_id": 3,
+      "lga_id": 507
+    },
+    {
+      "id_city": 4,
+      "city": "AWODI",
+      "city_code": "5074",
+      "city_id": 4,
+      "lga_id": 507
+    },
+    {
+      "id_city": 5,
+      "city": "CARDOSO",
+      "city_code": "5075",
+      "city_id": 5,
+      "lga_id": 507
+    },
+    {
+      "id_city": 6,
+      "city": "LAYENI",
+      "city_code": "5076",
+      "city_id": 6,
+      "lga_id": 507
+    },
+    {
+      "id_city": 7,
+      "city": "ONIBABA",
+      "city_code": "5077",
+      "city_id": 7,
+      "lga_id": 507
+    },
+    {
+      "id_city": 8,
+      "city": "ORODU",
+      "city_code": "5078",
+      "city_id": 8,
+      "lga_id": 507
+    },
+    {
+      "id_city": 9,
+      "city": "TEMIDIRE",
+      "city_code": "5079",
+      "city_id": 9,
+      "lga_id": 507
+    },
+    {
+      "id_city": 10,
+      "city": "TOLU",
+      "city_code": "50710",
+      "city_id": 10,
+      "lga_id": 507
+    },
+    {
+      "id_city": 11,
+      "city": "ABAGBO",
+      "city_code": "5221",
+      "city_id": 11,
+      "lga_id": 522
+    },
+    {
+      "id_city": 12,
+      "city": "ABULE ADE",
+      "city_code": "5222",
+      "city_id": 12,
+      "lga_id": 522
+    },
+    {
+      "id_city": 13,
+      "city": "ABULE AKA",
+      "city_code": "5223",
+      "city_id": 13,
+      "lga_id": 522
+    },
+    {
+      "id_city": 14,
+      "city": "ABULE ALIU",
+      "city_code": "5224",
+      "city_id": 14,
+      "lga_id": 522
+    },
+    {
+      "id_city": 15,
+      "city": "ABULE AREGBE",
+      "city_code": "5225",
+      "city_id": 15,
+      "lga_id": 522
+    },
+    {
+      "id_city": 16,
+      "city": "ABULE OSUN",
+      "city_code": "5226",
+      "city_id": 16,
+      "lga_id": 522
+    },
+    {
+      "id_city": 17,
+      "city": "ADE VILLAGE",
+      "city_code": "5227",
+      "city_id": 17,
+      "lga_id": 522
+    },
+    {
+      "id_city": 18,
+      "city": "AGAJA",
+      "city_code": "5228",
+      "city_id": 18,
+      "lga_id": 522
+    },
+    {
+      "id_city": 19,
+      "city": "AGAJA ASANI",
+      "city_code": "5229",
+      "city_id": 19,
+      "lga_id": 522
+    },
+    {
+      "id_city": 20,
+      "city": "AGALA",
+      "city_code": "52210",
+      "city_id": 20,
+      "lga_id": 522
+    },
+    {
+      "id_city": 21,
+      "city": "ABE  ABO",
+      "city_code": "5171",
+      "city_id": 21,
+      "lga_id": 517
+    },
+    {
+      "id_city": 22,
+      "city": "ABULE AJEREGUN",
+      "city_code": "5172",
+      "city_id": 22,
+      "lga_id": 517
+    },
+    {
+      "id_city": 23,
+      "city": "ABULE IGBIRA",
+      "city_code": "5173",
+      "city_id": 23,
+      "lga_id": 517
+    },
+    {
+      "id_city": 24,
+      "city": "ABULE OBA",
+      "city_code": "5174",
+      "city_id": 24,
+      "lga_id": 517
+    },
+    {
+      "id_city": 25,
+      "city": "ABULE OKUTA",
+      "city_code": "5175",
+      "city_id": 25,
+      "lga_id": 517
+    },
+    {
+      "id_city": 26,
+      "city": "AGA",
+      "city_code": "5176",
+      "city_id": 26,
+      "lga_id": 517
+    },
+    {
+      "id_city": 27,
+      "city": "AGBAGA ARAROMI",
+      "city_code": "5177",
+      "city_id": 27,
+      "lga_id": 517
+    },
+    {
+      "id_city": 28,
+      "city": "AGBALA",
+      "city_code": "5178",
+      "city_id": 28,
+      "lga_id": 517
+    },
+    {
+      "id_city": 29,
+      "city": "AGBEDE",
+      "city_code": "5179",
+      "city_id": 29,
+      "lga_id": 517
+    },
+    {
+      "id_city": 111,
+      "city": "ABA IGBEKELE",
+      "city_code": "5141",
+      "city_id": 30,
+      "lga_id": 514
+    },
+    {
+      "id_city": 112,
+      "city": "ABA ORIYABRIN",
+      "city_code": "5142",
+      "city_id": 31,
+      "lga_id": 514
+    },
+    {
+      "id_city": 113,
+      "city": "ABEGEDE",
+      "city_code": "5143",
+      "city_id": 32,
+      "lga_id": 514
+    },
+    {
+      "id_city": 114,
+      "city": "ABIJO",
+      "city_code": "5144",
+      "city_id": 33,
+      "lga_id": 514
+    },
+    {
+      "id_city": 115,
+      "city": "ABULE PANU",
+      "city_code": "5145",
+      "city_id": 34,
+      "lga_id": 514
+    },
+    {
+      "id_city": 116,
+      "city": "ADEBA",
+      "city_code": "5146",
+      "city_id": 35,
+      "lga_id": 514
+    },
+    {
+      "id_city": 117,
+      "city": "AGBOWA ONIBEJU",
+      "city_code": "5147",
+      "city_id": 36,
+      "lga_id": 514
+    },
+    {
+      "id_city": 118,
+      "city": "AIYETEJU OFIRAN",
+      "city_code": "5148",
+      "city_id": 37,
+      "lga_id": 514
+    },
+    {
+      "id_city": 119,
+      "city": "AJEGBENWA",
+      "city_code": "5149",
+      "city_id": 38,
+      "lga_id": 514
+    },
+    {
+      "id_city": 120,
+      "city": "AJIBADE",
+      "city_code": "51410",
+      "city_id": 39,
+      "lga_id": 514
+    },
+    {
+      "id_city": 121,
+      "city": "AKODO",
+      "city_code": "51411",
+      "city_id": 40,
+      "lga_id": 514
+    },
+    {
+      "id_city": 122,
+      "city": "ARAPAGI",
+      "city_code": "51412",
+      "city_id": 41,
+      "lga_id": 514
+    },
+    {
+      "id_city": 123,
+      "city": "ARAPAGI OJOKO",
+      "city_code": "51413",
+      "city_id": 42,
+      "lga_id": 514
+    },
+    {
+      "id_city": 124,
+      "city": "ARAROMI",
+      "city_code": "51414",
+      "city_id": 43,
+      "lga_id": 514
+    },
+    {
+      "id_city": 125,
+      "city": "ARAROMI TOPE",
+      "city_code": "51415",
+      "city_id": 44,
+      "lga_id": 514
+    },
+    {
+      "id_city": 126,
+      "city": "AWOYAYA",
+      "city_code": "51416",
+      "city_id": 45,
+      "lga_id": 514
+    },
+    {
+      "id_city": 127,
+      "city": "BADORE",
+      "city_code": "51417",
+      "city_id": 46,
+      "lga_id": 514
+    },
+    {
+      "id_city": 128,
+      "city": "BATEDO",
+      "city_code": "51418",
+      "city_id": 47,
+      "lga_id": 514
+    },
+    {
+      "id_city": 129,
+      "city": "BODIJE",
+      "city_code": "51419",
+      "city_id": 48,
+      "lga_id": 514
+    },
+    {
+      "id_city": 130,
+      "city": "DEBOJO",
+      "city_code": "51420",
+      "city_id": 49,
+      "lga_id": 514
+    },
+    {
+      "id_city": 131,
+      "city": "DONGO",
+      "city_code": "51421",
+      "city_id": 50,
+      "lga_id": 514
+    },
+    {
+      "id_city": 132,
+      "city": "EBUTE ITAMARUN",
+      "city_code": "51422",
+      "city_id": 51,
+      "lga_id": 514
+    },
+    {
+      "id_city": 133,
+      "city": "EFIRAN",
+      "city_code": "51423",
+      "city_id": 52,
+      "lga_id": 514
+    },
+    {
+      "id_city": 134,
+      "city": "ELEKO",
+      "city_code": "51424",
+      "city_id": 53,
+      "lga_id": 514
+    },
+    {
+      "id_city": 135,
+      "city": "ELEPUTU",
+      "city_code": "51425",
+      "city_id": 54,
+      "lga_id": 514
+    },
+    {
+      "id_city": 136,
+      "city": "EMU",
+      "city_code": "51426",
+      "city_id": 55,
+      "lga_id": 514
+    },
+    {
+      "id_city": 137,
+      "city": "EPUTU",
+      "city_code": "51427",
+      "city_id": 56,
+      "lga_id": 514
+    },
+    {
+      "id_city": 138,
+      "city": "GBOGIJE IBEJU",
+      "city_code": "51428",
+      "city_id": 57,
+      "lga_id": 514
+    },
+    {
+      "id_city": 139,
+      "city": "IBA",
+      "city_code": "51429",
+      "city_id": 58,
+      "lga_id": 514
+    },
+    {
+      "id_city": 140,
+      "city": "IBA OLOJA",
+      "city_code": "51430",
+      "city_id": 59,
+      "lga_id": 514
+    },
+    {
+      "id_city": 141,
+      "city": "IBA ONIGANGAN",
+      "city_code": "51431",
+      "city_id": 60,
+      "lga_id": 514
+    },
+    {
+      "id_city": 142,
+      "city": "IBEJU",
+      "city_code": "51432",
+      "city_id": 61,
+      "lga_id": 514
+    },
+    {
+      "id_city": 143,
+      "city": "IBEREKODO",
+      "city_code": "51433",
+      "city_id": 62,
+      "lga_id": 514
+    },
+    {
+      "id_city": 144,
+      "city": "IDAADO",
+      "city_code": "51434",
+      "city_id": 63,
+      "lga_id": 514
+    },
+    {
+      "id_city": 145,
+      "city": "IDADO",
+      "city_code": "51435",
+      "city_id": 64,
+      "lga_id": 514
+    },
+    {
+      "id_city": 146,
+      "city": "IDI OROGBO",
+      "city_code": "51436",
+      "city_id": 65,
+      "lga_id": 514
+    },
+    {
+      "id_city": 147,
+      "city": "IDIORI",
+      "city_code": "51437",
+      "city_id": 66,
+      "lga_id": 514
+    },
+    {
+      "id_city": 148,
+      "city": "IGANDO",
+      "city_code": "51438",
+      "city_id": 67,
+      "lga_id": 514
+    },
+    {
+      "id_city": 149,
+      "city": "IGANDO OLOJA",
+      "city_code": "51439",
+      "city_id": 68,
+      "lga_id": 514
+    },
+    {
+      "id_city": 150,
+      "city": "IGANDO ORUDU",
+      "city_code": "51440",
+      "city_id": 69,
+      "lga_id": 514
+    },
+    {
+      "id_city": 151,
+      "city": "ILADO",
+      "city_code": "51441",
+      "city_id": 70,
+      "lga_id": 514
+    },
+    {
+      "id_city": 152,
+      "city": "IMAGBON ALADE",
+      "city_code": "51442",
+      "city_id": 71,
+      "lga_id": 514
+    },
+    {
+      "id_city": 153,
+      "city": "IMAGBON OLOJA",
+      "city_code": "51443",
+      "city_id": 72,
+      "lga_id": 514
+    },
+    {
+      "id_city": 154,
+      "city": "IMAGBON SEGUN",
+      "city_code": "51444",
+      "city_id": 73,
+      "lga_id": 514
+    },
+    {
+      "id_city": 155,
+      "city": "IMALEFALAFIA",
+      "city_code": "51445",
+      "city_id": 74,
+      "lga_id": 514
+    },
+    {
+      "id_city": 156,
+      "city": "IMEGUN",
+      "city_code": "51446",
+      "city_id": 75,
+      "lga_id": 514
+    },
+    {
+      "id_city": 157,
+      "city": "ITO OMU",
+      "city_code": "51447",
+      "city_id": 76,
+      "lga_id": 514
+    },
+    {
+      "id_city": 158,
+      "city": "IWEREKUN",
+      "city_code": "51448",
+      "city_id": 77,
+      "lga_id": 514
+    },
+    {
+      "id_city": 159,
+      "city": "IWESO",
+      "city_code": "51449",
+      "city_id": 78,
+      "lga_id": 514
+    },
+    {
+      "id_city": 160,
+      "city": "KAJOLA",
+      "city_code": "51450",
+      "city_id": 79,
+      "lga_id": 514
+    },
+    {
+      "id_city": 161,
+      "city": "KALEPEWO",
+      "city_code": "51451",
+      "city_id": 80,
+      "lga_id": 514
+    },
+    {
+      "id_city": 162,
+      "city": "KEKURU",
+      "city_code": "51452",
+      "city_id": 81,
+      "lga_id": 514
+    },
+    {
+      "id_city": 163,
+      "city": "LAGASA",
+      "city_code": "51453",
+      "city_id": 82,
+      "lga_id": 514
+    },
+    {
+      "id_city": 164,
+      "city": "LAKOWE",
+      "city_code": "51454",
+      "city_id": 83,
+      "lga_id": 514
+    },
+    {
+      "id_city": 165,
+      "city": "LALAGASA",
+      "city_code": "51455",
+      "city_id": 84,
+      "lga_id": 514
+    },
+    {
+      "id_city": 166,
+      "city": "MAGBON ALADE",
+      "city_code": "51456",
+      "city_id": 85,
+      "lga_id": 514
+    },
+    {
+      "id_city": 167,
+      "city": "MALARA (IBEHU)",
+      "city_code": "51457",
+      "city_id": 86,
+      "lga_id": 514
+    },
+    {
+      "id_city": 168,
+      "city": "MOPO ONIBEJU",
+      "city_code": "51458",
+      "city_id": 87,
+      "lga_id": 514
+    },
+    {
+      "id_city": 169,
+      "city": "MOSAYO",
+      "city_code": "51459",
+      "city_id": 88,
+      "lga_id": 514
+    },
+    {
+      "id_city": 170,
+      "city": "MOSEJU",
+      "city_code": "51460",
+      "city_id": 89,
+      "lga_id": 514
+    },
+    {
+      "id_city": 171,
+      "city": "MOSERE IKOGA",
+      "city_code": "51461",
+      "city_id": 90,
+      "lga_id": 514
+    },
+    {
+      "id_city": 172,
+      "city": "MUSHIRI KOGO",
+      "city_code": "51462",
+      "city_id": 91,
+      "lga_id": 514
+    },
+    {
+      "id_city": 173,
+      "city": "OGODI",
+      "city_code": "51463",
+      "city_id": 92,
+      "lga_id": 514
+    },
+    {
+      "id_city": 174,
+      "city": "OGOGORO",
+      "city_code": "51464",
+      "city_id": 93,
+      "lga_id": 514
+    },
+    {
+      "id_city": 175,
+      "city": "OGUNTEDO",
+      "city_code": "51465",
+      "city_id": 94,
+      "lga_id": 514
+    },
+    {
+      "id_city": 176,
+      "city": "OJU OTO",
+      "city_code": "51466",
+      "city_id": 95,
+      "lga_id": 514
+    },
+    {
+      "id_city": 177,
+      "city": "OKO OBA",
+      "city_code": "51467",
+      "city_id": 96,
+      "lga_id": 514
+    },
+    {
+      "id_city": 178,
+      "city": "OKUNEGUN",
+      "city_code": "51468",
+      "city_id": 97,
+      "lga_id": 514
+    },
+    {
+      "id_city": 179,
+      "city": "OKUNSOLU",
+      "city_code": "51469",
+      "city_id": 98,
+      "lga_id": 514
+    },
+    {
+      "id_city": 180,
+      "city": "OLUMOFIN",
+      "city_code": "51470",
+      "city_id": 99,
+      "lga_id": 514
+    },
+    {
+      "id_city": 181,
+      "city": "ORIBANWA",
+      "city_code": "51471",
+      "city_id": 100,
+      "lga_id": 514
+    },
+    {
+      "id_city": 182,
+      "city": "ORIMEDU",
+      "city_code": "51472",
+      "city_id": 101,
+      "lga_id": 514
+    },
+    {
+      "id_city": 183,
+      "city": "OROFIN",
+      "city_code": "51473",
+      "city_id": 102,
+      "lga_id": 514
+    },
+    {
+      "id_city": 184,
+      "city": "PAKERE",
+      "city_code": "51474",
+      "city_id": 103,
+      "lga_id": 514
+    },
+    {
+      "id_city": 185,
+      "city": "SAPATI",
+      "city_code": "51475",
+      "city_id": 104,
+      "lga_id": 514
+    },
+    {
+      "id_city": 186,
+      "city": "SOLU",
+      "city_code": "51476",
+      "city_id": 105,
+      "lga_id": 514
+    },
+    {
+      "id_city": 187,
+      "city": "SOLU ALADE",
+      "city_code": "51477",
+      "city_id": 106,
+      "lga_id": 514
+    },
+    {
+      "id_city": 188,
+      "city": "TAGBATI",
+      "city_code": "51478",
+      "city_id": 107,
+      "lga_id": 514
+    },
+    {
+      "id_city": 189,
+      "city": "TAGBAWOYI",
+      "city_code": "51479",
+      "city_id": 108,
+      "lga_id": 514
+    },
+    {
+      "id_city": 190,
+      "city": "TALANO OKE",
+      "city_code": "51480",
+      "city_id": 109,
+      "lga_id": 514
+    },
+    {
+      "id_city": 191,
+      "city": "YABA IBEJU",
+      "city_code": "51481",
+      "city_id": 110,
+      "lga_id": 514
+    },
+    {
+      "id_city": 192,
+      "city": "ASOKORO",
+      "city_code": "2811",
+      "city_id": 111,
+      "lga_id": 281
+    },
+    {
+      "id_city": 193,
+      "city": "GARKI",
+      "city_code": "2812",
+      "city_id": 112,
+      "lga_id": 281
+    },
+    {
+      "id_city": 194,
+      "city": "MAITAMA",
+      "city_code": "2813",
+      "city_id": 113,
+      "lga_id": 281
+    },
+    {
+      "id_city": 195,
+      "city": "CBD",
+      "city_code": "2814",
+      "city_id": 114,
+      "lga_id": 281
+    },
+    {
+      "id_city": 196,
+      "city": "WUSE",
+      "city_code": "2815",
+      "city_id": 115,
+      "lga_id": 281
+    },
+    {
+      "id_city": 197,
+      "city": "WUSE II",
+      "city_code": "2816",
+      "city_id": 116,
+      "lga_id": 281
+    },
+    {
+      "id_city": 198,
+      "city": "GWARINPA",
+      "city_code": "2817",
+      "city_id": 117,
+      "lga_id": 281
+    },
+    {
+      "id_city": 199,
+      "city": "UTAKO",
+      "city_code": "2818",
+      "city_id": 118,
+      "lga_id": 281
+    },
+    {
+      "id_city": 200,
+      "city": "KUBWA",
+      "city_code": "2819",
+      "city_id": 119,
+      "lga_id": 281
+    },
+    {
+      "id_city": 201,
+      "city": "LUGBE",
+      "city_code": "28110",
+      "city_id": 120,
+      "lga_id": 281
+    },
+    {
+      "id_city": 202,
+      "city": "NYANYA",
+      "city_code": "28111",
+      "city_id": 121,
+      "lga_id": 281
+    },
+    {
+      "id_city": 203,
+      "city": "APO",
+      "city_code": "28112",
+      "city_id": 122,
+      "lga_id": 281
+    },
+    {
+      "id_city": 204,
+      "city": "WUYE",
+      "city_code": "28113",
+      "city_id": 123,
+      "lga_id": 281
+    },
+    {
+      "id_city": 205,
+      "city": "SURULERE",
+      "city_code": "5251",
+      "city_id": 124,
+      "lga_id": 525
+    },
+    {
+      "id_city": 206,
+      "city": "LAGOS MAINLAND",
+      "city_code": "5201",
+      "city_id": 125,
+      "lga_id": 520
+    },
+    {
+      "id_city": 207,
+      "city": "AGEGE",
+      "city_code": "5061",
+      "city_id": 126,
+      "lga_id": 506
+    },
+    {
+      "id_city": 208,
+      "city": "MUSHIN",
+      "city_code": "5121",
+      "city_id": 127,
+      "lga_id": 512
+    },
+    {
+      "id_city": 209,
+      "city": "LAGOS ISLAND",
+      "city_code": "5191",
+      "city_id": 128,
+      "lga_id": 519
+    },
+    {
+      "id_city": 210,
+      "city": "MARYLAND",
+      "city_code": "5161",
+      "city_id": 129,
+      "lga_id": 516
+    },
+    {
+      "id_city": 211,
+      "city": "SATELITE TOWN",
+      "city_code": "5162",
+      "city_id": 130,
+      "lga_id": 516
+    },
+    {
+      "id_city": 212,
+      "city": "TUDUN-WADA",
+      "city_code": "6631",
+      "city_id": 131,
+      "lga_id": 663
+    },
+    {
+      "id_city": 213,
+      "city": "YABA",
+      "city_code": "5202",
+      "city_id": 132,
+      "lga_id": 520
+    },
+    {
+      "id_city": 214,
+      "city": "OSHODI",
+      "city_code": "5231",
+      "city_id": 133,
+      "lga_id": 523
+    },
+    {
+      "id_city": 215,
+      "city": "ORILE",
+      "city_code": "5252",
+      "city_id": 134,
+      "lga_id": 525
+    },
+    {
+      "id_city": 216,
+      "city": "OKOTA",
+      "city_code": "5232",
+      "city_id": 135,
+      "lga_id": 523
+    },
+    {
+      "id_city": 217,
+      "city": "MUSHIN",
+      "city_code": "5211",
+      "city_id": 136,
+      "lga_id": 521
+    },
+    {
+      "id_city": 218,
+      "city": "IJESHATEDO",
+      "city_code": "5253",
+      "city_id": 137,
+      "lga_id": 525
+    },
+    {
+      "id_city": 219,
+      "city": "YENAGOA",
+      "city_code": "1181",
+      "city_id": 138,
+      "lga_id": 118
+    },
+    {
+      "id_city": 220,
+      "city": "EKET",
+      "city_code": "411",
+      "city_id": 139,
+      "lga_id": 41
+    },
+    {
+      "id_city": 221,
+      "city": "UMONOMO",
+      "city_code": "2941",
+      "city_id": 140,
+      "lga_id": 294
+    },
+    {
+      "id_city": 225,
+      "city": "ITIAM",
+      "city_code": "691",
+      "city_id": 141,
+      "lga_id": 69
+    },
+    {
+      "id_city": 226,
+      "city": "ITIAM IKOT EBIA",
+      "city_code": "692",
+      "city_id": 142,
+      "lga_id": 69
+    },
+    {
+      "id_city": 227,
+      "city": "UYO",
+      "city_code": "531",
+      "city_id": 143,
+      "lga_id": 53
+    },
+    {
+      "id_city": 228,
+      "city": "UYO",
+      "city_code": "621",
+      "city_id": 144,
+      "lga_id": 62
+    },
+    {
+      "id_city": 230,
+      "city": "UYO",
+      "city_code": "581",
+      "city_id": 145,
+      "lga_id": 58
+    },
+    {
+      "id_city": 231,
+      "city": "UYO",
+      "city_code": "451",
+      "city_id": 146,
+      "lga_id": 45
+    },
+    {
+      "id_city": 232,
+      "city": "UYO",
+      "city_code": "693",
+      "city_id": 147,
+      "lga_id": 69
+    },
+    {
+      "id_city": 233,
+      "city": "UYO",
+      "city_code": "681",
+      "city_id": 148,
+      "lga_id": 68
+    },
+    {
+      "id_city": 235,
+      "city": "UYO",
+      "city_code": "591",
+      "city_id": 149,
+      "lga_id": 59
+    },
+    {
+      "id_city": 237,
+      "city": "UYO",
+      "city_code": "431",
+      "city_id": 150,
+      "lga_id": 43
+    },
+    {
+      "id_city": 239,
+      "city": "UYO",
+      "city_code": "511",
+      "city_id": 151,
+      "lga_id": 51
+    },
+    {
+      "id_city": 244,
+      "city": "UYO",
+      "city_code": "671",
+      "city_id": 152,
+      "lga_id": 67
+    },
+    {
+      "id_city": 246,
+      "city": "UYO",
+      "city_code": "561",
+      "city_id": 153,
+      "lga_id": 56
+    },
+    {
+      "id_city": 247,
+      "city": "OYUBIA",
+      "city_code": "682",
+      "city_id": 154,
+      "lga_id": 68
+    },
+    {
+      "id_city": 250,
+      "city": "UYO",
+      "city_code": "471",
+      "city_id": 155,
+      "lga_id": 47
+    },
+    {
+      "id_city": 252,
+      "city": "IKOT EKANG",
+      "city_code": "541",
+      "city_id": 156,
+      "lga_id": 54
+    },
+    {
+      "id_city": 253,
+      "city": "IKOT ABASI AKPAN",
+      "city_code": "562",
+      "city_id": 157,
+      "lga_id": 56
+    },
+    {
+      "id_city": 254,
+      "city": "IBIAKU ISSIET",
+      "city_code": "672",
+      "city_id": 158,
+      "lga_id": 67
+    },
+    {
+      "id_city": 255,
+      "city": "UKANA IKOT UDO EKPAT",
+      "city_code": "432",
+      "city_id": 159,
+      "lga_id": 43
+    },
+    {
+      "id_city": 256,
+      "city": "AFAHA OBIO ENO",
+      "city_code": "481",
+      "city_id": 160,
+      "lga_id": 48
+    },
+    {
+      "id_city": 257,
+      "city": "MBO",
+      "city_code": "551",
+      "city_id": 161,
+      "lga_id": 55
+    },
+    {
+      "id_city": 258,
+      "city": "IBAKA",
+      "city_code": "552",
+      "city_id": 162,
+      "lga_id": 55
+    },
+    {
+      "id_city": 259,
+      "city": "UBODUNG ORO",
+      "city_code": "683",
+      "city_id": 163,
+      "lga_id": 68
+    },
+    {
+      "id_city": 260,
+      "city": "OKPALIKO, EZIOWELE",
+      "city_code": "791",
+      "city_id": 164,
+      "lga_id": 79
+    },
+    {
+      "id_city": 261,
+      "city": "ITUK MBANG",
+      "city_code": "673",
+      "city_id": 165,
+      "lga_id": 67
+    },
+    {
+      "id_city": 262,
+      "city": "NDON EYO",
+      "city_code": "622",
+      "city_id": 166,
+      "lga_id": 62
+    },
+    {
+      "id_city": 263,
+      "city": "OKOSSI",
+      "city_code": "684",
+      "city_id": 167,
+      "lga_id": 68
+    },
+    {
+      "id_city": 264,
+      "city": "UMUNUKO - UKPOR",
+      "city_code": "841",
+      "city_id": 168,
+      "lga_id": 84
+    },
+    {
+      "id_city": 265,
+      "city": "MANGU",
+      "city_code": "6691",
+      "city_id": 169,
+      "lga_id": 669
+    },
+    {
+      "id_city": 267,
+      "city": "OKPE",
+      "city_code": "1991",
+      "city_id": 170,
+      "lga_id": 199
+    },
+    {
+      "id_city": 268,
+      "city": "MANGU",
+      "city_code": "6632",
+      "city_id": 171,
+      "lga_id": 663
+    },
+    {
+      "id_city": 271,
+      "city": "ABOH MBAISE",
+      "city_code": "2931",
+      "city_id": 172,
+      "lga_id": 293
+    },
+    {
+      "id_city": 272,
+      "city": "DEKINA",
+      "city_code": "4861",
+      "city_id": 173,
+      "lga_id": 486
+    },
+    {
+      "id_city": 273,
+      "city": "ALHERI",
+      "city_code": "6633",
+      "city_id": 174,
+      "lga_id": 663
+    },
+    {
+      "id_city": 274,
+      "city": "BASSA",
+      "city_code": "6634",
+      "city_id": 175,
+      "lga_id": 663
+    },
+    {
+      "id_city": 275,
+      "city": "UMUANKWO",
+      "city_code": "851",
+      "city_id": 176,
+      "lga_id": 85
+    },
+    {
+      "id_city": 276,
+      "city": "JOS",
+      "city_code": "6635",
+      "city_id": 177,
+      "lga_id": 663
+    },
+    {
+      "id_city": 277,
+      "city": "JOS",
+      "city_code": "6661",
+      "city_id": 178,
+      "lga_id": 666
+    },
+    {
+      "id_city": 280,
+      "city": "JOS",
+      "city_code": "6641",
+      "city_id": 179,
+      "lga_id": 664
+    },
+    {
+      "id_city": 281,
+      "city": "JOS",
+      "city_code": "5254",
+      "city_id": 180,
+      "lga_id": 525
+    },
+    {
+      "id_city": 283,
+      "city": "JOS",
+      "city_code": "1231",
+      "city_id": 181,
+      "lga_id": 123
+    },
+    {
+      "id_city": 286,
+      "city": "JOS",
+      "city_code": "2771",
+      "city_id": 182,
+      "lga_id": 277
+    },
+    {
+      "id_city": 287,
+      "city": "ABUJA",
+      "city_code": "2791",
+      "city_id": 183,
+      "lga_id": 279
+    },
+    {
+      "id_city": 288,
+      "city": "JOS",
+      "city_code": "5261",
+      "city_id": 184,
+      "lga_id": 526
+    },
+    {
+      "id_city": 289,
+      "city": "JOS",
+      "city_code": "6601",
+      "city_id": 185,
+      "lga_id": 660
+    },
+    {
+      "id_city": 290,
+      "city": "NACHI",
+      "city_code": "2741",
+      "city_id": 186,
+      "lga_id": 274
+    },
+    {
+      "id_city": 291,
+      "city": "KUTA",
+      "city_code": "6031",
+      "city_id": 187,
+      "lga_id": 603
+    },
+    {
+      "id_city": 292,
+      "city": "OWERRI",
+      "city_code": "3061",
+      "city_id": 188,
+      "lga_id": 306
+    },
+    {
+      "id_city": 294,
+      "city": "ABIRIBA",
+      "city_code": "101",
+      "city_id": 189,
+      "lga_id": 10
+    },
+    {
+      "id_city": 295,
+      "city": "KABWIR",
+      "city_code": "6662",
+      "city_id": 190,
+      "lga_id": 666
+    },
+    {
+      "id_city": 296,
+      "city": "NGWA",
+      "city_code": "1461",
+      "city_id": 191,
+      "lga_id": 146
+    },
+    {
+      "id_city": 297,
+      "city": "TOS",
+      "city_code": "2971",
+      "city_id": 192,
+      "lga_id": 297
+    },
+    {
+      "id_city": 298,
+      "city": "ITEM",
+      "city_code": "41",
+      "city_id": 193,
+      "lga_id": 4
+    },
+    {
+      "id_city": 299,
+      "city": "OBOVIA",
+      "city_code": "2601",
+      "city_id": 194,
+      "lga_id": 260
+    },
+    {
+      "id_city": 301,
+      "city": "AWKA",
+      "city_code": "792",
+      "city_id": 195,
+      "lga_id": 79
+    },
+    {
+      "id_city": 302,
+      "city": "AMAGUNZE",
+      "city_code": "2691",
+      "city_id": 196,
+      "lga_id": 269
+    },
+    {
+      "id_city": 303,
+      "city": "ADO EKITI",
+      "city_code": "2431",
+      "city_id": 197,
+      "lga_id": 243
+    },
+    {
+      "id_city": 304,
+      "city": "DOMA",
+      "city_code": "5281",
+      "city_id": 198,
+      "lga_id": 528
+    },
+    {
+      "id_city": 305,
+      "city": "IGOGO-EKITI",
+      "city_code": "2571",
+      "city_id": 199,
+      "lga_id": 257
+    },
+    {
+      "id_city": 306,
+      "city": "JOS",
+      "city_code": "6621",
+      "city_id": 200,
+      "lga_id": 662
+    },
+    {
+      "id_city": 307,
+      "city": "MAKURDI",
+      "city_code": "1311",
+      "city_id": 201,
+      "lga_id": 131
+    },
+    {
+      "id_city": 309,
+      "city": "JOS",
+      "city_code": "1931",
+      "city_id": 202,
+      "lga_id": 193
+    },
+    {
+      "id_city": 311,
+      "city": "MAKURDI",
+      "city_code": "4851",
+      "city_id": 203,
+      "lga_id": 485
+    },
+    {
+      "id_city": 312,
+      "city": "MAKURDI",
+      "city_code": "2711",
+      "city_id": 204,
+      "lga_id": 271
+    },
+    {
+      "id_city": 314,
+      "city": "MAKURDI",
+      "city_code": "1241",
+      "city_id": 205,
+      "lga_id": 124
+    },
+    {
+      "id_city": 316,
+      "city": "MAKURDI",
+      "city_code": "2961",
+      "city_id": 206,
+      "lga_id": 296
+    },
+    {
+      "id_city": 319,
+      "city": "GUMA",
+      "city_code": "1242",
+      "city_id": 207,
+      "lga_id": 124
+    },
+    {
+      "id_city": 320,
+      "city": "KANSHIO",
+      "city_code": "1312",
+      "city_id": 208,
+      "lga_id": 131
+    },
+    {
+      "id_city": 321,
+      "city": "MAKURDI",
+      "city_code": "1411",
+      "city_id": 209,
+      "lga_id": 141
+    },
+    {
+      "id_city": 322,
+      "city": "MAKURDI",
+      "city_code": "42",
+      "city_id": 210,
+      "lga_id": 4
+    },
+    {
+      "id_city": 324,
+      "city": "MAKURDI",
+      "city_code": "4711",
+      "city_id": 211,
+      "lga_id": 471
+    },
+    {
+      "id_city": 326,
+      "city": "MAKURDI",
+      "city_code": "1221",
+      "city_id": 212,
+      "lga_id": 122
+    },
+    {
+      "id_city": 328,
+      "city": "MAKURDI",
+      "city_code": "1251",
+      "city_id": 213,
+      "lga_id": 125
+    },
+    {
+      "id_city": 330,
+      "city": "MAKURDI",
+      "city_code": "1331",
+      "city_id": 214,
+      "lga_id": 133
+    },
+    {
+      "id_city": 331,
+      "city": "MAKURDI",
+      "city_code": "1281",
+      "city_id": 215,
+      "lga_id": 128
+    },
+    {
+      "id_city": 332,
+      "city": "JERICO",
+      "city_code": "1371",
+      "city_id": 216,
+      "lga_id": 137
+    },
+    {
+      "id_city": 333,
+      "city": "ORAKAM",
+      "city_code": "1332",
+      "city_id": 217,
+      "lga_id": 133
+    },
+    {
+      "id_city": 335,
+      "city": "IMANE",
+      "city_code": "4862",
+      "city_id": 218,
+      "lga_id": 486
+    },
+    {
+      "id_city": 336,
+      "city": "MAKURDI",
+      "city_code": "1372",
+      "city_id": 219,
+      "lga_id": 137
+    },
+    {
+      "id_city": 338,
+      "city": "AKWANGA",
+      "city_code": "5262",
+      "city_id": 220,
+      "lga_id": 526
+    },
+    {
+      "id_city": 339,
+      "city": "GBEM",
+      "city_code": "1412",
+      "city_id": 221,
+      "lga_id": 141
+    },
+    {
+      "id_city": 340,
+      "city": "MAKUDI",
+      "city_code": "1252",
+      "city_id": 222,
+      "lga_id": 125
+    },
+    {
+      "id_city": 341,
+      "city": "ZAKI-BIAM",
+      "city_code": "1391",
+      "city_id": 223,
+      "lga_id": 139
+    },
+    {
+      "id_city": 342,
+      "city": "JIMETA",
+      "city_code": "371",
+      "city_id": 224,
+      "lga_id": 37
+    },
+    {
+      "id_city": 344,
+      "city": "MAKURDI",
+      "city_code": "1291",
+      "city_id": 225,
+      "lga_id": 129
+    },
+    {
+      "id_city": 346,
+      "city": "VANDEKIYA",
+      "city_code": "1313",
+      "city_id": 226,
+      "lga_id": 131
+    },
+    {
+      "id_city": 348,
+      "city": "OKPOGA",
+      "city_code": "1361",
+      "city_id": 227,
+      "lga_id": 136
+    },
+    {
+      "id_city": 349,
+      "city": "IGUMALE",
+      "city_code": "1191",
+      "city_id": 228,
+      "lga_id": 119
+    },
+    {
+      "id_city": 350,
+      "city": "GEMBU",
+      "city_code": "7321",
+      "city_id": 229,
+      "lga_id": 732
+    },
+    {
+      "id_city": 351,
+      "city": "UIKPAM",
+      "city_code": "1243",
+      "city_id": 230,
+      "lga_id": 124
+    },
+    {
+      "id_city": 352,
+      "city": "IGALAMELA",
+      "city_code": "4761",
+      "city_id": 231,
+      "lga_id": 476
+    },
+    {
+      "id_city": 353,
+      "city": "BENUE, BURUKU.",
+      "city_code": "1222",
+      "city_id": 232,
+      "lga_id": 122
+    },
+    {
+      "id_city": 354,
+      "city": "GBAJIMBA",
+      "city_code": "1244",
+      "city_id": 233,
+      "lga_id": 124
+    },
+    {
+      "id_city": 355,
+      "city": "ISHIAGU",
+      "city_code": "2201",
+      "city_id": 234,
+      "lga_id": 220
+    },
+    {
+      "id_city": 356,
+      "city": "IHIEJWO",
+      "city_code": "1341",
+      "city_id": 235,
+      "lga_id": 134
+    },
+    {
+      "id_city": 357,
+      "city": "IBAJI",
+      "city_code": "4741",
+      "city_id": 236,
+      "lga_id": 474
+    },
+    {
+      "id_city": 359,
+      "city": "AGASHA",
+      "city_code": "1245",
+      "city_id": 237,
+      "lga_id": 124
+    },
+    {
+      "id_city": 360,
+      "city": "AGWABI",
+      "city_code": "1223",
+      "city_id": 238,
+      "lga_id": 122
+    },
+    {
+      "id_city": 361,
+      "city": "TSE AGBERAGBA",
+      "city_code": "1282",
+      "city_id": 239,
+      "lga_id": 128
+    },
+    {
+      "id_city": 362,
+      "city": "ITYULUV",
+      "city_code": "1392",
+      "city_id": 240,
+      "lga_id": 139
+    },
+    {
+      "id_city": 364,
+      "city": "ABAKO",
+      "city_code": "1271",
+      "city_id": 241,
+      "lga_id": 127
+    },
+    {
+      "id_city": 365,
+      "city": "GBOKO",
+      "city_code": "1232",
+      "city_id": 242,
+      "lga_id": 123
+    },
+    {
+      "id_city": 366,
+      "city": "IKPAYONGO",
+      "city_code": "1253",
+      "city_id": 243,
+      "lga_id": 125
+    },
+    {
+      "id_city": 367,
+      "city": "OHAOZARA",
+      "city_code": "2221",
+      "city_id": 244,
+      "lga_id": 222
+    },
+    {
+      "id_city": 368,
+      "city": "ALIADE",
+      "city_code": "1254",
+      "city_id": 245,
+      "lga_id": 125
+    },
+    {
+      "id_city": 369,
+      "city": "OTUKPO",
+      "city_code": "1373",
+      "city_id": 246,
+      "lga_id": 137
+    },
+    {
+      "id_city": 375,
+      "city": "AYILARMON",
+      "city_code": "1301",
+      "city_id": 247,
+      "lga_id": 130
+    },
+    {
+      "id_city": 378,
+      "city": "TSE-AGBERAGBA",
+      "city_code": "1283",
+      "city_id": 248,
+      "lga_id": 128
+    },
+    {
+      "id_city": 379,
+      "city": "MARUAGU",
+      "city_code": "3561",
+      "city_id": 249,
+      "lga_id": 356
+    },
+    {
+      "id_city": 380,
+      "city": "UKEHE",
+      "city_code": "1284",
+      "city_id": 250,
+      "lga_id": 128
+    },
+    {
+      "id_city": 381,
+      "city": "DADIN KOWA",
+      "city_code": "3251",
+      "city_id": 251,
+      "lga_id": 325
+    },
+    {
+      "id_city": 382,
+      "city": "SAPELE",
+      "city_code": "2311",
+      "city_id": 252,
+      "lga_id": 231
+    },
+    {
+      "id_city": 383,
+      "city": "YABA MARKET",
+      "city_code": "5212",
+      "city_id": 253,
+      "lga_id": 521
+    },
+    {
+      "id_city": 384,
+      "city": "ILORIN",
+      "city_code": "4961",
+      "city_id": 254,
+      "lga_id": 496
+    },
+    {
+      "id_city": 386,
+      "city": "JOS",
+      "city_code": "6671",
+      "city_id": 255,
+      "lga_id": 667
+    },
+    {
+      "id_city": 387,
+      "city": "JOS",
+      "city_code": "6681",
+      "city_id": 256,
+      "lga_id": 668
+    },
+    {
+      "id_city": 388,
+      "city": "JOS",
+      "city_code": "6651",
+      "city_id": 257,
+      "lga_id": 665
+    },
+    {
+      "id_city": 389,
+      "city": "ILORIN",
+      "city_code": "4971",
+      "city_id": 258,
+      "lga_id": 497
+    },
+    {
+      "id_city": 390,
+      "city": "IBADAN",
+      "city_code": "6181",
+      "city_id": 259,
+      "lga_id": 618
+    },
+    {
+      "id_city": 391,
+      "city": "ILORIN",
+      "city_code": "5041",
+      "city_id": 260,
+      "lga_id": 504
+    },
+    {
+      "id_city": 392,
+      "city": "ILORIN",
+      "city_code": "4951",
+      "city_id": 261,
+      "lga_id": 495
+    },
+    {
+      "id_city": 393,
+      "city": "UMUARAN",
+      "city_code": "5021",
+      "city_id": 262,
+      "lga_id": 502
+    },
+    {
+      "id_city": 394,
+      "city": "OKE ERO",
+      "city_code": "5031",
+      "city_id": 263,
+      "lga_id": 503
+    },
+    {
+      "id_city": 395,
+      "city": "OMU ARAN",
+      "city_code": "6451",
+      "city_id": 264,
+      "lga_id": 645
+    },
+    {
+      "id_city": 396,
+      "city": "OMU ARAN",
+      "city_code": "4981",
+      "city_id": 265,
+      "lga_id": 498
+    },
+    {
+      "id_city": 397,
+      "city": "OMU ARAN",
+      "city_code": "4991",
+      "city_id": 266,
+      "lga_id": 499
+    },
+    {
+      "id_city": 398,
+      "city": "ILORIN",
+      "city_code": "5022",
+      "city_id": 267,
+      "lga_id": 502
+    },
+    {
+      "id_city": 399,
+      "city": "ILORIN",
+      "city_code": "4771",
+      "city_id": 268,
+      "lga_id": 477
+    },
+    {
+      "id_city": 400,
+      "city": "ILORIN",
+      "city_code": "4992",
+      "city_id": 269,
+      "lga_id": 499
+    },
+    {
+      "id_city": 401,
+      "city": "ILORIN",
+      "city_code": "6051",
+      "city_id": 270,
+      "lga_id": 605
+    },
+    {
+      "id_city": 403,
+      "city": "ILORIN",
+      "city_code": "2581",
+      "city_id": 271,
+      "lga_id": 258
+    },
+    {
+      "id_city": 404,
+      "city": "GUYUK",
+      "city_code": "231",
+      "city_id": 272,
+      "lga_id": 23
+    },
+    {
+      "id_city": 405,
+      "city": "OLERI",
+      "city_code": "2041",
+      "city_id": 273,
+      "lga_id": 204
+    },
+    {
+      "id_city": 406,
+      "city": "ILORIN",
+      "city_code": "4982",
+      "city_id": 274,
+      "lga_id": 498
+    },
+    {
+      "id_city": 407,
+      "city": "ILORIN",
+      "city_code": "4931",
+      "city_id": 275,
+      "lga_id": 493
+    },
+    {
+      "id_city": 408,
+      "city": "ILORIN",
+      "city_code": "731",
+      "city_id": 276,
+      "lga_id": 73
+    },
+    {
+      "id_city": 409,
+      "city": "ILORIN",
+      "city_code": "6441",
+      "city_id": 277,
+      "lga_id": 644
+    },
+    {
+      "id_city": 411,
+      "city": "ILORIN",
+      "city_code": "2501",
+      "city_id": 278,
+      "lga_id": 250
+    },
+    {
+      "id_city": 415,
+      "city": "ILORIN",
+      "city_code": "701",
+      "city_id": 279,
+      "lga_id": 70
+    },
+    {
+      "id_city": 416,
+      "city": "ILORIN",
+      "city_code": "1201",
+      "city_id": 280,
+      "lga_id": 120
+    },
+    {
+      "id_city": 417,
+      "city": "ILORIN",
+      "city_code": "5051",
+      "city_id": 281,
+      "lga_id": 505
+    },
+    {
+      "id_city": 418,
+      "city": "ILORIN",
+      "city_code": "6161",
+      "city_id": 282,
+      "lga_id": 616
+    },
+    {
+      "id_city": 419,
+      "city": "ILORIN",
+      "city_code": "6171",
+      "city_id": 283,
+      "lga_id": 617
+    },
+    {
+      "id_city": 421,
+      "city": "ILORIN",
+      "city_code": "4811",
+      "city_id": 284,
+      "lga_id": 481
+    },
+    {
+      "id_city": 422,
+      "city": "ILORIN",
+      "city_code": "5691",
+      "city_id": 285,
+      "lga_id": 569
+    },
+    {
+      "id_city": 423,
+      "city": "ILORIN",
+      "city_code": "6491",
+      "city_id": 286,
+      "lga_id": 649
+    },
+    {
+      "id_city": 425,
+      "city": "ILORIN",
+      "city_code": "5032",
+      "city_id": 287,
+      "lga_id": 503
+    },
+    {
+      "id_city": 427,
+      "city": "ILORIN",
+      "city_code": "4891",
+      "city_id": 288,
+      "lga_id": 489
+    },
+    {
+      "id_city": 428,
+      "city": "ILORIN",
+      "city_code": "4901",
+      "city_id": 289,
+      "lga_id": 490
+    },
+    {
+      "id_city": 429,
+      "city": "ILORIN",
+      "city_code": "4852",
+      "city_id": 290,
+      "lga_id": 485
+    },
+    {
+      "id_city": 430,
+      "city": "ILORIN",
+      "city_code": "1971",
+      "city_id": 291,
+      "lga_id": 197
+    },
+    {
+      "id_city": 431,
+      "city": "ILORIN",
+      "city_code": "5891",
+      "city_id": 292,
+      "lga_id": 589
+    },
+    {
+      "id_city": 432,
+      "city": "ILORIN",
+      "city_code": "6091",
+      "city_id": 293,
+      "lga_id": 609
+    },
+    {
+      "id_city": 436,
+      "city": "ILORIN",
+      "city_code": "5011",
+      "city_id": 294,
+      "lga_id": 501
+    },
+    {
+      "id_city": 437,
+      "city": "ILORIN",
+      "city_code": "6151",
+      "city_id": 295,
+      "lga_id": 615
+    },
+    {
+      "id_city": 438,
+      "city": "ILORIN",
+      "city_code": "6111",
+      "city_id": 296,
+      "lga_id": 611
+    },
+    {
+      "id_city": 440,
+      "city": "ILORIN",
+      "city_code": "1224",
+      "city_id": 297,
+      "lga_id": 122
+    },
+    {
+      "id_city": 441,
+      "city": "ILORIN",
+      "city_code": "5771",
+      "city_id": 298,
+      "lga_id": 577
+    },
+    {
+      "id_city": 442,
+      "city": "ILORIN",
+      "city_code": "4941",
+      "city_id": 299,
+      "lga_id": 494
+    },
+    {
+      "id_city": 444,
+      "city": "ADAIYAMOYE",
+      "city_code": "4772",
+      "city_id": 300,
+      "lga_id": 477
+    },
+    {
+      "id_city": 446,
+      "city": "OMU ARAN",
+      "city_code": "5033",
+      "city_id": 301,
+      "lga_id": 503
+    },
+    {
+      "id_city": 447,
+      "city": "IYAMOYE",
+      "city_code": "4773",
+      "city_id": 302,
+      "lga_id": 477
+    },
+    {
+      "id_city": 458,
+      "city": "AUCHI",
+      "city_code": "2331",
+      "city_id": 303,
+      "lga_id": 233
+    },
+    {
+      "id_city": 460,
+      "city": "ILORIN",
+      "city_code": "6531",
+      "city_id": 304,
+      "lga_id": 653
+    },
+    {
+      "id_city": 461,
+      "city": "EKITI",
+      "city_code": "2551",
+      "city_id": 305,
+      "lga_id": 255
+    },
+    {
+      "id_city": 463,
+      "city": "OMU ARAN",
+      "city_code": "2011",
+      "city_id": 306,
+      "lga_id": 201
+    },
+    {
+      "id_city": 472,
+      "city": "OMU ARAN",
+      "city_code": "4774",
+      "city_id": 307,
+      "lga_id": 477
+    },
+    {
+      "id_city": 474,
+      "city": "OMU ARAN",
+      "city_code": "4942",
+      "city_id": 308,
+      "lga_id": 494
+    },
+    {
+      "id_city": 477,
+      "city": "ILORIN",
+      "city_code": "2561",
+      "city_id": 309,
+      "lga_id": 256
+    },
+    {
+      "id_city": 478,
+      "city": "ILORIN",
+      "city_code": "3081",
+      "city_id": 310,
+      "lga_id": 308
+    },
+    {
+      "id_city": 482,
+      "city": "OMU ARAN",
+      "city_code": "4781",
+      "city_id": 311,
+      "lga_id": 478
+    },
+    {
+      "id_city": 485,
+      "city": "OMU ARAN",
+      "city_code": "1292",
+      "city_id": 312,
+      "lga_id": 129
+    },
+    {
+      "id_city": 487,
+      "city": "NASARAWA",
+      "city_code": "5291",
+      "city_id": 313,
+      "lga_id": 529
+    },
+    {
+      "id_city": 489,
+      "city": "OMU ARAN",
+      "city_code": "6211",
+      "city_id": 314,
+      "lga_id": 621
+    },
+    {
+      "id_city": 491,
+      "city": "OMU ARAN",
+      "city_code": "4932",
+      "city_id": 315,
+      "lga_id": 493
+    },
+    {
+      "id_city": 495,
+      "city": "OMU ARAN",
+      "city_code": "6081",
+      "city_id": 316,
+      "lga_id": 608
+    },
+    {
+      "id_city": 510,
+      "city": "OMU ARAN",
+      "city_code": "5681",
+      "city_id": 317,
+      "lga_id": 568
+    },
+    {
+      "id_city": 513,
+      "city": "OMU ARAN",
+      "city_code": "6061",
+      "city_id": 318,
+      "lga_id": 606
+    },
+    {
+      "id_city": 516,
+      "city": "OMU ARAN",
+      "city_code": "1911",
+      "city_id": 319,
+      "lga_id": 191
+    },
+    {
+      "id_city": 521,
+      "city": "OMU ARAN",
+      "city_code": "6221",
+      "city_id": 320,
+      "lga_id": 622
+    },
+    {
+      "id_city": 522,
+      "city": "OMU ARAN",
+      "city_code": "2451",
+      "city_id": 321,
+      "lga_id": 245
+    },
+    {
+      "id_city": 526,
+      "city": "OMU ARAN",
+      "city_code": "2511",
+      "city_id": 322,
+      "lga_id": 251
+    },
+    {
+      "id_city": 528,
+      "city": "OMU ARAN",
+      "city_code": "5023",
+      "city_id": 323,
+      "lga_id": 502
+    },
+    {
+      "id_city": 530,
+      "city": "OM",
+      "city_code": "5034",
+      "city_id": 324,
+      "lga_id": 503
+    },
+    {
+      "id_city": 531,
+      "city": "ILORIN",
+      "city_code": "2251",
+      "city_id": 325,
+      "lga_id": 225
+    },
+    {
+      "id_city": 532,
+      "city": "OMU ARAN",
+      "city_code": "6521",
+      "city_id": 326,
+      "lga_id": 652
+    },
+    {
+      "id_city": 539,
+      "city": "OMU ARAN",
+      "city_code": "3551",
+      "city_id": 327,
+      "lga_id": 355
+    },
+    {
+      "id_city": 549,
+      "city": "OMU ARAN",
+      "city_code": "5821",
+      "city_id": 328,
+      "lga_id": 582
+    },
+    {
+      "id_city": 574,
+      "city": "OMU ARAN",
+      "city_code": "6021",
+      "city_id": 329,
+      "lga_id": 602
+    },
+    {
+      "id_city": 576,
+      "city": "OMU ARAN",
+      "city_code": "2572",
+      "city_id": 330,
+      "lga_id": 257
+    },
+    {
+      "id_city": 578,
+      "city": "OMU ARAN",
+      "city_code": "2531",
+      "city_id": 331,
+      "lga_id": 253
+    },
+    {
+      "id_city": 580,
+      "city": "OMU ARAN",
+      "city_code": "5921",
+      "city_id": 332,
+      "lga_id": 592
+    },
+    {
+      "id_city": 581,
+      "city": "ILORIN",
+      "city_code": "6201",
+      "city_id": 333,
+      "lga_id": 620
+    },
+    {
+      "id_city": 582,
+      "city": "ILORIN",
+      "city_code": "3021",
+      "city_id": 334,
+      "lga_id": 302
+    },
+    {
+      "id_city": 583,
+      "city": "SUPARE-AKOKO",
+      "city_code": "5851",
+      "city_id": 335,
+      "lga_id": 585
+    },
+    {
+      "id_city": 584,
+      "city": "ILORIN",
+      "city_code": "6291",
+      "city_id": 336,
+      "lga_id": 629
+    },
+    {
+      "id_city": 585,
+      "city": "ILORIN",
+      "city_code": "6301",
+      "city_id": 337,
+      "lga_id": 630
+    },
+    {
+      "id_city": 586,
+      "city": "OMNI ARAN",
+      "city_code": "5922",
+      "city_id": 338,
+      "lga_id": 592
+    },
+    {
+      "id_city": 601,
+      "city": "OMU ARAN",
+      "city_code": "6052",
+      "city_id": 339,
+      "lga_id": 605
+    },
+    {
+      "id_city": 606,
+      "city": "OMU ARAN",
+      "city_code": "4881",
+      "city_id": 340,
+      "lga_id": 488
+    },
+    {
+      "id_city": 612,
+      "city": "OMU ARAN",
+      "city_code": "3562",
+      "city_id": 341,
+      "lga_id": 356
+    },
+    {
+      "id_city": 615,
+      "city": "EYENKORIN",
+      "city_code": "5012",
+      "city_id": 342,
+      "lga_id": 501
+    },
+    {
+      "id_city": 616,
+      "city": "OKE ODE",
+      "city_code": "4943",
+      "city_id": 343,
+      "lga_id": 494
+    },
+    {
+      "id_city": 617,
+      "city": "ILORIN",
+      "city_code": "161",
+      "city_id": 344,
+      "lga_id": 16
+    },
+    {
+      "id_city": 619,
+      "city": "IRAGBIJI",
+      "city_code": "6271",
+      "city_id": 345,
+      "lga_id": 627
+    },
+    {
+      "id_city": 622,
+      "city": "ILORIN",
+      "city_code": "6481",
+      "city_id": 346,
+      "lga_id": 648
+    },
+    {
+      "id_city": 623,
+      "city": "ILORIN",
+      "city_code": "6411",
+      "city_id": 347,
+      "lga_id": 641
+    },
+    {
+      "id_city": 626,
+      "city": "ILORIN",
+      "city_code": "831",
+      "city_id": 348,
+      "lga_id": 83
+    },
+    {
+      "id_city": 632,
+      "city": "ILORIN",
+      "city_code": "4882",
+      "city_id": 349,
+      "lga_id": 488
+    },
+    {
+      "id_city": 636,
+      "city": "ILORIN",
+      "city_code": "6071",
+      "city_id": 350,
+      "lga_id": 607
+    },
+    {
+      "id_city": 637,
+      "city": "ILORIN",
+      "city_code": "842",
+      "city_id": 351,
+      "lga_id": 84
+    },
+    {
+      "id_city": 642,
+      "city": "ILORIN",
+      "city_code": "6452",
+      "city_id": 352,
+      "lga_id": 645
+    },
+    {
+      "id_city": 649,
+      "city": "OMU ARAN",
+      "city_code": "6341",
+      "city_id": 353,
+      "lga_id": 634
+    },
+    {
+      "id_city": 651,
+      "city": "IKOTUN",
+      "city_code": "5042",
+      "city_id": 354,
+      "lga_id": 504
+    },
+    {
+      "id_city": 653,
+      "city": "ILORIN",
+      "city_code": "171",
+      "city_id": 355,
+      "lga_id": 17
+    },
+    {
+      "id_city": 660,
+      "city": "ILORIN",
+      "city_code": "4911",
+      "city_id": 356,
+      "lga_id": 491
+    },
+    {
+      "id_city": 666,
+      "city": "OYO TOWN",
+      "city_code": "6302",
+      "city_id": 357,
+      "lga_id": 630
+    },
+    {
+      "id_city": 673,
+      "city": "OMU ARAN",
+      "city_code": "6152",
+      "city_id": 358,
+      "lga_id": 615
+    },
+    {
+      "id_city": 681,
+      "city": "ILORIN",
+      "city_code": "5971",
+      "city_id": 359,
+      "lga_id": 597
+    },
+    {
+      "id_city": 682,
+      "city": "ILORIN",
+      "city_code": "2541",
+      "city_id": 360,
+      "lga_id": 254
+    },
+    {
+      "id_city": 697,
+      "city": "ILORIN",
+      "city_code": "5721",
+      "city_id": 361,
+      "lga_id": 572
+    },
+    {
+      "id_city": 702,
+      "city": "ILORIN",
+      "city_code": "6522",
+      "city_id": 362,
+      "lga_id": 652
+    },
+    {
+      "id_city": 717,
+      "city": "OMU ARAN",
+      "city_code": "2001",
+      "city_id": 363,
+      "lga_id": 200
+    },
+    {
+      "id_city": 727,
+      "city": "OMU ARAN",
+      "city_code": "5961",
+      "city_id": 364,
+      "lga_id": 596
+    },
+    {
+      "id_city": 732,
+      "city": "OMU ARAN",
+      "city_code": "1374",
+      "city_id": 365,
+      "lga_id": 137
+    },
+    {
+      "id_city": 750,
+      "city": "ILORIN",
+      "city_code": "2932",
+      "city_id": 366,
+      "lga_id": 293
+    },
+    {
+      "id_city": 767,
+      "city": "ILORIN",
+      "city_code": "751",
+      "city_id": 367,
+      "lga_id": 75
+    },
+    {
+      "id_city": 771,
+      "city": "ILORIN",
+      "city_code": "2532",
+      "city_id": 368,
+      "lga_id": 253
+    },
+    {
+      "id_city": 774,
+      "city": "ILORIN",
+      "city_code": "3181",
+      "city_id": 369,
+      "lga_id": 318
+    },
+    {
+      "id_city": 780,
+      "city": "ILORIN",
+      "city_code": "6581",
+      "city_id": 370,
+      "lga_id": 658
+    },
+    {
+      "id_city": 781,
+      "city": "ILORIN",
+      "city_code": "2452",
+      "city_id": 371,
+      "lga_id": 245
+    },
+    {
+      "id_city": 782,
+      "city": "ILORIN",
+      "city_code": "6041",
+      "city_id": 372,
+      "lga_id": 604
+    },
+    {
+      "id_city": 785,
+      "city": "ILORIN",
+      "city_code": "891",
+      "city_id": 373,
+      "lga_id": 89
+    },
+    {
+      "id_city": 786,
+      "city": "ILORIN",
+      "city_code": "4691",
+      "city_id": 374,
+      "lga_id": 469
+    },
+    {
+      "id_city": 793,
+      "city": "ILAWE",
+      "city_code": "2471",
+      "city_id": 375,
+      "lga_id": 247
+    },
+    {
+      "id_city": 797,
+      "city": "ILORIN",
+      "city_code": "3111",
+      "city_id": 376,
+      "lga_id": 311
+    },
+    {
+      "id_city": 800,
+      "city": "ADA",
+      "city_code": "6053",
+      "city_id": 377,
+      "lga_id": 605
+    },
+    {
+      "id_city": 802,
+      "city": "ILUDU-ORO",
+      "city_code": "4983",
+      "city_id": 378,
+      "lga_id": 498
+    },
+    {
+      "id_city": 806,
+      "city": "OSOGBO",
+      "city_code": "6272",
+      "city_id": 379,
+      "lga_id": 627
+    },
+    {
+      "id_city": 808,
+      "city": "ILORIN",
+      "city_code": "811",
+      "city_id": 380,
+      "lga_id": 81
+    },
+    {
+      "id_city": 814,
+      "city": "IBADAN",
+      "city_code": "6292",
+      "city_id": 381,
+      "lga_id": 629
+    },
+    {
+      "id_city": 816,
+      "city": "ILESA",
+      "city_code": "6162",
+      "city_id": 382,
+      "lga_id": 616
+    },
+    {
+      "id_city": 819,
+      "city": "ADO EKITI",
+      "city_code": "2521",
+      "city_id": 383,
+      "lga_id": 252
+    },
+    {
+      "id_city": 820,
+      "city": "EKPOMA",
+      "city_code": "2301",
+      "city_id": 384,
+      "lga_id": 230
+    },
+    {
+      "id_city": 822,
+      "city": "KABBA",
+      "city_code": "4782",
+      "city_id": 385,
+      "lga_id": 478
+    },
+    {
+      "id_city": 834,
+      "city": "IGBIDE",
+      "city_code": "1961",
+      "city_id": 386,
+      "lga_id": 196
+    },
+    {
+      "id_city": 835,
+      "city": "ILORIN",
+      "city_code": "3001",
+      "city_id": 387,
+      "lga_id": 300
+    },
+    {
+      "id_city": 841,
+      "city": "ILORIN",
+      "city_code": "4712",
+      "city_id": 388,
+      "lga_id": 471
+    },
+    {
+      "id_city": 842,
+      "city": "ILORIN",
+      "city_code": "741",
+      "city_id": 389,
+      "lga_id": 74
+    },
+    {
+      "id_city": 853,
+      "city": "ILORIN",
+      "city_code": "5761",
+      "city_id": 390,
+      "lga_id": 576
+    },
+    {
+      "id_city": 854,
+      "city": "ILORIN",
+      "city_code": "2461",
+      "city_id": 391,
+      "lga_id": 246
+    },
+    {
+      "id_city": 856,
+      "city": "ILORIN",
+      "city_code": "2621",
+      "city_id": 392,
+      "lga_id": 262
+    },
+    {
+      "id_city": 860,
+      "city": "ILORIN",
+      "city_code": "2202",
+      "city_id": 393,
+      "lga_id": 220
+    },
+    {
+      "id_city": 863,
+      "city": "ILORIN",
+      "city_code": "6421",
+      "city_id": 394,
+      "lga_id": 642
+    },
+    {
+      "id_city": 867,
+      "city": "ILORIN",
+      "city_code": "2222",
+      "city_id": 395,
+      "lga_id": 222
+    },
+    {
+      "id_city": 869,
+      "city": "IBADAN",
+      "city_code": "6321",
+      "city_id": 396,
+      "lga_id": 632
+    },
+    {
+      "id_city": 873,
+      "city": "ILORIN",
+      "city_code": "5001",
+      "city_id": 397,
+      "lga_id": 500
+    },
+    {
+      "id_city": 880,
+      "city": "ILORIN",
+      "city_code": "2302",
+      "city_id": 398,
+      "lga_id": 230
+    },
+    {
+      "id_city": 893,
+      "city": "ILORIN",
+      "city_code": "5871",
+      "city_id": 399,
+      "lga_id": 587
+    },
+    {
+      "id_city": 897,
+      "city": "ILORIN",
+      "city_code": "2241",
+      "city_id": 400,
+      "lga_id": 224
+    },
+    {
+      "id_city": 911,
+      "city": "ILORIN",
+      "city_code": "5711",
+      "city_id": 401,
+      "lga_id": 571
+    },
+    {
+      "id_city": 919,
+      "city": "ILORIN",
+      "city_code": "6182",
+      "city_id": 402,
+      "lga_id": 618
+    },
+    {
+      "id_city": 932,
+      "city": "ILORIN",
+      "city_code": "6311",
+      "city_id": 403,
+      "lga_id": 631
+    },
+    {
+      "id_city": 942,
+      "city": "ILORIN",
+      "city_code": "5941",
+      "city_id": 404,
+      "lga_id": 594
+    },
+    {
+      "id_city": 947,
+      "city": "ILORIN",
+      "city_code": "6222",
+      "city_id": 405,
+      "lga_id": 622
+    },
+    {
+      "id_city": 953,
+      "city": "ILORIN",
+      "city_code": "3521",
+      "city_id": 406,
+      "lga_id": 352
+    },
+    {
+      "id_city": 957,
+      "city": "ILORIN",
+      "city_code": "4783",
+      "city_id": 407,
+      "lga_id": 478
+    },
+    {
+      "id_city": 958,
+      "city": "ILORIN",
+      "city_code": "2171",
+      "city_id": 408,
+      "lga_id": 217
+    },
+    {
+      "id_city": 973,
+      "city": "IKORO-EKITI",
+      "city_code": "2512",
+      "city_id": 409,
+      "lga_id": 251
+    },
+    {
+      "id_city": 980,
+      "city": "ILORIN",
+      "city_code": "1962",
+      "city_id": 410,
+      "lga_id": 196
+    },
+    {
+      "id_city": 994,
+      "city": "ILORIN",
+      "city_code": "6331",
+      "city_id": 411,
+      "lga_id": 633
+    },
+    {
+      "id_city": 1000,
+      "city": "ILORIN",
+      "city_code": "6381",
+      "city_id": 412,
+      "lga_id": 638
+    },
+    {
+      "id_city": 1001,
+      "city": "ILORIN",
+      "city_code": "2573",
+      "city_id": 413,
+      "lga_id": 257
+    },
+    {
+      "id_city": 1002,
+      "city": "ILORIN",
+      "city_code": "5981",
+      "city_id": 414,
+      "lga_id": 598
+    },
+    {
+      "id_city": 1003,
+      "city": "ILORIN",
+      "city_code": "1912",
+      "city_id": 415,
+      "lga_id": 191
+    },
+    {
+      "id_city": 1006,
+      "city": "ILORIN",
+      "city_code": "2611",
+      "city_id": 416,
+      "lga_id": 261
+    },
+    {
+      "id_city": 1007,
+      "city": "ILORIN",
+      "city_code": "2692",
+      "city_id": 417,
+      "lga_id": 269
+    },
+    {
+      "id_city": 1020,
+      "city": "ILORIN",
+      "city_code": "4841",
+      "city_id": 418,
+      "lga_id": 484
+    },
+    {
+      "id_city": 1026,
+      "city": "ILORIN",
+      "city_code": "2751",
+      "city_id": 419,
+      "lga_id": 275
+    },
+    {
+      "id_city": 1027,
+      "city": "ILORIN",
+      "city_code": "5962",
+      "city_id": 420,
+      "lga_id": 596
+    },
+    {
+      "id_city": 1031,
+      "city": "ILORIN",
+      "city_code": "1981",
+      "city_id": 421,
+      "lga_id": 198
+    },
+    {
+      "id_city": 1036,
+      "city": "ILORIN",
+      "city_code": "852",
+      "city_id": 422,
+      "lga_id": 85
+    },
+    {
+      "id_city": 1042,
+      "city": "ILORIN",
+      "city_code": "3661",
+      "city_id": 423,
+      "lga_id": 366
+    },
+    {
+      "id_city": 1045,
+      "city": "ILORIN",
+      "city_code": "2441",
+      "city_id": 424,
+      "lga_id": 244
+    },
+    {
+      "id_city": 1046,
+      "city": "ILORIN",
+      "city_code": "5831",
+      "city_id": 425,
+      "lga_id": 583
+    },
+    {
+      "id_city": 1060,
+      "city": "ILORIN",
+      "city_code": "3031",
+      "city_id": 426,
+      "lga_id": 303
+    },
+    {
+      "id_city": 1068,
+      "city": "ILORIN",
+      "city_code": "1711",
+      "city_id": 427,
+      "lga_id": 171
+    },
+    {
+      "id_city": 1069,
+      "city": "JOS",
+      "city_code": "6741",
+      "city_id": 428,
+      "lga_id": 674
+    },
+    {
+      "id_city": 1070,
+      "city": "ILORIN",
+      "city_code": "5822",
+      "city_id": 429,
+      "lga_id": 582
+    },
+    {
+      "id_city": 1071,
+      "city": "IREPODUN",
+      "city_code": "6261",
+      "city_id": 430,
+      "lga_id": 626
+    },
+    {
+      "id_city": 1072,
+      "city": "ILORIN",
+      "city_code": "5111",
+      "city_id": 431,
+      "lga_id": 511
+    },
+    {
+      "id_city": 1075,
+      "city": "ILORIN",
+      "city_code": "5682",
+      "city_id": 432,
+      "lga_id": 568
+    },
+    {
+      "id_city": 1078,
+      "city": "ILORIN",
+      "city_code": "2721",
+      "city_id": 433,
+      "lga_id": 272
+    },
+    {
+      "id_city": 1085,
+      "city": "ILORIN",
+      "city_code": "3091",
+      "city_id": 434,
+      "lga_id": 309
+    },
+    {
+      "id_city": 1088,
+      "city": "ILORIN",
+      "city_code": "3071",
+      "city_id": 435,
+      "lga_id": 307
+    },
+    {
+      "id_city": 1091,
+      "city": "ILORIN",
+      "city_code": "5841",
+      "city_id": 436,
+      "lga_id": 584
+    },
+    {
+      "id_city": 1092,
+      "city": "ILORIN",
+      "city_code": "5122",
+      "city_id": 437,
+      "lga_id": 512
+    },
+    {
+      "id_city": 1093,
+      "city": "ILORIN",
+      "city_code": "6022",
+      "city_id": 438,
+      "lga_id": 602
+    },
+    {
+      "id_city": 1094,
+      "city": "OYO",
+      "city_code": "6561",
+      "city_id": 439,
+      "lga_id": 656
+    },
+    {
+      "id_city": 1095,
+      "city": "ILORIN",
+      "city_code": "6761",
+      "city_id": 440,
+      "lga_id": 676
+    },
+    {
+      "id_city": 1100,
+      "city": "JOS",
+      "city_code": "2962",
+      "city_id": 441,
+      "lga_id": 296
+    },
+    {
+      "id_city": 1101,
+      "city": "OSI",
+      "city_code": "2472",
+      "city_id": 442,
+      "lga_id": 247
+    },
+    {
+      "id_city": 1102,
+      "city": "EKAN MEJE",
+      "city_code": "5035",
+      "city_id": 443,
+      "lga_id": 503
+    },
+    {
+      "id_city": 1103,
+      "city": "LAFIAJI",
+      "city_code": "4921",
+      "city_id": 444,
+      "lga_id": 492
+    },
+    {
+      "id_city": 1104,
+      "city": "OMUPO",
+      "city_code": "4944",
+      "city_id": 445,
+      "lga_id": 494
+    },
+    {
+      "id_city": 1107,
+      "city": "OLOKORO",
+      "city_code": "162",
+      "city_id": 446,
+      "lga_id": 16
+    },
+    {
+      "id_city": 1108,
+      "city": "ANAMBRA",
+      "city_code": "702",
+      "city_id": 447,
+      "lga_id": 70
+    },
+    {
+      "id_city": 1109,
+      "city": "TARABA",
+      "city_code": "7241",
+      "city_id": 448,
+      "lga_id": 724
+    },
+    {
+      "id_city": 1113,
+      "city": "JOS",
+      "city_code": "6611",
+      "city_id": 449,
+      "lga_id": 661
+    },
+    {
+      "id_city": 1114,
+      "city": "OLUYOLE",
+      "city_code": "6332",
+      "city_id": 450,
+      "lga_id": 633
+    },
+    {
+      "id_city": 1115,
+      "city": "TANGALE",
+      "city_code": "2871",
+      "city_id": 451,
+      "lga_id": 287
+    },
+    {
+      "id_city": 1116,
+      "city": "YOLA",
+      "city_code": "241",
+      "city_id": 452,
+      "lga_id": 24
+    },
+    {
+      "id_city": 1117,
+      "city": "OWERRI",
+      "city_code": "3011",
+      "city_id": 453,
+      "lga_id": 301
+    },
+    {
+      "id_city": 1118,
+      "city": "KAFANCHANG",
+      "city_code": "3563",
+      "city_id": 454,
+      "lga_id": 356
+    },
+    {
+      "id_city": 1120,
+      "city": "UGHELLI NORTH",
+      "city_code": "2051",
+      "city_id": 455,
+      "lga_id": 205
+    },
+    {
+      "id_city": 1121,
+      "city": "JOS",
+      "city_code": "51",
+      "city_id": 456,
+      "lga_id": 5
+    },
+    {
+      "id_city": 1124,
+      "city": "IMO",
+      "city_code": "3131",
+      "city_id": 457,
+      "lga_id": 313
+    },
+    {
+      "id_city": 1125,
+      "city": "JOS",
+      "city_code": "6711",
+      "city_id": 458,
+      "lga_id": 671
+    },
+    {
+      "id_city": 1126,
+      "city": "ODOGBOLU",
+      "city_code": "5781",
+      "city_id": 459,
+      "lga_id": 578
+    },
+    {
+      "id_city": 1127,
+      "city": "NNEWI",
+      "city_code": "732",
+      "city_id": 460,
+      "lga_id": 73
+    },
+    {
+      "id_city": 1128,
+      "city": "NNEWI",
+      "city_code": "832",
+      "city_id": 461,
+      "lga_id": 83
+    },
+    {
+      "id_city": 1130,
+      "city": "JOS",
+      "city_code": "2701",
+      "city_id": 462,
+      "lga_id": 270
+    },
+    {
+      "id_city": 1131,
+      "city": "JOS",
+      "city_code": "6692",
+      "city_id": 463,
+      "lga_id": 669
+    },
+    {
+      "id_city": 1132,
+      "city": "JIKWOYI",
+      "city_code": "28114",
+      "city_id": 464,
+      "lga_id": 281
+    },
+    {
+      "id_city": 1133,
+      "city": "ILORIN",
+      "city_code": "2831",
+      "city_id": 465,
+      "lga_id": 283
+    },
+    {
+      "id_city": 1134,
+      "city": "ILORIN",
+      "city_code": "5441",
+      "city_id": 466,
+      "lga_id": 544
+    },
+    {
+      "id_city": 1136,
+      "city": "ILORIN",
+      "city_code": "6212",
+      "city_id": 467,
+      "lga_id": 621
+    },
+    {
+      "id_city": 1137,
+      "city": "ILORIN",
+      "city_code": "5391",
+      "city_id": 468,
+      "lga_id": 539
+    },
+    {
+      "id_city": 1138,
+      "city": "ILORIN",
+      "city_code": "4521",
+      "city_id": 469,
+      "lga_id": 452
+    },
+    {
+      "id_city": 1139,
+      "city": "ILORIN",
+      "city_code": "3481",
+      "city_id": 470,
+      "lga_id": 348
+    },
+    {
+      "id_city": 1140,
+      "city": "ILORIN",
+      "city_code": "6541",
+      "city_id": 471,
+      "lga_id": 654
+    },
+    {
+      "id_city": 1141,
+      "city": "ILORIN",
+      "city_code": "5731",
+      "city_id": 472,
+      "lga_id": 573
+    },
+    {
+      "id_city": 1143,
+      "city": "ILORIN",
+      "city_code": "3161",
+      "city_id": 473,
+      "lga_id": 316
+    },
+    {
+      "id_city": 1144,
+      "city": "ILORIN",
+      "city_code": "1211",
+      "city_id": 474,
+      "lga_id": 121
+    },
+    {
+      "id_city": 1145,
+      "city": "ILORIN",
+      "city_code": "3681",
+      "city_id": 475,
+      "lga_id": 368
+    },
+    {
+      "id_city": 1146,
+      "city": "ILORIN",
+      "city_code": "3891",
+      "city_id": 476,
+      "lga_id": 389
+    },
+    {
+      "id_city": 1147,
+      "city": "ILORIN",
+      "city_code": "6273",
+      "city_id": 477,
+      "lga_id": 627
+    },
+    {
+      "id_city": 1148,
+      "city": "ILORIN",
+      "city_code": "4531",
+      "city_id": 478,
+      "lga_id": 453
+    },
+    {
+      "id_city": 1149,
+      "city": "ILORIN",
+      "city_code": "4651",
+      "city_id": 479,
+      "lga_id": 465
+    },
+    {
+      "id_city": 1150,
+      "city": "ILORIN",
+      "city_code": "1951",
+      "city_id": 480,
+      "lga_id": 195
+    },
+    {
+      "id_city": 1151,
+      "city": "ILORIN",
+      "city_code": "2491",
+      "city_id": 481,
+      "lga_id": 249
+    },
+    {
+      "id_city": 1152,
+      "city": "ILORIN",
+      "city_code": "6361",
+      "city_id": 482,
+      "lga_id": 636
+    },
+    {
+      "id_city": 1153,
+      "city": "EDO",
+      "city_code": "2252",
+      "city_id": 483,
+      "lga_id": 225
+    },
+    {
+      "id_city": 1155,
+      "city": "GOMBE",
+      "city_code": "2881",
+      "city_id": 484,
+      "lga_id": 288
+    },
+    {
+      "id_city": 1158,
+      "city": "ILORIN",
+      "city_code": "4581",
+      "city_id": 485,
+      "lga_id": 458
+    },
+    {
+      "id_city": 1159,
+      "city": "ILORIN",
+      "city_code": "2911",
+      "city_id": 486,
+      "lga_id": 291
+    },
+    {
+      "id_city": 1160,
+      "city": "ILORIN",
+      "city_code": "6511",
+      "city_id": 487,
+      "lga_id": 651
+    },
+    {
+      "id_city": 1162,
+      "city": "ILORIN",
+      "city_code": "4501",
+      "city_id": 488,
+      "lga_id": 450
+    },
+    {
+      "id_city": 1164,
+      "city": "ILORIN",
+      "city_code": "6371",
+      "city_id": 489,
+      "lga_id": 637
+    },
+    {
+      "id_city": 1165,
+      "city": "ILORIN",
+      "city_code": "5621",
+      "city_id": 490,
+      "lga_id": 562
+    },
+    {
+      "id_city": 1166,
+      "city": "ILORIN",
+      "city_code": "1471",
+      "city_id": 491,
+      "lga_id": 147
+    },
+    {
+      "id_city": 1167,
+      "city": "ILORIN",
+      "city_code": "3651",
+      "city_id": 492,
+      "lga_id": 365
+    },
+    {
+      "id_city": 1168,
+      "city": "ILORIN",
+      "city_code": "4801",
+      "city_id": 493,
+      "lga_id": 480
+    },
+    {
+      "id_city": 1169,
+      "city": "IWO",
+      "city_code": "6202",
+      "city_id": 494,
+      "lga_id": 620
+    },
+    {
+      "id_city": 1170,
+      "city": "AKOKO",
+      "city_code": "5823",
+      "city_id": 495,
+      "lga_id": 582
+    },
+    {
+      "id_city": 1171,
+      "city": "IGBOHO",
+      "city_code": "6542",
+      "city_id": 496,
+      "lga_id": 654
+    },
+    {
+      "id_city": 1172,
+      "city": "KANO",
+      "city_code": "3811",
+      "city_id": 497,
+      "lga_id": 381
+    },
+    {
+      "id_city": 1173,
+      "city": "ABUJA",
+      "city_code": "4311",
+      "city_id": 498,
+      "lga_id": 431
+    },
+    {
+      "id_city": 1174,
+      "city": "ILORIN",
+      "city_code": "6351",
+      "city_id": 499,
+      "lga_id": 635
+    },
+    {
+      "id_city": 1175,
+      "city": "ABUJA",
+      "city_code": "2781",
+      "city_id": 500,
+      "lga_id": 278
+    },
+    {
+      "id_city": 1176,
+      "city": "ILORIN",
+      "city_code": "1333",
+      "city_id": 501,
+      "lga_id": 133
+    },
+    {
+      "id_city": 1177,
+      "city": "ILORIN",
+      "city_code": "3552",
+      "city_id": 502,
+      "lga_id": 355
+    },
+    {
+      "id_city": 1180,
+      "city": "ILORIN",
+      "city_code": "4261",
+      "city_id": 503,
+      "lga_id": 426
+    },
+    {
+      "id_city": 1181,
+      "city": "ILORIN",
+      "city_code": "1375",
+      "city_id": 504,
+      "lga_id": 137
+    },
+    {
+      "id_city": 1183,
+      "city": "ILORIN",
+      "city_code": "6431",
+      "city_id": 505,
+      "lga_id": 643
+    },
+    {
+      "id_city": 1186,
+      "city": "ILORIN",
+      "city_code": "4731",
+      "city_id": 506,
+      "lga_id": 473
+    },
+    {
+      "id_city": 1188,
+      "city": "IJAN-OYUN",
+      "city_code": "4984",
+      "city_id": 507,
+      "lga_id": 498
+    },
+    {
+      "id_city": 1190,
+      "city": "OGBOMOSO",
+      "city_code": "6131",
+      "city_id": 508,
+      "lga_id": 613
+    },
+    {
+      "id_city": 1191,
+      "city": "ILE-IFE",
+      "city_code": "6101",
+      "city_id": 509,
+      "lga_id": 610
+    },
+    {
+      "id_city": 1192,
+      "city": "ILORIN",
+      "city_code": "6132",
+      "city_id": 510,
+      "lga_id": 613
+    },
+    {
+      "id_city": 1193,
+      "city": "ILORIN",
+      "city_code": "6032",
+      "city_id": 511,
+      "lga_id": 603
+    },
+    {
+      "id_city": 1194,
+      "city": "ILORIN",
+      "city_code": "861",
+      "city_id": 512,
+      "lga_id": 86
+    },
+    {
+      "id_city": 1195,
+      "city": "IBADAN",
+      "city_code": "6352",
+      "city_id": 513,
+      "lga_id": 635
+    },
+    {
+      "id_city": 1198,
+      "city": "ILORIN",
+      "city_code": "5611",
+      "city_id": 514,
+      "lga_id": 561
+    },
+    {
+      "id_city": 1199,
+      "city": "OKA",
+      "city_code": "5852",
+      "city_id": 515,
+      "lga_id": 585
+    },
+    {
+      "id_city": 1200,
+      "city": "AWKA",
+      "city_code": "901",
+      "city_id": 516,
+      "lga_id": 90
+    },
+    {
+      "id_city": 1202,
+      "city": "KISHI",
+      "city_code": "6422",
+      "city_id": 517,
+      "lga_id": 642
+    },
+    {
+      "id_city": 1203,
+      "city": "IGBAJO",
+      "city_code": "6042",
+      "city_id": 518,
+      "lga_id": 604
+    },
+    {
+      "id_city": 1204,
+      "city": "ILORIN",
+      "city_code": "881",
+      "city_id": 519,
+      "lga_id": 88
+    },
+    {
+      "id_city": 1208,
+      "city": "OGBOMOSO",
+      "city_code": "6482",
+      "city_id": 520,
+      "lga_id": 648
+    },
+    {
+      "id_city": 1209,
+      "city": "IKIRUN",
+      "city_code": "6112",
+      "city_id": 521,
+      "lga_id": 611
+    },
+    {
+      "id_city": 1210,
+      "city": "IBADAN",
+      "city_code": "6333",
+      "city_id": 522,
+      "lga_id": 633
+    },
+    {
+      "id_city": 1211,
+      "city": "OFFA",
+      "city_code": "5024",
+      "city_id": 523,
+      "lga_id": 502
+    },
+    {
+      "id_city": 1214,
+      "city": "ILOBU",
+      "city_code": "6113",
+      "city_id": 524,
+      "lga_id": 611
+    },
+    {
+      "id_city": 1215,
+      "city": "LOKOJA",
+      "city_code": "4775",
+      "city_id": 525,
+      "lga_id": 477
+    },
+    {
+      "id_city": 1217,
+      "city": "OTA",
+      "city_code": "5641",
+      "city_id": 526,
+      "lga_id": 564
+    },
+    {
+      "id_city": 1219,
+      "city": "KADUNA",
+      "city_code": "3553",
+      "city_id": 527,
+      "lga_id": 355
+    },
+    {
+      "id_city": 1220,
+      "city": "OSHOGBO",
+      "city_code": "6092",
+      "city_id": 528,
+      "lga_id": 609
+    },
+    {
+      "id_city": 1221,
+      "city": "IBADAN",
+      "city_code": "6372",
+      "city_id": 529,
+      "lga_id": 637
+    },
+    {
+      "id_city": 1222,
+      "city": "SAKI",
+      "city_code": "6591",
+      "city_id": 530,
+      "lga_id": 659
+    },
+    {
+      "id_city": 1223,
+      "city": "SAKI",
+      "city_code": "6342",
+      "city_id": 531,
+      "lga_id": 634
+    },
+    {
+      "id_city": 1224,
+      "city": "ILORIN",
+      "city_code": "4821",
+      "city_id": 532,
+      "lga_id": 482
+    },
+    {
+      "id_city": 1225,
+      "city": "IGBOYE",
+      "city_code": "5123",
+      "city_id": 533,
+      "lga_id": 512
+    },
+    {
+      "id_city": 1226,
+      "city": "AHIAZU",
+      "city_code": "2942",
+      "city_id": 534,
+      "lga_id": 294
+    },
+    {
+      "id_city": 1227,
+      "city": "AMUZAM NKANU",
+      "city_code": "163",
+      "city_id": 535,
+      "lga_id": 16
+    },
+    {
+      "id_city": 1228,
+      "city": "AMICHI",
+      "city_code": "843",
+      "city_id": 536,
+      "lga_id": 84
+    },
+    {
+      "id_city": 1229,
+      "city": "EZIEHE",
+      "city_code": "3012",
+      "city_id": 537,
+      "lga_id": 301
+    },
+    {
+      "id_city": 1231,
+      "city": "NJALAKA",
+      "city_code": "902",
+      "city_id": 538,
+      "lga_id": 90
+    },
+    {
+      "id_city": 1232,
+      "city": "ABAGANA",
+      "city_code": "821",
+      "city_id": 539,
+      "lga_id": 82
+    },
+    {
+      "id_city": 1233,
+      "city": "JOS",
+      "city_code": "6043",
+      "city_id": 540,
+      "lga_id": 604
+    },
+    {
+      "id_city": 1234,
+      "city": "MBAISE",
+      "city_code": "2963",
+      "city_id": 541,
+      "lga_id": 296
+    },
+    {
+      "id_city": 1235,
+      "city": "EBU",
+      "city_code": "2002",
+      "city_id": 542,
+      "lga_id": 200
+    },
+    {
+      "id_city": 1236,
+      "city": "OSE",
+      "city_code": "1992",
+      "city_id": 543,
+      "lga_id": 199
+    },
+    {
+      "id_city": 1237,
+      "city": "OKELUSE",
+      "city_code": "5982",
+      "city_id": 544,
+      "lga_id": 598
+    },
+    {
+      "id_city": 1238,
+      "city": "LAGOS ISLAND",
+      "city_code": "5181",
+      "city_id": 545,
+      "lga_id": 518
+    },
+    {
+      "id_city": 1239,
+      "city": "UMUOKEYI",
+      "city_code": "164",
+      "city_id": 546,
+      "lga_id": 16
+    },
+    {
+      "id_city": 1240,
+      "city": "IGARA",
+      "city_code": "2253",
+      "city_id": 547,
+      "lga_id": 225
+    },
+    {
+      "id_city": 1241,
+      "city": "MBAISE",
+      "city_code": "2943",
+      "city_id": 548,
+      "lga_id": 294
+    },
+    {
+      "id_city": 1242,
+      "city": "EGEDE",
+      "city_code": "2752",
+      "city_id": 549,
+      "lga_id": 275
+    },
+    {
+      "id_city": 1243,
+      "city": "BENUE",
+      "city_code": "1351",
+      "city_id": 550,
+      "lga_id": 135
+    },
+    {
+      "id_city": 1244,
+      "city": "OSOGBO",
+      "city_code": "6072",
+      "city_id": 551,
+      "lga_id": 607
+    },
+    {
+      "id_city": 1245,
+      "city": "EKITI",
+      "city_code": "2533",
+      "city_id": 552,
+      "lga_id": 253
+    },
+    {
+      "id_city": 1246,
+      "city": "LOKOJA",
+      "city_code": "4831",
+      "city_id": 553,
+      "lga_id": 483
+    },
+    {
+      "id_city": 1247,
+      "city": "OGAMINANA",
+      "city_code": "4692",
+      "city_id": 554,
+      "lga_id": 469
+    },
+    {
+      "id_city": 1248,
+      "city": "OSOGBO",
+      "city_code": "6203",
+      "city_id": 555,
+      "lga_id": 620
+    },
+    {
+      "id_city": 1249,
+      "city": "OSOGBO",
+      "city_code": "6183",
+      "city_id": 556,
+      "lga_id": 618
+    },
+    {
+      "id_city": 1250,
+      "city": "IJEBU ODE",
+      "city_code": "5701",
+      "city_id": 557,
+      "lga_id": 570
+    },
+    {
+      "id_city": 1251,
+      "city": "IJEBU ODE",
+      "city_code": "5692",
+      "city_id": 558,
+      "lga_id": 569
+    },
+    {
+      "id_city": 1252,
+      "city": "ISAARA",
+      "city_code": "5801",
+      "city_id": 559,
+      "lga_id": 580
+    },
+    {
+      "id_city": 1253,
+      "city": "OSHOGBO",
+      "city_code": "5951",
+      "city_id": 560,
+      "lga_id": 595
+    },
+    {
+      "id_city": 1254,
+      "city": "IKEJA",
+      "city_code": "51710",
+      "city_id": 561,
+      "lga_id": 517
+    },
+    {
+      "id_city": 1255,
+      "city": "AMOYO",
+      "city_code": "4945",
+      "city_id": 562,
+      "lga_id": 494
+    },
+    {
+      "id_city": 1256,
+      "city": "IGBONNA",
+      "city_code": "5043",
+      "city_id": 563,
+      "lga_id": 504
+    },
+    {
+      "id_city": 1257,
+      "city": "OSHOGBO",
+      "city_code": "6141",
+      "city_id": 564,
+      "lga_id": 614
+    },
+    {
+      "id_city": 1258,
+      "city": "BENIN KEBBI",
+      "city_code": "4681",
+      "city_id": 565,
+      "lga_id": 468
+    },
+    {
+      "id_city": 1259,
+      "city": "JEBBA",
+      "city_code": "5013",
+      "city_id": 566,
+      "lga_id": 501
+    },
+    {
+      "id_city": 1260,
+      "city": "NSUKA",
+      "city_code": "2681",
+      "city_id": 567,
+      "lga_id": 268
+    },
+    {
+      "id_city": 1261,
+      "city": "JOS",
+      "city_code": "812",
+      "city_id": 568,
+      "lga_id": 81
+    },
+    {
+      "id_city": 1262,
+      "city": "TAMKPAFU",
+      "city_code": "5052",
+      "city_id": 569,
+      "lga_id": 505
+    },
+    {
+      "id_city": 1263,
+      "city": "OSI",
+      "city_code": "4933",
+      "city_id": 570,
+      "lga_id": 493
+    },
+    {
+      "id_city": 1264,
+      "city": "CHIBOK",
+      "city_code": "1472",
+      "city_id": 571,
+      "lga_id": 147
+    },
+    {
+      "id_city": 1265,
+      "city": "JOS",
+      "city_code": "4751",
+      "city_id": 572,
+      "lga_id": 475
+    },
+    {
+      "id_city": 1266,
+      "city": "JOS",
+      "city_code": "781",
+      "city_id": 573,
+      "lga_id": 78
+    },
+    {
+      "id_city": 1267,
+      "city": "JOS",
+      "city_code": "1334",
+      "city_id": 574,
+      "lga_id": 133
+    },
+    {
+      "id_city": 1271,
+      "city": "KAFANCHAN",
+      "city_code": "4791",
+      "city_id": 575,
+      "lga_id": 479
+    },
+    {
+      "id_city": 1272,
+      "city": "KADUNA",
+      "city_code": "3501",
+      "city_id": 576,
+      "lga_id": 350
+    },
+    {
+      "id_city": 1273,
+      "city": "ANYIGBA",
+      "city_code": "4732",
+      "city_id": 577,
+      "lga_id": 473
+    },
+    {
+      "id_city": 1275,
+      "city": "KATSINA",
+      "city_code": "4341",
+      "city_id": 578,
+      "lga_id": 434
+    },
+    {
+      "id_city": 1276,
+      "city": "ZARIA",
+      "city_code": "3691",
+      "city_id": 579,
+      "lga_id": 369
+    },
+    {
+      "id_city": 1277,
+      "city": "ILLORIN",
+      "city_code": "4962",
+      "city_id": 580,
+      "lga_id": 496
+    },
+    {
+      "id_city": 1278,
+      "city": "KADUNA",
+      "city_code": "3482",
+      "city_id": 581,
+      "lga_id": 348
+    },
+    {
+      "id_city": 1279,
+      "city": "SAMBAN",
+      "city_code": "3522",
+      "city_id": 582,
+      "lga_id": 352
+    },
+    {
+      "id_city": 1280,
+      "city": "KADUNA",
+      "city_code": "3682",
+      "city_id": 583,
+      "lga_id": 368
+    },
+    {
+      "id_city": 1281,
+      "city": "KADUNA",
+      "city_code": "3631",
+      "city_id": 584,
+      "lga_id": 363
+    },
+    {
+      "id_city": 1282,
+      "city": "KADUNA",
+      "city_code": "3641",
+      "city_id": 585,
+      "lga_id": 364
+    },
+    {
+      "id_city": 1283,
+      "city": "BENIN CITY",
+      "city_code": "2361",
+      "city_id": 586,
+      "lga_id": 236
+    },
+    {
+      "id_city": 1284,
+      "city": "KADUNA",
+      "city_code": "3571",
+      "city_id": 587,
+      "lga_id": 357
+    },
+    {
+      "id_city": 1285,
+      "city": "KADUNA",
+      "city_code": "3611",
+      "city_id": 588,
+      "lga_id": 361
+    },
+    {
+      "id_city": 1287,
+      "city": "JAHI",
+      "city_code": "215",
+      "city_id": 589,
+      "lga_id": 281
+    },
+    {
+      "id_city": 1289,
+      "city": "JOS",
+      "city_code": "331",
+      "city_id": 590,
+      "lga_id": 33
+    },
+    {
+      "id_city": 1290,
+      "city": "JOS",
+      "city_code": "4733",
+      "city_id": 591,
+      "lga_id": 473
+    },
+    {
+      "id_city": 1291,
+      "city": "JOS",
+      "city_code": "1342",
+      "city_id": 592,
+      "lga_id": 134
+    },
+    {
+      "id_city": 1292,
+      "city": "IJEBU ODE",
+      "city_code": "5712",
+      "city_id": 593,
+      "lga_id": 571
+    },
+    {
+      "id_city": 1293,
+      "city": "ILORIN",
+      "city_code": "6571",
+      "city_id": 594,
+      "lga_id": 657
+    },
+    {
+      "id_city": 1294,
+      "city": "ITONI",
+      "city_code": "5671",
+      "city_id": 595,
+      "lga_id": 567
+    },
+    {
+      "id_city": 1295,
+      "city": "ARAN ORIN",
+      "city_code": "4946",
+      "city_id": 596,
+      "lga_id": 494
+    },
+    {
+      "id_city": 1296,
+      "city": "ARAN ORIN",
+      "city_code": "4985",
+      "city_id": 597,
+      "lga_id": 498
+    },
+    {
+      "id_city": 1297,
+      "city": "OGBOMOSO",
+      "city_code": "6401",
+      "city_id": 598,
+      "lga_id": 640
+    },
+    {
+      "id_city": 1298,
+      "city": "ABEOKUTA",
+      "city_code": "5631",
+      "city_id": 599,
+      "lga_id": 563
+    },
+    {
+      "id_city": 1299,
+      "city": "AKUNGBA",
+      "city_code": "5853",
+      "city_id": 600,
+      "lga_id": 585
+    },
+    {
+      "id_city": 1300,
+      "city": "OGUN",
+      "city_code": "5791",
+      "city_id": 601,
+      "lga_id": 579
+    },
+    {
+      "id_city": 1301,
+      "city": "RIBAHZ",
+      "city_code": "4661",
+      "city_id": 602,
+      "lga_id": 466
+    },
+    {
+      "id_city": 1302,
+      "city": "ILORIN",
+      "city_code": "2522",
+      "city_id": 603,
+      "lga_id": 252
+    },
+    {
+      "id_city": 1304,
+      "city": "RIBAH",
+      "city_code": "4662",
+      "city_id": 604,
+      "lga_id": 466
+    },
+    {
+      "id_city": 1305,
+      "city": "OKEIGBO",
+      "city_code": "5923",
+      "city_id": 605,
+      "lga_id": 592
+    },
+    {
+      "id_city": 1306,
+      "city": "ILORIN",
+      "city_code": "52211",
+      "city_id": 606,
+      "lga_id": 522
+    },
+    {
+      "id_city": 1307,
+      "city": "EDU",
+      "city_code": "4922",
+      "city_id": 607,
+      "lga_id": 492
+    },
+    {
+      "id_city": 1308,
+      "city": "IFELODUN",
+      "city_code": "6114",
+      "city_id": 608,
+      "lga_id": 611
+    },
+    {
+      "id_city": 1309,
+      "city": "IJEBU ODE",
+      "city_code": "6172",
+      "city_id": 609,
+      "lga_id": 617
+    },
+    {
+      "id_city": 1310,
+      "city": "IJEBU ODE",
+      "city_code": "4934",
+      "city_id": 610,
+      "lga_id": 493
+    },
+    {
+      "id_city": 1311,
+      "city": "ARAN ORIN",
+      "city_code": "4952",
+      "city_id": 611,
+      "lga_id": 495
+    },
+    {
+      "id_city": 1312,
+      "city": "IWOLLO",
+      "city_code": "2641",
+      "city_id": 612,
+      "lga_id": 264
+    },
+    {
+      "id_city": 1314,
+      "city": "KWARA STATE",
+      "city_code": "4963",
+      "city_id": 613,
+      "lga_id": 496
+    },
+    {
+      "id_city": 1315,
+      "city": "ILORIN",
+      "city_code": "6001",
+      "city_id": 614,
+      "lga_id": 600
+    },
+    {
+      "id_city": 1316,
+      "city": "ILORIN",
+      "city_code": "2332",
+      "city_id": 615,
+      "lga_id": 233
+    },
+    {
+      "id_city": 1317,
+      "city": "MAN",
+      "city_code": "271",
+      "city_id": 616,
+      "lga_id": 27
+    },
+    {
+      "id_city": 1319,
+      "city": "KAGORO",
+      "city_code": "3564",
+      "city_id": 617,
+      "lga_id": 356
+    },
+    {
+      "id_city": 1320,
+      "city": "KAFANCHAN",
+      "city_code": "3531",
+      "city_id": 618,
+      "lga_id": 353
+    },
+    {
+      "id_city": 1321,
+      "city": "JOS",
+      "city_code": "2951",
+      "city_id": 619,
+      "lga_id": 295
+    },
+    {
+      "id_city": 1324,
+      "city": "NASSARAWA EGGON",
+      "city_code": "5341",
+      "city_id": 620,
+      "lga_id": 534
+    },
+    {
+      "id_city": 1326,
+      "city": "IBADAN",
+      "city_code": "6362",
+      "city_id": 621,
+      "lga_id": 636
+    },
+    {
+      "id_city": 1329,
+      "city": "ZARIA",
+      "city_code": "332",
+      "city_id": 622,
+      "lga_id": 33
+    },
+    {
+      "id_city": 1332,
+      "city": "PANKSHIN CENTRAL",
+      "city_code": "6712",
+      "city_id": 623,
+      "lga_id": 671
+    },
+    {
+      "id_city": 1333,
+      "city": "DUNGUNG",
+      "city_code": "6663",
+      "city_id": 624,
+      "lga_id": 666
+    },
+    {
+      "id_city": 1335,
+      "city": "UBAKALA UMUAIA",
+      "city_code": "165",
+      "city_id": 625,
+      "lga_id": 16
+    },
+    {
+      "id_city": 1336,
+      "city": "KADUNA",
+      "city_code": "3565",
+      "city_id": 626,
+      "lga_id": 356
+    },
+    {
+      "id_city": 1337,
+      "city": "IJEBU",
+      "city_code": "5722",
+      "city_id": 627,
+      "lga_id": 572
+    },
+    {
+      "id_city": 1338,
+      "city": "OGBOMOSO",
+      "city_code": "7721",
+      "city_id": 628,
+      "lga_id": 772
+    },
+    {
+      "id_city": 1339,
+      "city": "IBADAN",
+      "city_code": "6523",
+      "city_id": 629,
+      "lga_id": 652
+    },
+    {
+      "id_city": 1340,
+      "city": "LEKKI",
+      "city_code": "51482",
+      "city_id": 630,
+      "lga_id": 514
+    },
+    {
+      "id_city": 1341,
+      "city": "LOKOJA",
+      "city_code": "4752",
+      "city_id": 631,
+      "lga_id": 475
+    },
+    {
+      "id_city": 1342,
+      "city": "JOS",
+      "city_code": "4802",
+      "city_id": 632,
+      "lga_id": 480
+    },
+    {
+      "id_city": 1343,
+      "city": "ICHAMA",
+      "city_code": "1362",
+      "city_id": 633,
+      "lga_id": 136
+    },
+    {
+      "id_city": 1344,
+      "city": "KWARA/ILORIN",
+      "city_code": "4972",
+      "city_id": 634,
+      "lga_id": 497
+    },
+    {
+      "id_city": 1345,
+      "city": "JIBIA",
+      "city_code": "4291",
+      "city_id": 635,
+      "lga_id": 429
+    },
+    {
+      "id_city": 1346,
+      "city": "KURMIN JATAU",
+      "city_code": "3523",
+      "city_id": 636,
+      "lga_id": 352
+    },
+    {
+      "id_city": 1347,
+      "city": "JOS",
+      "city_code": "6721",
+      "city_id": 637,
+      "lga_id": 672
+    },
+    {
+      "id_city": 1348,
+      "city": "ODO-ERE",
+      "city_code": "4892",
+      "city_id": 638,
+      "lga_id": 489
+    },
+    {
+      "id_city": 1350,
+      "city": "IFELODUN",
+      "city_code": "6054",
+      "city_id": 639,
+      "lga_id": 605
+    },
+    {
+      "id_city": 1351,
+      "city": "OJU",
+      "city_code": "1343",
+      "city_id": 640,
+      "lga_id": 134
+    },
+    {
+      "id_city": 1352,
+      "city": "ZARIA",
+      "city_code": "3652",
+      "city_id": 641,
+      "lga_id": 365
+    },
+    {
+      "id_city": 1370,
+      "city": "YOLA",
+      "city_code": "372",
+      "city_id": 642,
+      "lga_id": 37
+    },
+    {
+      "id_city": 1379,
+      "city": "KADUNA",
+      "city_code": "3591",
+      "city_id": 643,
+      "lga_id": 359
+    },
+    {
+      "id_city": 1380,
+      "city": "KADUNA",
+      "city_code": "151",
+      "city_id": 644,
+      "lga_id": 15
+    },
+    {
+      "id_city": 1381,
+      "city": "KADUNA",
+      "city_code": "4883",
+      "city_id": 645,
+      "lga_id": 488
+    },
+    {
+      "id_city": 1382,
+      "city": "UGBOKOLO",
+      "city_code": "1363",
+      "city_id": 646,
+      "lga_id": 136
+    },
+    {
+      "id_city": 1383,
+      "city": "AGATUS",
+      "city_code": "1202",
+      "city_id": 647,
+      "lga_id": 120
+    },
+    {
+      "id_city": 1384,
+      "city": "AGATU",
+      "city_code": "1203",
+      "city_id": 648,
+      "lga_id": 120
+    },
+    {
+      "id_city": 1385,
+      "city": "URHOBO",
+      "city_code": "1913",
+      "city_id": 649,
+      "lga_id": 191
+    },
+    {
+      "id_city": 1386,
+      "city": "YOLA",
+      "city_code": "301",
+      "city_id": 650,
+      "lga_id": 30
+    },
+    {
+      "id_city": 1387,
+      "city": "BADAGRY",
+      "city_code": "5112",
+      "city_id": 651,
+      "lga_id": 511
+    },
+    {
+      "id_city": 1389,
+      "city": "LAGOS",
+      "city_code": "51483",
+      "city_id": 652,
+      "lga_id": 514
+    },
+    {
+      "id_city": 1390,
+      "city": "IBADAN",
+      "city_code": "6572",
+      "city_id": 653,
+      "lga_id": 657
+    },
+    {
+      "id_city": 1391,
+      "city": "OGUDU",
+      "city_code": "5182",
+      "city_id": 654,
+      "lga_id": 518
+    },
+    {
+      "id_city": 1392,
+      "city": "OGOBIA",
+      "city_code": "1376",
+      "city_id": 655,
+      "lga_id": 137
+    },
+    {
+      "id_city": 1393,
+      "city": "ANWULE",
+      "city_code": "1377",
+      "city_id": 656,
+      "lga_id": 137
+    },
+    {
+      "id_city": 1394,
+      "city": "LAGOS",
+      "city_code": "5091",
+      "city_id": 657,
+      "lga_id": 509
+    },
+    {
+      "id_city": 1395,
+      "city": "JOS",
+      "city_code": "7701",
+      "city_id": 658,
+      "lga_id": 770
+    },
+    {
+      "id_city": 1396,
+      "city": "BOKI",
+      "city_code": "1751",
+      "city_id": 659,
+      "lga_id": 175
+    }
+  ]

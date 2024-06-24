@@ -33,6 +33,11 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: "taxpayer_id",
         targetKey: "id",
       });
+
+      Building.belongsTo(models.Town, {
+        foreignKey: "town_id",
+        targetKey: "id",
+      });
     }
   }
   Building.init(
@@ -56,9 +61,18 @@ module.exports = (sequelize, DataTypes) => {
         onUpdate: "CASCADE",
         onDelete: "RESTRICT",
       },
+      town_id: {
+        type: DataTypes.INTEGER,
+        references: {
+          model: "Towns",
+          key: "id",
+        },
+        onUpdate: "CASCADE",
+        onDelete: "RESTRICT",
+      },
       street: DataTypes.STRING,
       address: DataTypes.STRING,
-      size: DataTypes.DECIMAL(10, 2),
+      size: DataTypes.INTEGER,
       purpose_id: {
         type: DataTypes.INTEGER,
         references: {
@@ -91,7 +105,7 @@ module.exports = (sequelize, DataTypes) => {
     {
       sequelize,
       modelName: "Building",
-      timestamps: true
+      timestamps: true,
     }
   );
   return Building;

@@ -13,21 +13,7 @@ const getAllStates = async (req, res, next) => {
   }
 };
 
-const getStateById = async (req, res, next) => {
-  try {
-    const id = req.params.id;
-    const state = await stateService.getStateById(id);
-
-    return res.status(state.statusCode).json({
-      message: state.message,
-      state: state.data,
-    });
-  } catch (error) {
-    errorHandler(error, res, next);
-  }
-};
-
 module.exports = {
   getAllStates,
-  getStateById,
 };
+
