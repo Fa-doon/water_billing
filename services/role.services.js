@@ -1,25 +1,25 @@
 const { Role } = require("../models");
 const { CustomError } = require("../utils/customError");
-const { Sequelize  } = require("sequelize");
+const { Sequelize } = require("sequelize");
 
-// const createRole = async (roleData) => {
-//   try {
-//     const existingRole = await Role.findOne({ where: { name: roleData.name } });
+const createRole = async (roleData) => {
+  try {
+    const existingRole = await Role.findOne({ where: { name: roleData.name } });
 
-//     if (existingRole) {
-//       throw new CustomError("Role already exists", 409);
-//     }
+    if (existingRole) {
+      throw new CustomError("Role already exists", 409);
+    }
 
-//     const createdRole = await Role.create(roleData);
-//     return {
-//       message: "Role created successfully",
-//       data: createdRole,
-//       statusCode: 201,
-//     };
-//   } catch (error) {
-//     throw error;
-//   }
-// };
+    const createdRole = await Role.create(roleData);
+    return {
+      message: "Role created successfully",
+      data: createdRole,
+      statusCode: 201,
+    };
+  } catch (error) {
+    throw error;
+  }
+};
 
 const getAllRoles = async () => {
   try {
@@ -127,7 +127,7 @@ const updateRole = async (roleId, updateDetails) => {
 // };
 
 module.exports = {
-  // createRole,
+  createRole,
   getAllRoles,
   getRoleById,
   getRoleByRoleName,

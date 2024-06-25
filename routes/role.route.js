@@ -11,7 +11,7 @@ const { isAdmin } = require("../middlewares/auth.middleware");
 
 const router = express.Router();
 
-router.use(isAdmin);
+// router.use(isAdmin);
 
 router.post("/", createRole);
 router.get("/", getAllRoles);
