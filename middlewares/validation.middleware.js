@@ -53,7 +53,7 @@ const validateTaxpayer = async (req, res, next) => {
   } catch (error) {
     return res.status(422).json({
       message: "Something went wrong",
-      error: error.message,
+      error: error.details[0].message,
     });
   }
 };
@@ -117,7 +117,7 @@ const validateBuilding = async (req, res, next) => {
   } catch (error) {
     return res.status(422).json({
       message: "Something went wrong",
-      error: error.message,
+      error: error.details[0].message,
     });
   }
 };

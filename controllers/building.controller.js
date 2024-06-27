@@ -31,7 +31,23 @@ const getAllBuildings = async (req, res, next) => {
   }
 };
 
+const updateBuilding = async (req, res, next) => {
+  try {
+    const id = req.params.id;
+    const updateDetails = req.body;
+    const building = await buildingServices.updateBuilding(id, updateDetails);
+
+    return res.status(200).json({
+      message: building.message,
+      buildingDetails: building.data,
+    });
+  } catch (error) {
+    errorHandler(error, res, next);
+  }
+};
+
 module.exports = {
   createBuilding,
   getAllBuildings,
+  updateBuilding,
 };

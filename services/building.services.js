@@ -107,7 +107,27 @@ const getAllBuildings = async () => {
   }
 };
 
+const updateBuilding = async (buildingId, updateDetails) => {
+  try {
+    const building = await Building.findByPk(buildingId);
+    if (!building) {
+      throw new CustomError(`Building with the ID ${buildingId} not found`);
+    }
+
+    await building.update(updateDetails);
+    return {
+      message: "Building has been updated successfully",
+      data: building,
+      statusCode: 200,
+    };
+  } catch (error) {
+    console.log("An error occured", error);
+    throw error;
+  }
+};
+
 module.exports = {
   createBuilding,
   getAllBuildings,
+  updateBuilding,
 };
