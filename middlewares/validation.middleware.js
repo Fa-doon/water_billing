@@ -132,8 +132,8 @@ const validateBuilding = async (req, res, next) => {
     next();
   } catch (error) {
     return res.status(422).json({
-      message: "Something went wrong",
-      error: error.message,
+      message: error.message,
+      success: false,
     });
   }
 };
