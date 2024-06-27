@@ -49,11 +49,19 @@ const validateTaxpayer = async (req, res, next) => {
     const valid = await taxpayerSchema.validateAsync(taxpayer, {
       abortEarly: true,
     });
+
+    if (valid.error) {
+      const errorMessages = valid.error.details.map((error) => error.message);
+      return res.status(422).json({
+        message: errorMessages,
+        success: false,
+      });
+    }
     next();
   } catch (error) {
     return res.status(422).json({
-      message: "Something went wrong",
-      error: error.details[0].message,
+      message: error.message,
+      success: false,
     });
   }
 };
@@ -113,11 +121,19 @@ const validateBuilding = async (req, res, next) => {
     const valid = await buildingSchema.validateAsync(building, {
       abortEarly: true,
     });
+
+    if (valid.error) {
+      const errorMessages = valid.error.details.map((error) => error.message);
+      return res.status(422).json({
+        message: errorMessages,
+        success: false,
+      });
+    }
     next();
   } catch (error) {
     return res.status(422).json({
       message: "Something went wrong",
-      error: error.details[0].message,
+      error: error.message,
     });
   }
 };
