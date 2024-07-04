@@ -6,7 +6,6 @@
 //   { min: 15, max: 17, points: 1100 },
 //   { min: 18, max: Infinity, points: 1300 },
 // ];
-// // for unmetered, on estimate
 
 // export const purposeTiers = [
 //   { purpose: "Residential", points: 100 },
@@ -25,4 +24,5 @@
 //   { function: "Bank", points: 400 },
 //   { function: "Restaurant", points: 0 },
 // ];
- 
+
+// // For metered, collect meter reading and then based on the base unit fixed rate, multiply and generate rate
