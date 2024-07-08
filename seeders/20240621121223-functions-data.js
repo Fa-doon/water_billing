@@ -7,7 +7,6 @@ const { Function } = require("../models");
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-
     const fileName = path.resolve(__dirname, "../data/_functions.json");
 
     const functionData = JSON.parse(fs.readFileSync(fileName, "utf8"));
@@ -18,9 +17,12 @@ module.exports = {
       if (existingFunctionCount === 0) {
         await queryInterface.bulkInsert("Functions", functionData, {});
         console.log("Functions seeded successfully");
+      } else {
+        console.log("Functions already seeded...SKIP");
       }
     } catch (error) {
-      console.log("Functions already seeded...SKIP");
+      console.log("An error occured", error);
+      throw error;
     }
   },
 
