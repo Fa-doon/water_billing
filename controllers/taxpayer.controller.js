@@ -9,7 +9,7 @@ const createTaxPayer = async (req, res, next) => {
 
     return res.status(newTaxpayer.statusCode).json({
       message: newTaxpayer.message,
-      taxpayerData: newTaxpayer.data,
+      taxpayerDetails: newTaxpayer.data,
     });
   } catch (error) {
     errorHandler(error, res, next);
@@ -21,7 +21,7 @@ const getAllTaxpayers = async (req, res, next) => {
     const taxpayers = await taxpayerService.getAllTaxpayers();
     return res.status(taxpayers.statusCode).json({
       message: taxpayers.message,
-      taxpayersData: taxpayers.data,
+      taxpayersDetails: taxpayers.data,
       count: taxpayers.count,
     });
   } catch (error) {
@@ -36,7 +36,7 @@ const getTaxpayerById = async (req, res, next) => {
 
     return res.status(taxpayer.statusCode).json({
       message: taxpayer.message,
-      taxpayerData: taxpayer.data,
+      taxpayerDetails: taxpayer.data,
     });
   } catch (error) {
     errorHandler(error, res, next);
@@ -53,7 +53,7 @@ const updateTaxpayer = async (req, res, next) => {
 
     return res.status(taxpayer.statusCode).json({
       message: taxpayer.message,
-      taxpayerData: taxpayer.data,
+      taxpayerDetails: taxpayer.data,
     });
   } catch (error) {
     errorHandler(error, res, next);

@@ -26,13 +26,14 @@ module.exports = (sequelize, DataTypes) => {
         onUpdate: "CASCADE",
         onDelete: "SET NULL",
       },
+      meter_reading: DataTypes.INTEGER,
       meter_id: DataTypes.STRING,
-      rate: DataTypes.DECIMAL(12, 4),
+      rate: DataTypes.INTEGER,
     },
     {
       sequelize,
       modelName: "Assessment_Item",
-      timestamps: true
+      timestamps: true,
     }
   );
   return Assessment_Item;

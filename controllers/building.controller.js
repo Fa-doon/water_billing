@@ -3,14 +3,14 @@ const { errorHandler } = require("../middlewares/error.middleware");
 
 const createBuilding = async (req, res, next) => {
   try {
-    const buildingDetails = req.body;
+    const buildingData = req.body;
     console.log("Hello");
 
-    const building = await buildingServices.createBuilding(buildingDetails);
+    const building = await buildingServices.createBuilding(buildingData);
 
     return res.status(building.statusCode).json({
       message: building.message,
-      buildingData: building.data,
+      buildingDetails: building.data,
     });
   } catch (error) {
     errorHandler(error, res, next);
@@ -23,7 +23,7 @@ const getAllBuildings = async (req, res, next) => {
 
     return res.status(buildings.statusCode).json({
       message: buildings.message,
-      buildingData: buildings.data,
+      buildingDetails: buildings.data,
       count: buildings.count,
     });
   } catch (error) {
@@ -39,7 +39,7 @@ const updateBuilding = async (req, res, next) => {
 
     return res.status(200).json({
       message: building.message,
-      buildingData: building.data,
+      buildingDetails: building.data,
     });
   } catch (error) {
     errorHandler(error, res, next);
