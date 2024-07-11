@@ -10,7 +10,7 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       Assessment_Item.belongsTo(models.Building, {
-        foreignKey: "Buildings",
+        foreignKey: "building_id",
         targetKey: "id",
       });
       Assessment_Item.belongsTo(models.Size_range, {

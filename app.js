@@ -16,7 +16,7 @@ const functionRoute = require("./routes/function.route");
 const buildingRoute = require("./routes/building.route");
 const sizeRangeRoute = require("./routes/sizerange.route");
 const assessmentRoute = require("./routes/assessment.route");
-// const billingRoute = require("./routes/bill.route");
+const billingRoute = require("./routes/bill.route");
 
 const app = express();
 const PORT = process.env.PORT || 4000;
@@ -46,7 +46,7 @@ app.use("/api/v1/functions", functionRoute);
 app.use("/api/v1/buildings", buildingRoute);
 app.use("/api/v1/sizeranges", sizeRangeRoute);
 app.use("/api/v1/assessments", assessmentRoute);
-// app.use("/api/v1/billings", billingRoute);
+app.use("/api/v1/billings", billingRoute);
 
 app.use(globalErrorHandler);
 
