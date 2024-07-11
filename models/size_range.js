@@ -1,7 +1,7 @@
 "use strict";
 const { Model } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
-  class Purpose extends Model {
+  class Size_range extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -11,16 +11,17 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
     }
   }
-  Purpose.init(
+  Size_range.init(
     {
-      purpose: DataTypes.STRING,
+      min_size: DataTypes.INTEGER,
+      max_size: DataTypes.INTEGER,
       rate: DataTypes.INTEGER,
     },
     {
       sequelize,
-      modelName: "Purpose",
+      modelName: "Size_range",
       timestamps: true,
     }
   );
-  return Purpose;
+  return Size_range;
 };

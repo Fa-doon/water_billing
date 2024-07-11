@@ -13,6 +13,10 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: "Buildings",
         targetKey: "id",
       });
+      Assessment_Item.belongsTo(models.Size_range, {
+        foreignKey: "Size_ranges",
+        targetKey: "id",
+      });
     }
   }
   Assessment_Item.init(
@@ -21,6 +25,15 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.INTEGER,
         references: {
           model: "Buildings",
+          key: "id",
+        },
+        onUpdate: "CASCADE",
+        onDelete: "SET NULL",
+      },
+      sizerange_id: {
+        type: DataTypes.INTEGER,
+        references: {
+          model: "Size_ranges",
           key: "id",
         },
         onUpdate: "CASCADE",

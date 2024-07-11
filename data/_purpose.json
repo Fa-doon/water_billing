@@ -1,14 +1,18 @@
 [
   {
-    "purpose": "Residential"
+    "purpose": "Residential",
+    "rate": 10
   },
   {
-    "purpose": "Commercial"
+    "purpose": "Commercial",
+    "rate": 15
   },
   {
-    "purpose": "Mixed use"
+    "purpose": "Mixed use",
+    "rate": 15
   },
   {
-    "purpose": "Multipurpose"
+    "purpose": "Multipurpose",
+    "rate": 15
   }
 ]

@@ -14,7 +14,8 @@ module.exports = (sequelize, DataTypes) => {
     }
   }
   Function.init({
-    function: DataTypes.STRING
+    function: DataTypes.STRING,
+    rate: DataTypes.INTEGER
   }, {
     sequelize,
     modelName: 'Function',

@@ -1,29 +1,55 @@
 [
   {
-    "function": "Restaurant"
+    "function": "Restaurant",
+    "rate": 27
   },
   {
-    "function": "School"
+    "function": "School",
+    "rate": 23
   },
   {
-    "function": "Shopping Mall/Complex/Plaza"
+    "function": "Shopping Mall/Complex/Plaza",
+    "rate": 25
   },
   {
-    "function": "Office"
+    "function": "Office",
+    "rate": 20
   },
   {
-    "function": "Hotel"
+    "function": "Hotel",
+    "rate": 30
   },
   {
-    "function": "School/Institution"
+    "function": "Pharmaceuticals",
+    "rate": 23
   },
   {
-    "function": "Bank"
+    "function": "Bank",
+    "rate": 20
   },
   {
-    "function": "Petrol Filling Station"
+    "function": "Petrol Filling Station",
+    "rate": 26
   },
   {
-    "function": "Residential"
+    "function": "Warehouse",
+    "rate": 29
+  },
+  {
+    "function": "Library",
+    "rate": 23
+  },
+  {
+    "function": "Factory",
+    "rate": 30
+  },
+  {
+    "function": "Gym/Fitness Center",
+    "rate": 26
+  },
+  {
+    "function": "Residential",
+    "rate": 10
   }
+
 ]
