@@ -14,7 +14,7 @@ module.exports = (sequelize, DataTypes) => {
         targetKey: "id",
       });
       Assessment_Item.belongsTo(models.Size_range, {
-        foreignKey: "Size_ranges",
+        foreignKey: "sizerange_id",
         targetKey: "id",
       });
     }
