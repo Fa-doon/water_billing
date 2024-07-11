@@ -67,6 +67,30 @@ const newAssessment = async (assessmentDetails) => {
   }
 };
 
+const getAllAssessmentItems = async () => {
+  try {
+    const assessments = await Assessment_Item.findAll();
+
+    if (assessments.length === 0) {
+      return {
+        message: "No assessment found",
+        data: [],
+        statusCode: 200,
+      };
+    }
+
+    return {
+      message: "Assessments retrieved successfully",
+      data: assessments,
+      statusCode: 200,
+    };
+  } catch (error) {
+    console.log("An error occured", error);
+    throw error;
+  }
+};
+
 module.exports = {
   newAssessment,
+  getAllAssessmentItems,
 };
