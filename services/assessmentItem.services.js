@@ -50,7 +50,7 @@ const newAssessment = async (assessmentDetails) => {
 
     const assessmentItem = await Assessment_Item.create({
       building_id,
-      size_range_id: sizerange.id,
+      sizerange_id: sizerange.id,
       meter_reading,
       meter_id,
       rate,
@@ -66,7 +66,6 @@ const newAssessment = async (assessmentDetails) => {
     throw error;
   }
 };
-
 
 module.exports = {
   newAssessment,
