@@ -52,7 +52,7 @@ const getAllTaxpayers = async () => {
         { model: State, attributes: ["state"] },
         { model: Lga, attributes: ["lga"] },
         { model: Town, attributes: ["town"] },
-      ],
+      ], 
     });
 
     if (taxpayers.length === 0) {

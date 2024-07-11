@@ -126,8 +126,31 @@ const updateBuilding = async (buildingId, updateDetails) => {
   }
 };
 
+const getBuildingByLgaId = async (lgaId) => {
+  try {
+    const buildings = await Building.findAll({
+      where: { lga_id: lgaId },
+      attributes: ["id", "name"],
+    });
+
+    if (buildings.length === 0) {
+      throw new CustomError(`No Buildings for LGA found with ID ${lgaId}`, 404);
+    }
+
+    return {
+      message: "Buildings retrieved successfully",
+      data: buildings,
+      statusCode: 200,
+    };
+  } catch (error) {
+    console.log("Error fetching buildings", error);
+    throw error;
+  }
+};
+
 module.exports = {
   createBuilding,
   getAllBuildings,
   updateBuilding,
+  getBuildingByLgaId,
 };

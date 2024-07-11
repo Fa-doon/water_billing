@@ -46,8 +46,23 @@ const updateBuilding = async (req, res, next) => {
   }
 };
 
+const getBuildingByLgaId = async (req, res, next) => {
+  try {
+    const lgaId = req.params.lgaId;
+    const buildings = await buildingServices.getBuildingByLgaId(lgaId);
+
+    return res.status(buildings.statusCode).json({
+      message: buildings.message,
+      buildingDetails: buildings.data,
+    });
+  } catch (error) {
+    errorHandler(error, res, next);
+  }
+};
+
 module.exports = {
   createBuilding,
   getAllBuildings,
   updateBuilding,
+  getBuildingByLgaId,
 };
