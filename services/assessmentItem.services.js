@@ -58,7 +58,10 @@ const newAssessment = async (assessmentDetails) => {
 
     return {
       message: "Assessment Item created successfully",
-      data: assessmentItem,
+      data: {
+        assessmentItem,
+        buildingName: building.name,
+      },
       statusCode: 200,
     };
   } catch (error) {
