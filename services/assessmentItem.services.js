@@ -93,7 +93,42 @@ const getAllAssessmentItems = async () => {
   }
 };
 
+const getAssessmentByBuildingId = async (buildingId) => {
+  try {
+    const building = await Building.findByPk(buildingId);
+
+    if (!building) {
+      throw new CustomError(
+        `Building with the ID ${buildingId} does not exist`,
+        404
+      );
+    }
+
+    const assessments = await Assessment_Item.findAll({
+      where: { building_id: buildingId },
+    });
+
+    if (assessments.length === 0) {
+      return {
+        message: "No assessments found for this building",
+        data: [],
+        statusCode: 200,
+      };
+    }
+
+    return {
+      message: "Assessments retrieved successfully",
+      data: assessments,
+      statusCode: 200,
+    };
+  } catch (error) {
+    console.log("An error occured", error);
+    throw error;
+  }
+};
+
 module.exports = {
   newAssessment,
   getAllAssessmentItems,
+  getAssessmentByBuildingId
 };

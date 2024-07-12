@@ -28,7 +28,25 @@ const getAllAssessmentItems = async (req, res, next) => {
   }
 };
 
+const getAssessmentByBuildingId = async (req, res, next) => {
+  try {
+    const buildingId = req.params.buildingId;
+
+    const assessments = await assessmentService.getAssessmentByBuildingId(
+      buildingId
+    );
+
+    return res.status(assessments.statusCode).json({
+      message: assessments.message,
+      details: assessments.data,
+    });
+  } catch (error) {
+    errorHandler(error, res, next);
+  }
+};
+
 module.exports = {
   createNewAssessment,
-  getAllAssessmentItems
+  getAllAssessmentItems,
+  getAssessmentByBuildingId,
 };
