@@ -8,18 +8,22 @@ const generateBill = async (billData) => {
 
     const building = await Building.findByPk(billData.building_id);
     console.log(building);
-    
+
     if (!building) {
       throw new CustomError(`Building does not exist`, 404);
     }
 
     const assessmentItem = await Assessment_Item.findOne({
-      where: { id: billData.assessment_item_id, building_id: billData.building_id },
+      where: {
+        id: billData.assessment_item_id,
+        building_id: billData.building_id,
+      },
     });
 
     if (!assessmentItem) {
       throw new CustomError(
-        `Assessment with ID ${billData.assessment_item_id} is not linked to building with ID ${billData.building_id}`
+        `Assessment with ID ${billData.assessment_item_id} is not linked to building with ID ${billData.building_id}`,
+        404
       );
     }
 
@@ -48,6 +52,30 @@ const generateBill = async (billData) => {
   }
 };
 
+const getAllBillings = async () => {
+  try {
+    const billings = await Billing.findAll();
+
+    if (billings.length === 0) {
+      return {
+        message: "No billings found",
+        data: [],
+        statusCode: 200,
+      };
+    }
+
+    return {
+      message: "Billings retrieved successfully",
+      data: billings,
+      statusCode: 200,
+    };
+  } catch (error) {
+    console.log("An error occcured", error);
+    throw error;
+  }
+};
+
 module.exports = {
   generateBill,
+  getAllBillings,
 };

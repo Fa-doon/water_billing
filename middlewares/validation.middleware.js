@@ -1,4 +1,4 @@
-const Joi = require("joi");
+const Joi = require("joi").extend(require("@joi/date"));
 
 const validateTaxpayer = async (req, res, next) => {
   try {
@@ -138,7 +138,85 @@ const validateBuilding = async (req, res, next) => {
   }
 };
 
+const validateAssessment = async (req, res, next) => {
+  try {
+    const assessment = req.body;
+    const assessmentSchema = Joi.object({
+      building_id: Joi.number().integer().required().messages({
+        "number.base": "Invalid type, building_id must be a number",
+        "any.required": "building_id is required",
+      }),
+      sizerange_id: Joi.number().integer().messages({
+        "number.base": "Invalid type, sizerange_id must be a number",
+      }),
+      meter_reading: Joi.number().integer().messages({
+        "number.base": "Invalid type, meter reading must be a number",
+      }),
+      meter_id: Joi.string().messages({
+        "string.base": "Invalid type, please provide a valid string",
+      }),
+    });
+
+    const valid = await assessmentSchema.validateAsync(assessment, {
+      abortEarly: true,
+    });
+
+    if (valid.error) {
+      const errorMessages = valid.error.details.map((error) => error.message);
+      return res.status(422).json({
+        message: errorMessages,
+        success: false,
+      });
+    }
+    next();
+  } catch (error) {
+    return res.status(422).json({
+      message: error.message,
+      success: false,
+    });
+  }
+};
+
+const validateBilling = async (req, res, next) => {
+  try {
+    const billing = req.body;
+
+    const billingSchema = Joi.object({
+      building_id: Joi.number().integer().required().messages({
+        "number.base": "Invalid type, building_id must be a number",
+        "any.required": "building_id is required",
+      }),
+      assessment_item_id: Joi.number().integer().required().messages({
+        "number.base": "Invalid type, assessment_item_id must be a number",
+        "any.required": "assessment_item_id is required",
+      }),
+      from_date: Joi.date().format("YYYY-MM-DD").required(),
+      to_date: Joi.date().format("YYYY-MM-DD").required(),
+    });
+
+    const valid = await billingSchema.validateAsync(billing, {
+      abortEarly: true,
+    });
+
+    if (valid.error) {
+      const errorMessages = valid.error.details.map((error) => error.message);
+      return res.status(422).json({
+        message: errorMessages,
+        success: false,
+      });
+    }
+    next();
+  } catch (error) {
+    return res.status(422).json({
+      message: error.message,
+      success: false,
+    });
+  }
+};
+
 module.exports = {
   validateTaxpayer,
   validateBuilding,
+  validateAssessment,
+  validateBilling,
 };
