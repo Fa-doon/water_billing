@@ -192,6 +192,7 @@ const validateBilling = async (req, res, next) => {
       }),
       from_date: Joi.date().format("YYYY-MM-DD").required(),
       to_date: Joi.date().format("YYYY-MM-DD").required(),
+      status: Joi.string().valid("paid", "pending").default("pending"),
     });
 
     const valid = await billingSchema.validateAsync(billing, {
