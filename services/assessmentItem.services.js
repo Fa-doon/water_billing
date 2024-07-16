@@ -72,7 +72,12 @@ const newAssessment = async (assessmentDetails) => {
 
 const getAllAssessmentItems = async () => {
   try {
-    const assessments = await Assessment_Item.findAll();
+    const assessments = await Assessment_Item.findAll({
+      include: {
+        model: Building,
+        attributes: ["name"],
+      },
+    });
 
     if (assessments.length === 0) {
       return {
@@ -130,5 +135,5 @@ const getAssessmentByBuildingId = async (buildingId) => {
 module.exports = {
   newAssessment,
   getAllAssessmentItems,
-  getAssessmentByBuildingId
+  getAssessmentByBuildingId,
 };

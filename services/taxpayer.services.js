@@ -63,13 +63,10 @@ const getAllTaxpayers = async () => {
       };
     }
 
-    const taxpayerCount = await Taxpayer.count();
-
     return {
       message: "Taxpayers retrieved successfully",
       data: taxpayers,
       statusCode: 200,
-      count: taxpayerCount,
     };
   } catch (error) {
     throw error;

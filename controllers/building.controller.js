@@ -4,7 +4,6 @@ const { errorHandler } = require("../middlewares/error.middleware");
 const createBuilding = async (req, res, next) => {
   try {
     const buildingData = req.body;
-    console.log("Hello");
 
     const building = await buildingServices.createBuilding(buildingData);
 
@@ -24,7 +23,6 @@ const getAllBuildings = async (req, res, next) => {
     return res.status(buildings.statusCode).json({
       message: buildings.message,
       buildingDetails: buildings.data,
-      count: buildings.count,
     });
   } catch (error) {
     errorHandler(error, res, next);

@@ -54,7 +54,12 @@ const generateBill = async (billData) => {
 
 const getAllBillings = async () => {
   try {
-    const billings = await Billing.findAll();
+    const billings = await Billing.findAll({
+      include: {
+        model: Building,
+        attributes: ["name"],
+      },
+    });
 
     if (billings.length === 0) {
       return {

@@ -17,6 +17,7 @@ const buildingRoute = require("./routes/building.route");
 const sizeRangeRoute = require("./routes/sizerange.route");
 const assessmentRoute = require("./routes/assessment.route");
 const billingRoute = require("./routes/bill.route");
+const countRoute = require("./routes/count.route")
 
 const app = express();
 const PORT = process.env.PORT || 4000;
@@ -28,7 +29,7 @@ connectToDB();
 app.use(
   cors({
     origin: "*",
-    methods: ["GET", "POST", "PUT", "DELETE"],
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
   })
 );
 app.use(express.json());
@@ -47,6 +48,7 @@ app.use("/api/v1/buildings", buildingRoute);
 app.use("/api/v1/sizeranges", sizeRangeRoute);
 app.use("/api/v1/assessments", assessmentRoute);
 app.use("/api/v1/billings", billingRoute);
+app.use("/api/v1/counts", countRoute)
 
 app.use(globalErrorHandler);
 

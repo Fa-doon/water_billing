@@ -93,13 +93,10 @@ const getAllBuildings = async () => {
       };
     }
 
-    const buildingCount = await Building.count();
-
     return {
       message: "Buildings retrieved successfully",
       data: buildings,
       statusCode: 200,
-      count: buildingCount,
     };
   } catch (error) {
     console.log("An error occured", error);

@@ -22,7 +22,6 @@ const getAllTaxpayers = async (req, res, next) => {
     return res.status(taxpayers.statusCode).json({
       message: taxpayers.message,
       taxpayersDetails: taxpayers.data,
-      count: taxpayers.count,
     });
   } catch (error) {
     errorHandler(error, res, next);
