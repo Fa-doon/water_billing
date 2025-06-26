@@ -123,6 +123,32 @@ const updateBuilding = async (buildingId, updateDetails) => {
   }
 };
 
+const deleteBuilding = async (buildingId) => {
+  const t = await sequelize.transaction();
+  try {
+    const building = await Building.findByPk(buildingId, { transaction: t });
+    if (!building) {
+      throw new CustomError(`Building with the ID ${buildingId} not found`, 404);
+    }
+
+    await Billing.destroy({ where: { building_id: buildingId }, transaction: t });
+    await Assessment_Item.destroy({ where: { building_id: buildingId }, transaction: t });
+    await building.destroy({ transaction: t });
+
+    await t.commit();
+
+    return {
+      message: "Building deleted successfully",
+      statusCode: 200,
+    }
+  } catch (error) {
+    await t.rollback();
+    console.error("Error deleting building and related records", error);
+    throw error;
+  }
+};
+
+
 const getBuildingByLgaId = async (lgaId) => {
   try {
     const buildings = await Building.findAll({
@@ -149,5 +175,6 @@ module.exports = {
   createBuilding,
   getAllBuildings,
   updateBuilding,
+  deleteBuilding,
   getBuildingByLgaId,
 };

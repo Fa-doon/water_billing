@@ -44,6 +44,19 @@ const updateBuilding = async (req, res, next) => {
   }
 };
 
+const deleteBuilding = async (req, res, next) => {
+  try {
+    const id = req.params.id;
+    const building = await buildingServices.deleteBuilding(id, updateDetails);
+
+    return res.status(200).json({
+      message: building.message
+    });
+  } catch (error) {
+    errorHandler(error, res, next);
+  }
+};
+
 const getBuildingByLgaId = async (req, res, next) => {
   try {
     const lgaId = req.params.lgaId;
@@ -62,5 +75,6 @@ module.exports = {
   createBuilding,
   getAllBuildings,
   updateBuilding,
+  deleteBuilding,
   getBuildingByLgaId,
 };
