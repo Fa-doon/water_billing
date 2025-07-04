@@ -6,6 +6,8 @@ const {
   State,
   Lga,
   Town,
+  Assessment_Item,
+  Billing
 } = require("../models");
 const { CustomError } = require("../utils/customError");
 
@@ -124,7 +126,7 @@ const updateBuilding = async (buildingId, updateDetails) => {
 };
 
 const deleteBuilding = async (buildingId) => {
-  const t = await sequelize.transaction();
+  const t = await Building.sequelize.transaction();
   try {
     const building = await Building.findByPk(buildingId, { transaction: t });
     if (!building) {

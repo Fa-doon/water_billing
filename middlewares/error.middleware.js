@@ -12,6 +12,7 @@ const globalErrorHandler = async (err, req, res, next) => {
   res.status(statusCode).json({
     message,
   });
+  console.log('error', err)
 };
 
 const errorHandler = (error, res, next) => {

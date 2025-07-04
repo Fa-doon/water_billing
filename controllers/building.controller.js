@@ -47,7 +47,7 @@ const updateBuilding = async (req, res, next) => {
 const deleteBuilding = async (req, res, next) => {
   try {
     const id = req.params.id;
-    const building = await buildingServices.deleteBuilding(id, updateDetails);
+    const building = await buildingServices.deleteBuilding(id);
 
     return res.status(200).json({
       message: building.message
